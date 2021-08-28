@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="starwarsmod"
+version="1.0.0"
+displayName="Jed's Star Wars Mod"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="vG iJedi"
+
+[[dependencies.starwarsmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

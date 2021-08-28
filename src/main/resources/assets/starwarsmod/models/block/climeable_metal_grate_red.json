@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/climeablemetalgrateverticalred",
+  "textures": {
+    "all": "starwarsmod:blocks/metalgrateverticalred",
+    "particle": "starwarsmod:blocks/metalgrateverticalred",
+    "2": "starwarsmod:blocks/metalgrateverticalred"
+  }
+}

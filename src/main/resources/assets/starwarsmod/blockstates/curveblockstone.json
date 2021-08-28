@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/curveblockstone"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/curveblockstone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/curveblockstone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/curveblockstone",
+      "y": 270
+    }
+  }
+}

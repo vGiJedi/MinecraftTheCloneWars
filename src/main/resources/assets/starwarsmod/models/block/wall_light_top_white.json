@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/walllighttopwhite",
+  "textures": {
+    "all": "starwarsmod:blocks/stone_slab_top",
+    "particle": "starwarsmod:blocks/stone_slab_top",
+    "1": "starwarsmod:blocks/walllighttopwhite"
+  }
+}

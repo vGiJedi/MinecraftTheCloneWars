@@ -1,0 +1,1 @@
+/effect @e[r=5] minecraft:regeneration 10 0

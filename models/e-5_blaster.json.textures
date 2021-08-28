@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "e-5_blaster"
+      },
+      "name": "default"
+    }
+  }
+}

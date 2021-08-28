@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/clone_trooper_helmet_prop"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/clone_trooper_helmet_prop",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/clone_trooper_helmet_prop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/clone_trooper_helmet_prop",
+      "y": 270
+    }
+  }
+}

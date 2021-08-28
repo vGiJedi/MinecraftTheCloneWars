@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "maulssaber",
+    "customModelName": "maulslightsaber2:default",
+    "name": "Mauls Lightsaber",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:StarWarsWeapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.5,
+    "enchantability": 1,
+    "damageVsEntity": 15.0,
+    "usageCount": 100000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "MaulsLightSaberToolInHandTick"
+    },
+    "onEntitySwing": {
+      "name": "MaulsLightSaberEntitySwingsItem"
+    }
+  }
+}

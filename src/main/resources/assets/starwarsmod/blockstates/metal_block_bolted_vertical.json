@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/metal_block_bolted_vertical"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/metal_block_bolted_vertical",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/metal_block_bolted_vertical",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/metal_block_bolted_vertical",
+      "y": 270
+    }
+  }
+}

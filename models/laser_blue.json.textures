@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "magenta_stained_glass": "laserblue"
+      },
+      "name": "default"
+    }
+  }
+}

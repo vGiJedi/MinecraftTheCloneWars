@@ -1,0 +1,7291 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "WallLightMidTop",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_light_mid_top"
+    },
+    {
+      "name": "WallLightMidBottom",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_light_mid_bottom"
+    },
+    {
+      "name": "WallLightTopWhite",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_light_top_white"
+    },
+    {
+      "name": "WallLightBottomWhite",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_light_bottom_white"
+    },
+    {
+      "name": "Walltop",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "walltop"
+    },
+    {
+      "name": "WallBottom",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_bottom"
+    },
+    {
+      "name": "CeilingLightA",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ceiling_light_a"
+    },
+    {
+      "name": "HallWayFloor",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hall_way_floor"
+    },
+    {
+      "name": "WallBottomDetailMid",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_bottom_detail_mid"
+    },
+    {
+      "name": "WallDetailMid",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_detail_mid"
+    },
+    {
+      "name": "WallTopDetailMid",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_top_detail_mid"
+    },
+    {
+      "name": "BrigFloor",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brig_floor"
+    },
+    {
+      "name": "WallLightYellow",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_light_yellow"
+    },
+    {
+      "name": "WallLightAlternative",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_light_alternative"
+    },
+    {
+      "name": "HyperdriveroomWallLights",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hyperdriveroom_wall_lights"
+    },
+    {
+      "name": "CircularWallColumn",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "circular_wall_column"
+    },
+    {
+      "name": "Doorlight",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doorlight"
+    },
+    {
+      "name": "Doorlighttop",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doorlighttop"
+    },
+    {
+      "name": "CeilingLightGoesAboveWallLight",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ceiling_light_goes_above_wall_light"
+    },
+    {
+      "name": "DoorLightMid",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "door_light_mid"
+    },
+    {
+      "name": "BlastDoorButton",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_button"
+    },
+    {
+      "name": "DC15",
+      "type": "rangeditem",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_1_5"
+    },
+    {
+      "name": "DC15C",
+      "type": "rangeditem",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_1_5_c"
+    },
+    {
+      "name": "DC15RangedItemUsed",
+      "type": "procedure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_1_5_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DC15CRangedItemUsed",
+      "type": "procedure",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_1_5_c_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Z6RotaryCannon",
+      "type": "rangeditem",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "z_6_rotary_cannon"
+    },
+    {
+      "name": "ConsoleTop",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "console_top"
+    },
+    {
+      "name": "Console",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "console"
+    },
+    {
+      "name": "Chair",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chair"
+    },
+    {
+      "name": "ComConsoleTop",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "com_console_top"
+    },
+    {
+      "name": "ComConsole",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "com_console"
+    },
+    {
+      "name": "ConsoleCorner",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "console_corner"
+    },
+    {
+      "name": "ComConsoleTopCorner1",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "com_console_top_corner_1"
+    },
+    {
+      "name": "GreyPlate",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grey_plate"
+    },
+    {
+      "name": "ComConsoleDisplay",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "com_console_display"
+    },
+    {
+      "name": "Girder",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "girder"
+    },
+    {
+      "name": "GirderHorizontal",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "girder_horizontal"
+    },
+    {
+      "name": "ConsoleMid",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "console_mid"
+    },
+    {
+      "name": "SlopeStone",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slope_stone"
+    },
+    {
+      "name": "SlopeSmoothStone",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slope_smooth_stone"
+    },
+    {
+      "name": "SlopeStoneUpper",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slope_stone_upper"
+    },
+    {
+      "name": "SlopeSmoothStoneUpper",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slope_smooth_stone_upper"
+    },
+    {
+      "name": "SlopeUpperStoneSlab",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slope_upper_stone_slab"
+    },
+    {
+      "name": "SlopeUpperSlabSmoothStone",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slope_upper_slab_smooth_stone"
+    },
+    {
+      "name": "MiniSlabStone",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mini_slab_stone"
+    },
+    {
+      "name": "MiniSlabSmoothStone",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mini_slab_smooth_stone"
+    },
+    {
+      "name": "Door",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "door"
+    },
+    {
+      "name": "DoorUpper",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "door_upper"
+    },
+    {
+      "name": "DoorLightDown",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "door_light_down"
+    },
+    {
+      "name": "FloorLight",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floor_light"
+    },
+    {
+      "name": "SlopeStoneUpperGlass",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slope_stone_upper_glass"
+    },
+    {
+      "name": "BridgeWindow",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_window"
+    },
+    {
+      "name": "BridgeWindowSlabSlope",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_window_slab_slope"
+    },
+    {
+      "name": "BridgeWindowSlab",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_window_slab"
+    },
+    {
+      "name": "SmoothStoneSlopeUpperGlass",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_stone_slope_upper_glass"
+    },
+    {
+      "name": "StoneSlopeGlassUpper",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_slope_glass_upper"
+    },
+    {
+      "name": "BridgeWindowBottom",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_window_bottom"
+    },
+    {
+      "name": "BridgeWindowTopEnd",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_window_top_end"
+    },
+    {
+      "name": "BridgeWindowEnd",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_window_end"
+    },
+    {
+      "name": "StonePhat",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_phat"
+    },
+    {
+      "name": "SlopeStoneDiagonal",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slope_stone_diagonal"
+    },
+    {
+      "name": "WallPanelQuartz",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_panel_quartz"
+    },
+    {
+      "name": "SlopeSmoothStoneDiagonal",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slope_smooth_stone_diagonal"
+    },
+    {
+      "name": "HangerLightLarge",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hanger_light_large"
+    },
+    {
+      "name": "HangerLightBlue",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hanger_light_blue"
+    },
+    {
+      "name": "ConsoleVariant1",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "console_variant_1"
+    },
+    {
+      "name": "Triangle2x1",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "triangle_2x_1"
+    },
+    {
+      "name": "Triangle2x1Up",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "triangle_2x_1_up"
+    },
+    {
+      "name": "Triangle2x1Down",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "triangle_2x_1_down"
+    },
+    {
+      "name": "BlueLight",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_light"
+    },
+    {
+      "name": "Barrel",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "barrel"
+    },
+    {
+      "name": "BarrelEnd",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "barrel_end"
+    },
+    {
+      "name": "StarWarsBlocks",
+      "type": "tab",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_wars_blocks"
+    },
+    {
+      "name": "StarWarsWeapons",
+      "type": "tab",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_wars_weapons"
+    },
+    {
+      "name": "BlastDoors",
+      "type": "tab",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_doors"
+    },
+    {
+      "name": "StarWarsLights",
+      "type": "tab",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_wars_lights"
+    },
+    {
+      "name": "StarWarsDoors",
+      "type": "tab",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_wars_doors"
+    },
+    {
+      "name": "StarWarsMisc",
+      "type": "tab",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_wars_misc"
+    },
+    {
+      "name": "StarWarsWindows",
+      "type": "tab",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_wars_windows"
+    },
+    {
+      "name": "LockerBottom",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "locker_bottom"
+    },
+    {
+      "name": "LockerTop",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "locker_top"
+    },
+    {
+      "name": "DoorLightDownMid",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "door_light_down_mid"
+    },
+    {
+      "name": "MouseDroid",
+      "type": "livingentity",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mouse_droid"
+    },
+    {
+      "name": "StarWarsMobs",
+      "type": "tab",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_wars_mobs"
+    },
+    {
+      "name": "MobIcon",
+      "type": "item",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mob_icon"
+    },
+    {
+      "name": "GonkDroid",
+      "type": "livingentity",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gonk_droid"
+    },
+    {
+      "name": "GonkChest",
+      "type": "gui",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gonk_chest"
+    },
+    {
+      "name": "ViperProbeDroid",
+      "type": "livingentity",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "viper_probe_droid"
+    },
+    {
+      "name": "R2D2",
+      "type": "livingentity",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_2_d_2"
+    },
+    {
+      "name": "R2Inventory",
+      "type": "gui",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "r_2_inventory"
+    },
+    {
+      "name": "Goldie",
+      "type": "livingentity",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goldie"
+    },
+    {
+      "name": "MetalBlockBolted",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_block_bolted"
+    },
+    {
+      "name": "MetalBlockBoltedVertical",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_block_bolted_vertical"
+    },
+    {
+      "name": "CloneTrooper332nd",
+      "type": "livingentity",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_332nd"
+    },
+    {
+      "name": "BridgeWindowTest1",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_window_test_1"
+    },
+    {
+      "name": "BridgeWindowTest2",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_window_test_2"
+    },
+    {
+      "name": "ConsoleCornerMid",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "console_corner_mid"
+    },
+    {
+      "name": "ConsoleCornerTop",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "console_corner_top"
+    },
+    {
+      "name": "WallLightAlternativeMirrored",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_light_alternative_mirrored"
+    },
+    {
+      "name": "Curveblockstone",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "curveblockstone"
+    },
+    {
+      "name": "Curveblocksmoothstone",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "curveblocksmoothstone"
+    },
+    {
+      "name": "ElevatorBracket",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elevator_bracket"
+    },
+    {
+      "name": "SmallWallPannelStone",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_wall_pannel_stone"
+    },
+    {
+      "name": "SmallWallPannelSmoothStone",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_wall_pannel_smooth_stone"
+    },
+    {
+      "name": "RayShieldDiagonal",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ray_shield_diagonal"
+    },
+    {
+      "name": "Triangle2x1Straight",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "triangle_2x_1_straight"
+    },
+    {
+      "name": "EscapePodRingBottom",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "escape_pod_ring_bottom"
+    },
+    {
+      "name": "EscapePodRingTop",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "escape_pod_ring_top"
+    },
+    {
+      "name": "EscapePodRingTopMiddle",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "escape_pod_ring_top_middle"
+    },
+    {
+      "name": "EscapePodRingBottomMiddle",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "escape_pod_ring_bottom_middle"
+    },
+    {
+      "name": "EscapePodRingBottomClosed",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "escape_pod_ring_bottom_closed"
+    },
+    {
+      "name": "EscapePodRingTopClosed",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "escape_pod_ring_top_closed"
+    },
+    {
+      "name": "EscapePodRingTopMiddleClosed",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "escape_pod_ring_top_middle_closed"
+    },
+    {
+      "name": "EscapePodRingBottomMiddleClosed",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "escape_pod_ring_bottom_middle_closed"
+    },
+    {
+      "name": "EscapePodRingMiddle",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "escape_pod_ring_middle"
+    },
+    {
+      "name": "REDLED",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redled"
+    },
+    {
+      "name": "REDLEDLARGE",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redledlarge"
+    },
+    {
+      "name": "WHITELEDLARGE",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whiteledlarge"
+    },
+    {
+      "name": "HangerLightLargeStone",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hanger_light_large_stone"
+    },
+    {
+      "name": "AnakinSkywalker",
+      "type": "livingentity",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakin_skywalker"
+    },
+    {
+      "name": "ObiWanKenobi",
+      "type": "livingentity",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obi_wan_kenobi"
+    },
+    {
+      "name": "CloneWeapon",
+      "type": "procedure",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_weapon",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RedLight",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_light"
+    },
+    {
+      "name": "YellowLight",
+      "type": "block",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_light"
+    },
+    {
+      "name": "Triangle2x1StraightSmoothStone",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "triangle_2x_1_straight_smooth_stone"
+    },
+    {
+      "name": "Triangle2x1DownSmoothStone",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "triangle_2x_1_down_smooth_stone"
+    },
+    {
+      "name": "Triangle2x1SmoothStone",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "triangle_2x_1_smooth_stone"
+    },
+    {
+      "name": "Triangle2x1UpSmoothStone",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "triangle_2x_1_up_smooth_stone"
+    },
+    {
+      "name": "DualWieldDC17s",
+      "type": "rangeditem",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dual_wield_dc_17s"
+    },
+    {
+      "name": "DC17Mainhand",
+      "type": "rangeditem",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_mainhand"
+    },
+    {
+      "name": "DC17Offhand",
+      "type": "rangeditem",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_offhand"
+    },
+    {
+      "name": "GonkDroidEntityDies",
+      "type": "procedure",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gonk_droid_entity_dies",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WhiteLED",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_led"
+    },
+    {
+      "name": "REDLEDLARGEFLOOR",
+      "type": "block",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redledlargefloor"
+    },
+    {
+      "name": "WHITELEDLARGEFLOOR",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whiteledlargefloor"
+    },
+    {
+      "name": "WeaponIcon",
+      "type": "item",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weapon_icon"
+    },
+    {
+      "name": "MetalPipleLargeRed",
+      "type": "block",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_piple_large_red"
+    },
+    {
+      "name": "MetalPipesRed",
+      "type": "block",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_pipes_red"
+    },
+    {
+      "name": "MetalPipesRedAlternative",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_pipes_red_alternative"
+    },
+    {
+      "name": "MetalPipeLargeRedAlternative",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_pipe_large_red_alternative"
+    },
+    {
+      "name": "MetalPipesRedNoBracketAlternative",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_pipes_red_no_bracket_alternative"
+    },
+    {
+      "name": "MetalPipesRedNoBracket",
+      "type": "block",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_pipes_red_no_bracket"
+    },
+    {
+      "name": "SmallPipes",
+      "type": "block",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_pipes"
+    },
+    {
+      "name": "SmallPipesTop",
+      "type": "block",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_pipes_top"
+    },
+    {
+      "name": "SmallPipesBottom",
+      "type": "block",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_pipes_bottom"
+    },
+    {
+      "name": "MetalGrate",
+      "type": "block",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_grate"
+    },
+    {
+      "name": "ClimeableMetalGrateGrey",
+      "type": "block",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "climeable_metal_grate_grey"
+    },
+    {
+      "name": "ClimeableMetalGrateRed",
+      "type": "block",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "climeable_metal_grate_red"
+    },
+    {
+      "name": "DarkSaber",
+      "type": "tool",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_saber"
+    },
+    {
+      "name": "CloneTrooperCourscantGuard",
+      "type": "livingentity",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_courscant_guard"
+    },
+    {
+      "name": "Rex",
+      "type": "livingentity",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rex"
+    },
+    {
+      "name": "SuperBattleDroid",
+      "type": "livingentity",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_battle_droid"
+    },
+    {
+      "name": "SBDLaser",
+      "type": "item",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sbd_laser"
+    },
+    {
+      "name": "DarkSaberSwing",
+      "type": "procedure",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_saber_swing",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DarkSaberLoop",
+      "type": "procedure",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_saber_loop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BattleDroid",
+      "type": "livingentity",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battle_droid"
+    },
+    {
+      "name": "SuperBattleDroidWeapon",
+      "type": "rangeditem",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_battle_droid_weapon"
+    },
+    {
+      "name": "BattleDroidWeapon",
+      "type": "rangeditem",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battle_droid_weapon"
+    },
+    {
+      "name": "CloneTrooperWeapon",
+      "type": "rangeditem",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_weapon"
+    },
+    {
+      "name": "NavalOfficer",
+      "type": "livingentity",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naval_officer"
+    },
+    {
+      "name": "Cody",
+      "type": "livingentity",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cody"
+    },
+    {
+      "name": "MetalGrateRed",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_grate_red"
+    },
+    {
+      "name": "Scaffolding",
+      "type": "block",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scaffolding"
+    },
+    {
+      "name": "RedBeam",
+      "type": "block",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_beam"
+    },
+    {
+      "name": "RedBeamHorizontal",
+      "type": "block",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_beam_horizontal"
+    },
+    {
+      "name": "RedBeamJunction",
+      "type": "block",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_beam_junction"
+    },
+    {
+      "name": "RedBeamBottom",
+      "type": "block",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_beam_bottom"
+    },
+    {
+      "name": "RedBeamTop",
+      "type": "block",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_beam_top"
+    },
+    {
+      "name": "BarcMoving",
+      "type": "procedure",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "barc_moving",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VehicleIcon",
+      "type": "item",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vehicle_icon"
+    },
+    {
+      "name": "Vehicles",
+      "type": "tab",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vehicles"
+    },
+    {
+      "name": "GLASSStairs",
+      "type": "block",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glass_stairs"
+    },
+    {
+      "name": "GlassSlabs",
+      "type": "block",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glass_slabs"
+    },
+    {
+      "name": "RPS6RocketAmmunition",
+      "type": "item",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rps_6_rocket_ammunition"
+    },
+    {
+      "name": "RPS6BulletHitsBlock",
+      "type": "procedure",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rps_6_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RPS6USED",
+      "type": "procedure",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rps_6_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RPS6",
+      "type": "rangeditem",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rps_6"
+    },
+    {
+      "name": "CloneTrooper",
+      "type": "livingentity",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper"
+    },
+    {
+      "name": "CloneTrooperHeavy",
+      "type": "livingentity",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_heavy"
+    },
+    {
+      "name": "CloneTrooper501st",
+      "type": "livingentity",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_501st"
+    },
+    {
+      "name": "CloneTrooper212th",
+      "type": "livingentity",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_212th"
+    },
+    {
+      "name": "CloneRangefinder",
+      "type": "armor",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_rangefinder",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "CloneVisorStandard",
+      "type": "armor",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_visor_standard",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Valken38x",
+      "type": "rangeditem",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "valken_38x"
+    },
+    {
+      "name": "Valken38xRangedItem",
+      "type": "procedure",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "valken_38x_ranged_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloneTrooperSniper",
+      "type": "livingentity",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_sniper"
+    },
+    {
+      "name": "DC17Used",
+      "type": "procedure",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WallDetailedBottom",
+      "type": "block",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_detailed_bottom"
+    },
+    {
+      "name": "WallDetailedTop",
+      "type": "block",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_detailed_top"
+    },
+    {
+      "name": "ThermalDetonator",
+      "type": "rangeditem",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thermal_detonator"
+    },
+    {
+      "name": "ThermalDetonatorRangedItemUsed",
+      "type": "procedure",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thermal_detonator_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ThermalDetonatorExplosion",
+      "type": "procedure",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thermal_detonator_explosion",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StarWarsArmour",
+      "type": "tab",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "star_wars_armour"
+    },
+    {
+      "name": "ArmourIcon",
+      "type": "item",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armour_icon"
+    },
+    {
+      "name": "BlastDoorBottomMiddle",
+      "type": "block",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_bottom_middle"
+    },
+    {
+      "name": "BlastDoorBottom",
+      "type": "block",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_bottom"
+    },
+    {
+      "name": "BlastDoorMiddle",
+      "type": "block",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_middle"
+    },
+    {
+      "name": "BlastDoorTop",
+      "type": "block",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_top"
+    },
+    {
+      "name": "BlastDoorTopMiddle",
+      "type": "block",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_top_middle"
+    },
+    {
+      "name": "DC17M",
+      "type": "rangeditem",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_m"
+    },
+    {
+      "name": "DC17MRangedItemUsed",
+      "type": "procedure",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_m_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Z6RotaryCannonRangedItemUsed",
+      "type": "procedure",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "z_6_rotary_cannon_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DualWieldDC17sRangedItemUsed",
+      "type": "procedure",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dual_wield_dc_17s_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ProbeWeaponRepublic",
+      "type": "rangeditem",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "probe_weapon_republic"
+    },
+    {
+      "name": "CloneCommandoScorchThisEntityKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_scorch_this_entity_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloneCommandoScorchOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_scorch_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloneCommandoScorch",
+      "type": "livingentity",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_scorch"
+    },
+    {
+      "name": "CloneCommandoSev",
+      "type": "livingentity",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_sev"
+    },
+    {
+      "name": "CloneCommandoSevThisEntityKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_sev_this_entity_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloneCommandoSevOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_sev_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloneCommandoBoss",
+      "type": "livingentity",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_boss"
+    },
+    {
+      "name": "CloneCommandoBossThisEntityKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_boss_this_entity_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloneCommandoBossOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_boss_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloneCommandoFixer",
+      "type": "livingentity",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_fixer"
+    },
+    {
+      "name": "CloneCommandoFixerThisEntityKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_fixer_this_entity_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloneCommandoFixerOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando_fixer_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CircularWallLightWhite",
+      "type": "block",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "circular_wall_light_white"
+    },
+    {
+      "name": "CircularWallLightRed",
+      "type": "block",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "circular_wall_light_red"
+    },
+    {
+      "name": "WallLightTopRed",
+      "type": "block",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_light_top_red"
+    },
+    {
+      "name": "WallLightBottomRed",
+      "type": "block",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_light_bottom_red"
+    },
+    {
+      "name": "ArcTrooper",
+      "type": "livingentity",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arc_trooper"
+    },
+    {
+      "name": "CloneHelmetRangeFinder",
+      "type": "armor",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_helmet_range_finder",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "MaulsLightSaber",
+      "type": "tool",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mauls_light_saber"
+    },
+    {
+      "name": "DualDC17Used",
+      "type": "procedure",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dual_dc_17_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DC17MSNIPER",
+      "type": "rangeditem",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_msniper"
+    },
+    {
+      "name": "DC17MSNIPERRangedItemUsed",
+      "type": "procedure",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_msniper_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DC17MSniperMagazine",
+      "type": "item",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_m_sniper_magazine"
+    },
+    {
+      "name": "MaulsLightSaberEntitySwingsItem",
+      "type": "procedure",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mauls_light_saber_entity_swings_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MaulsLightSaberToolInHandTick",
+      "type": "procedure",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mauls_light_saber_tool_in_hand_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ObiwansLightsaber",
+      "type": "tool",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obiwans_lightsaber"
+    },
+    {
+      "name": "LightsaberHum",
+      "type": "procedure",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightsaber_hum",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LightsaberHit",
+      "type": "procedure",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightsaber_hit",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DC17MGRENADE",
+      "type": "rangeditem",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_mgrenade"
+    },
+    {
+      "name": "Dc17mgrenadeammo",
+      "type": "item",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17mgrenadeammo"
+    },
+    {
+      "name": "DC17MGRENADERangedItemUsed",
+      "type": "procedure",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_mgrenade_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DC17MGRENADEBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_17_mgrenade_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Anakinslightsaber",
+      "type": "tool",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anakinslightsaber"
+    },
+    {
+      "name": "Medicaldroid2",
+      "type": "livingentity",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medicaldroid_2"
+    },
+    {
+      "name": "DedlaniteOre",
+      "type": "block",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dedlanite_ore"
+    },
+    {
+      "name": "DedlaniteIngot",
+      "type": "item",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dedlanite_ingot"
+    },
+    {
+      "name": "DedlaniteOreSmelting",
+      "type": "recipe",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dedlanite_ore_smelting"
+    },
+    {
+      "name": "CodoanCopperIngot",
+      "type": "item",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "codoan_copper_ingot"
+    },
+    {
+      "name": "CodoanCopperOre",
+      "type": "block",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "codoan_copper_ore"
+    },
+    {
+      "name": "CodoanCopperOreSmelting",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "codoan_copper_ore_smelting"
+    },
+    {
+      "name": "BlasterComponentsItem",
+      "type": "item",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaster_components_item"
+    },
+    {
+      "name": "BlasterComponents",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaster_components"
+    },
+    {
+      "name": "BlueGasDust",
+      "type": "item",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_gas_dust"
+    },
+    {
+      "name": "BlueGasOre",
+      "type": "block",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_gas_ore"
+    },
+    {
+      "name": "BlueGasOreSmelting",
+      "type": "recipe",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_gas_ore_smelting"
+    },
+    {
+      "name": "BlueGasCannister",
+      "type": "item",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_gas_cannister"
+    },
+    {
+      "name": "DC15CCraftingRecipe",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dc_15_c_crafting_recipe"
+    },
+    {
+      "name": "Medicaldroid2OnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medicaldroid_2_on_entity_tick_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloneCommando",
+      "type": "livingentity",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_commando"
+    },
+    {
+      "name": "E5Blaster",
+      "type": "rangeditem",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_5_blaster"
+    },
+    {
+      "name": "E5BlasterRangedItemUsed",
+      "type": "procedure",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_5_blaster_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Backpack",
+      "type": "armor",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "backpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "ArcBackpack",
+      "type": "armor",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arc_backpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "BossBackpack",
+      "type": "armor",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boss_backpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "CommandoBackpack",
+      "type": "armor",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "commando_backpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "SevBackpack",
+      "type": "armor",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sev_backpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "ScorchBackpack",
+      "type": "armor",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scorch_backpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "FixersBackpack",
+      "type": "armor",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fixers_backpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "FixersAntenna",
+      "type": "armor",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fixers_antenna",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "E5CommandoBlaster",
+      "type": "rangeditem",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_5_commando_blaster"
+    },
+    {
+      "name": "E5CommandoBlasterRangedItemUsed",
+      "type": "procedure",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_5_commando_blaster_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ArcTrooperRangefinderandFin",
+      "type": "armor",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arc_trooper_rangefinderand_fin",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "CloneTrooperPhase2FinWhite",
+      "type": "armor",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_phase_2_fin_white",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Whitefinandmacroviso",
+      "type": "armor",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whitefinandmacroviso",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Whitefinandgrayvisor",
+      "type": "armor",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whitefinandgrayvisor",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "EWHB12",
+      "type": "livingentity",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ewhb_12"
+    },
+    {
+      "name": "Whitefinandrangefinder",
+      "type": "armor",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whitefinandrangefinder",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "CloneJetpackWhiteBodyTickEvent",
+      "type": "procedure",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_jetpack_white_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CloneJetpackWhite",
+      "type": "armor",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_jetpack_white",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "VaughnsHelmet",
+      "type": "armor",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vaughns_helmet",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "CaptainVaughn",
+      "type": "livingentity",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "captain_vaughn"
+    },
+    {
+      "name": "SpiderDroid",
+      "type": "livingentity",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_droid"
+    },
+    {
+      "name": "ComDisplayStandMiddle",
+      "type": "block",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "com_display_stand_middle"
+    },
+    {
+      "name": "ComDisplayStandEdge",
+      "type": "block",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "com_display_stand_edge"
+    },
+    {
+      "name": "SpiderDroidWeapon",
+      "type": "rangeditem",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_droid_weapon"
+    },
+    {
+      "name": "SuperBattleDroidJetTrooper",
+      "type": "livingentity",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_battle_droid_jet_trooper"
+    },
+    {
+      "name": "SuperBattleDroidJetTrooperOnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_battle_droid_jet_trooper_on_entity_tick_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BuzzDroidSwarm",
+      "type": "procedure",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "buzz_droid_swarm",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BuzzDroidGui",
+      "type": "gui",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "buzz_droid_gui"
+    },
+    {
+      "name": "Buzzdroid",
+      "type": "block",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "buzzdroid"
+    },
+    {
+      "name": "MaulsHorns",
+      "type": "armor",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mauls_horns",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "BuzzDroidMobOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "buzz_droid_mob_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BuzzDroidMob",
+      "type": "livingentity",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "buzz_droid_mob"
+    },
+    {
+      "name": "CloneJetpackLargeBlue",
+      "type": "armor",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_jetpack_large_blue",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "CloneJettrooper",
+      "type": "livingentity",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_jettrooper"
+    },
+    {
+      "name": "Viroblade",
+      "type": "tool",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "viroblade"
+    },
+    {
+      "name": "VirobladeSwingf",
+      "type": "procedure",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "viroblade_swingf",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VirobladeLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "viroblade_living_entity_is_hit_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CodysHelmet",
+      "type": "armor",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "codys_helmet",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "JetpackandAntenna",
+      "type": "armor",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jetpackand_antenna",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "CodysJetpack",
+      "type": "armor",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "codys_jetpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "VaughnsJetpack",
+      "type": "armor",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vaughns_jetpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "AmmoBag",
+      "type": "armor",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ammo_bag",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "AmmoBagAndBackpack",
+      "type": "armor",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ammo_bag_and_backpack",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "CloneTrooperHelmetProp",
+      "type": "block",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_helmet_prop"
+    },
+    {
+      "name": "CloneTrooperGrave",
+      "type": "block",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_grave"
+    },
+    {
+      "name": "CloneTrooperKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ArcTrooperKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arc_trooper_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SuperBattleDroidKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_battle_droid_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BattleDroidKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battle_droid_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NavalOfficerKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naval_officer_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Droideka",
+      "type": "livingentity",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "droideka"
+    },
+    {
+      "name": "DestroyerDroidLaser",
+      "type": "rangeditem",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "destroyer_droid_laser"
+    },
+    {
+      "name": "CommandoDroidKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "commando_droid_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CommandoDroid",
+      "type": "livingentity",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "commando_droid"
+    },
+    {
+      "name": "CommandoDroidEntityFalls",
+      "type": "procedure",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "commando_droid_entity_falls",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CommandoDroidSoldier",
+      "type": "livingentity",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "commando_droid_soldier"
+    },
+    {
+      "name": "ATRT",
+      "type": "livingentity",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "atrt"
+    },
+    {
+      "name": "ATRTRightClickedOnEntity",
+      "type": "procedure",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "atrt_right_clicked_on_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ATRTBlasterRangedItemUsed",
+      "type": "procedure",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "atrt_blaster_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ATRTBlaster",
+      "type": "rangeditem",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "atrt_blaster"
+    },
+    {
+      "name": "VehicleBlasterATRTOnKeyPressed",
+      "type": "procedure",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vehicle_blaster_atrt_on_key_pressed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VehicleBlasterATRT",
+      "type": "keybind",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vehicle_blaster_atrt"
+    },
+    {
+      "name": "ATRTRIDING",
+      "type": "procedure",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "atrtriding",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EWEBBlaster",
+      "type": "rangeditem",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eweb_blaster"
+    },
+    {
+      "name": "Ewebused",
+      "type": "procedure",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ewebused",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FlightTest7",
+      "type": "procedure",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_test_7",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RG4D",
+      "type": "rangeditem",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rg_4_d"
+    },
+    {
+      "name": "RG4DRangedItemUsed",
+      "type": "procedure",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rg_4_d_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PauldronLeftSide",
+      "type": "armor",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pauldron_left_side",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "PauldronLeftSideWithAmmoPouch",
+      "type": "armor",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pauldron_left_side_with_ammo_pouch",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "REXSPAULDRON",
+      "type": "armor",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rexspauldron",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "Pauldronbothwithammopouch",
+      "type": "armor",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pauldronbothwithammopouch",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "CourscantGuardPhase2Fin",
+      "type": "armor",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "courscant_guard_phase_2_fin",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "CloneTrooperPhase2332NDfIN",
+      "type": "armor",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_trooper_phase_2332_n_df_in",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "BluefinAndrangefinder",
+      "type": "armor",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bluefin_andrangefinder",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "FivesPauldron",
+      "type": "armor",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fives_pauldron",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "FIVES",
+      "type": "livingentity",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fives"
+    },
+    {
+      "name": "E5C",
+      "type": "rangeditem",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_5_c"
+    },
+    {
+      "name": "E5CRangedItemUsed",
+      "type": "procedure",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_5_c_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Clonetrooperwithrocket",
+      "type": "livingentity",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clonetrooperwithrocket"
+    },
+    {
+      "name": "BattleDroidCommander",
+      "type": "livingentity",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battle_droid_commander"
+    },
+    {
+      "name": "E5SRangedItemUsed",
+      "type": "procedure",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_5_s_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "E5S",
+      "type": "rangeditem",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_5_s"
+    },
+    {
+      "name": "GeonosianFlyer",
+      "type": "livingentity",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "geonosian_flyer"
+    },
+    {
+      "name": "GeonosianBlaster",
+      "type": "rangeditem",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "geonosian_blaster"
+    },
+    {
+      "name": "GeonosianBezerker",
+      "type": "livingentity",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "geonosian_bezerker"
+    },
+    {
+      "name": "LAATRailing",
+      "type": "block",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laat_railing"
+    },
+    {
+      "name": "ExplosiveShell",
+      "type": "block",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "explosive_shell"
+    },
+    {
+      "name": "ExplosiveShellRack",
+      "type": "block",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "explosive_shell_rack"
+    },
+    {
+      "name": "ClonePilotInSeat",
+      "type": "block",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_pilot_in_seat"
+    },
+    {
+      "name": "FlightSeat",
+      "type": "block",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flight_seat"
+    },
+    {
+      "name": "ExplosiveShellExplode",
+      "type": "procedure",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "explosive_shell_explode",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FlameThrower",
+      "type": "rangeditem",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flame_thrower"
+    },
+    {
+      "name": "FlameThrowerBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flame_thrower_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LR1KSonicCannon",
+      "type": "livingentity",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lr_1_k_sonic_cannon"
+    },
+    {
+      "name": "LR1KSonicCannonShot",
+      "type": "rangeditem",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lr_1_k_sonic_cannon_shot"
+    },
+    {
+      "name": "J10DualBlasterCannon",
+      "type": "livingentity",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "j_10_dual_blaster_cannon"
+    },
+    {
+      "name": "J10DualBlasterCannonShot",
+      "type": "rangeditem",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "j_10_dual_blaster_cannon_shot"
+    },
+    {
+      "name": "UndeadGeonosian",
+      "type": "livingentity",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "undead_geonosian"
+    },
+    {
+      "name": "Acklay",
+      "type": "livingentity",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acklay"
+    },
+    {
+      "name": "FlameThrowerWhileBulletFlyingTick",
+      "type": "procedure",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flame_thrower_while_bullet_flying_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BridgeDoorMidBottom",
+      "type": "block",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_door_mid_bottom"
+    },
+    {
+      "name": "BridgeDoorMidTop",
+      "type": "block",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_door_mid_top"
+    },
+    {
+      "name": "BridgeDoorSideBottom",
+      "type": "block",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_door_side_bottom"
+    },
+    {
+      "name": "BridgeDoorSideTop",
+      "type": "block",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_door_side_top"
+    },
+    {
+      "name": "BridgeDoorSideTest",
+      "type": "block",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bridge_door_side_test"
+    },
+    {
+      "name": "Lr57fire",
+      "type": "rangeditem",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lr_57fire"
+    },
+    {
+      "name": "LR57CombatDroid",
+      "type": "livingentity",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lr_57_combat_droid"
+    },
+    {
+      "name": "SenateCommandoPauldron",
+      "type": "armor",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "senate_commando_pauldron",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "SenateCommandoFin",
+      "type": "armor",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "senate_commando_fin",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "SenateCommandoCaptainFin",
+      "type": "armor",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "senate_commando_captain_fin",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "SenateCommando",
+      "type": "livingentity",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "senate_commando"
+    },
+    {
+      "name": "SenateCommandoCaptainPauldron",
+      "type": "armor",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "senate_commando_captain_pauldron",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "SenateCommandoCaptain",
+      "type": "livingentity",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "senate_commando_captain"
+    },
+    {
+      "name": "STAP",
+      "type": "livingentity",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stap"
+    },
+    {
+      "name": "VehicleWeaponHint",
+      "type": "procedure",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vehicle_weapon_hint",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StapFire",
+      "type": "rangeditem",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stap_fire"
+    },
+    {
+      "name": "AquaDroid",
+      "type": "livingentity",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aqua_droid"
+    },
+    {
+      "name": "AquaDroidWeapon",
+      "type": "rangeditem",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aqua_droid_weapon"
+    },
+    {
+      "name": "SiesmicCharge",
+      "type": "block",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "siesmic_charge"
+    },
+    {
+      "name": "SiesmicChargeExplosion",
+      "type": "procedure",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "siesmic_charge_explosion",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HoldingWeaponProcedure",
+      "type": "procedure",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holding_weapon_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "playerModel",
+            "type": "playerModel"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MagnaGuard",
+      "type": "livingentity",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magna_guard"
+    },
+    {
+      "name": "MagnaGuardThisEntityKillsAnotherOne",
+      "type": "procedure",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magna_guard_this_entity_kills_another_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MagnaGuardOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magna_guard_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MagnaguarweaponToolInHandTick",
+      "type": "procedure",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnaguarweapon_tool_in_hand_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Magnaguarweapon",
+      "type": "tool",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnaguarweapon"
+    },
+    {
+      "name": "MagnaguarweaponEntitySwingsItem",
+      "type": "procedure",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magnaguarweapon_entity_swings_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RepublicIcon",
+      "type": "item",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "republic_icon"
+    },
+    {
+      "name": "RepublicAI",
+      "type": "tab",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "republic_ai"
+    },
+    {
+      "name": "SepratistIcon",
+      "type": "item",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sepratist_icon"
+    },
+    {
+      "name": "SepratistAI",
+      "type": "tab",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sepratist_ai"
+    },
+    {
+      "name": "CloneReinforcedHelmet",
+      "type": "armor",
+      "sortid": 449,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_reinforced_helmet",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "HelmetFlashlight",
+      "type": "armor",
+      "sortid": 450,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "helmet_flashlight",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Heal",
+      "type": "function",
+      "sortid": 451,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heal"
+    },
+    {
+      "name": "BlastDoorBottomClosed",
+      "type": "block",
+      "sortid": 452,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_bottom_closed"
+    },
+    {
+      "name": "BlastDoorTopClosed",
+      "type": "block",
+      "sortid": 453,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_top_closed"
+    },
+    {
+      "name": "BlastDoorMiddleClosed",
+      "type": "block",
+      "sortid": 454,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_middle_closed"
+    },
+    {
+      "name": "BlastDoorBlock",
+      "type": "block",
+      "sortid": 455,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_block"
+    },
+    {
+      "name": "BlastDoorBottomMiddleClosed",
+      "type": "block",
+      "sortid": 456,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_bottom_middle_closed"
+    },
+    {
+      "name": "BlastDoorTopMiddleClosed",
+      "type": "block",
+      "sortid": 457,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blast_door_top_middle_closed"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "gonkgonk",
+      "files": [
+        "gonk"
+      ],
+      "category": "neutral"
+    },
+    {
+      "name": "gonkstep",
+      "files": [
+        "step_soun"
+      ],
+      "category": "neutral"
+    },
+    {
+      "name": "gonkwalk",
+      "files": [
+        "walking"
+      ],
+      "category": "neutral"
+    },
+    {
+      "name": "mousedeath",
+      "files": [
+        "death"
+      ],
+      "category": "neutral"
+    },
+    {
+      "name": "obiwandefeattheme",
+      "files": [
+        "obiwan_defeat_theme"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "anakindefeattheme",
+      "files": [
+        "anakin_defeat_theme"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "anakinspawntheme",
+      "files": [
+        "anakin_spawn_theme"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "obiwanspawntheme",
+      "files": [
+        "obiwan_spawn_theme"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "anakinhurt",
+      "files": [
+        "anakinhurt1",
+        "anakinhurt10",
+        "anakinhurt2",
+        "anakinhurt3",
+        "anakinhurt4",
+        "anakinhurt5",
+        "anakinhurt6",
+        "anakinhurt7",
+        "anakinhurt8",
+        "anakinhurt9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "anakaindefeat",
+      "files": [
+        "anakindefeat1",
+        "anakindefeat2",
+        "anakindefeat3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "obiwandefeat",
+      "files": [
+        "defeat1",
+        "defeat2",
+        "defeat3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "clonedeath",
+      "files": [
+        "death1",
+        "death2",
+        "death3",
+        "death4",
+        "death5",
+        "death6"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "obiwanhurt",
+      "files": [
+        "obihurt1",
+        "obihurt10",
+        "obihurt11",
+        "obihurt12",
+        "obihurt2",
+        "obihurt3",
+        "obihurt4",
+        "obihurt5",
+        "obihurt6",
+        "obihurt7",
+        "obihurt8",
+        "obihurt9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "clonetrooperfire",
+      "files": [
+        "cloneblaster1",
+        "cloneblaster2",
+        "cloneblaster3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "astromechliving",
+      "files": [
+        "astroliving1",
+        "astroliving2",
+        "astroliving3",
+        "astroliving4",
+        "astroliving5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "astromechhurt",
+      "files": [
+        "hurt"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "astromechdeath",
+      "files": [
+        "death"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "obiwanrightclick",
+      "files": [
+        "obiwanrightclick1",
+        "obiwanrightclick2",
+        "obiwanrightclick3",
+        "obiwanrightclick4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "ahsokahurt",
+      "files": [
+        "ahsokahurt1",
+        "ahsokahurt2",
+        "ahsokahurt3",
+        "ahsokahurt4",
+        "ahsokahurt5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "ahsokadefeat",
+      "files": [
+        "ahsokadefeat1",
+        "ahsokadefeat2",
+        "ahsokadefeat3",
+        "ahsokadefeat4",
+        "ahsokadefeat5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "darksaberswing1",
+      "files": [
+        "darksaberswing1"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "darksaberswing2",
+      "files": [
+        "darksaberswing2"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "darksaberswing3",
+      "files": [
+        "darksaberswing3"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "darksaberswing4",
+      "files": [
+        "darksaberswing4"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "darksaberswing5",
+      "files": [
+        "darksaberswing5"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "darksabrerhum",
+      "files": [
+        "darksaberidle"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "superbattledroidhurt",
+      "files": [
+        "superbattledroidhurt1",
+        "superbattledroidhurt10",
+        "superbattledroidhurt2",
+        "superbattledroidhurt3",
+        "superbattledroidhurt4",
+        "superbattledroidhurt5",
+        "superbattledroidhurt6",
+        "superbattledroidhurt7",
+        "superbattledroidhurt8",
+        "superbattledroidhurt9"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "superbattledroiddeath",
+      "files": [
+        "superbattledroiddeath1",
+        "superbattledroiddeath10",
+        "superbattledroiddeath2",
+        "superbattledroiddeath3",
+        "superbattledroiddeath4",
+        "superbattledroiddeath5",
+        "superbattledroiddeath6",
+        "superbattledroiddeath7",
+        "superbattledroiddeath8",
+        "superbattledroiddeath9"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "battledroidhurt",
+      "files": [
+        "battledroidhurt1",
+        "battledroidhurt10",
+        "battledroidhurt2",
+        "battledroidhurt3",
+        "battledroidhurt4",
+        "battledroidhurt5",
+        "battledroidhurt6",
+        "battledroidhurt7",
+        "battledroidhurt8",
+        "battledroidhurt9"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "battledroiddeath",
+      "files": [
+        "battledroiddeath1",
+        "battledroiddeath2",
+        "battledroiddeath3",
+        "battledroiddeath4",
+        "battledroiddeath5"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "battledroidfire",
+      "files": [
+        "battledroidfire1",
+        "battledroidfire2",
+        "battledroidfire3",
+        "battledroidfire4"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "superbattledroidfire",
+      "files": [
+        "sbdfire1",
+        "sbdfire2",
+        "sbdfire3",
+        "sbdfire4"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "clonehurt",
+      "files": [
+        "hurt1",
+        "hurt10",
+        "hurt2",
+        "hurt3",
+        "hurt4",
+        "hurt5",
+        "hurt6",
+        "hurt7",
+        "hurt8",
+        "hurt9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "battledroidstep",
+      "files": [
+        "battledroidstep1",
+        "battledroidstep2",
+        "battledroidstep3",
+        "battledroidstep4"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
+      "name": "barcidle",
+      "files": [
+        "vehicleactive"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "rps-6fire",
+      "files": [
+        "rps-6_fire"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "rps-6launche",
+      "files": [
+        "launcherfire"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "misslefire",
+      "files": [
+        "rockettravel"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "dc-15",
+      "files": [
+        "dc-15_fire_1",
+        "dc-15_fire_2",
+        "dc-15_fire_3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "dc-15c",
+      "files": [
+        "dc-15c_fire_1",
+        "dc-15c_fire_2",
+        "dc-15c_fire_3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "dc-17",
+      "files": [
+        "dc-17_fire_1",
+        "dc-17_fire_2",
+        "dc-17_fire_3",
+        "dc-17_fire_4",
+        "dc-17_fire_5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "e5_commando",
+      "files": [
+        "e-5_commando_fire_1",
+        "e-5_commando_fire_2",
+        "e-5_commando_fire_3",
+        "e-5_commando_fire_4",
+        "e-5_commando_fire_5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "probeidle",
+      "files": [
+        "probeidle1",
+        "probeidle2",
+        "probeidle3",
+        "probeidle4",
+        "probeidle5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "probefire",
+      "files": [
+        "probefire"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "scorchhurt",
+      "files": [
+        "scorch_hurt_1",
+        "scorch_hurt_2",
+        "scorch_hurt_3",
+        "scorch_hurt_4",
+        "scorch_hurt_5",
+        "scorch_hurt_6",
+        "scorch_hurt_7",
+        "scorch_hurt_8"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "scorchdeath",
+      "files": [
+        "scorch_death_1",
+        "scorch_death_2",
+        "scorch_death_3",
+        "scorch_death_4",
+        "scorch_death_5",
+        "scorch_death_6"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "scorchkillai",
+      "files": [
+        "scorch_kill_1",
+        "scorch_kill_10",
+        "scorch_kill_11",
+        "scorch_kill_2",
+        "scorch_kill_3",
+        "scorch_kill_4",
+        "scorch_kill_5",
+        "scorch_kill_6",
+        "scorch_kill_7",
+        "scorch_kill_8",
+        "scorch_kill_9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "scorchspawn",
+      "files": [
+        "scorch_spawn_1",
+        "scorch_spawn_2",
+        "scorch_spawn_3",
+        "scorch_spawn_4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "dc-17m",
+      "files": [
+        "dc-17m_fire_1",
+        "dc-17m_fire_2",
+        "dc-17m_fire_3",
+        "dc-17m_fire_4",
+        "dc-17m_fire_5"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "sevhurt",
+      "files": [
+        "sev_hurt_1",
+        "sev_hurt_2",
+        "sev_hurt_3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "sevdeath",
+      "files": [
+        "sev_death_1",
+        "sev_death_2",
+        "sev_death_3",
+        "sev_death_4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "sevspawn",
+      "files": [
+        "sev_spawn_1",
+        "sev_spawn_2"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "sevkillai",
+      "files": [
+        "sev_kill_1",
+        "sev_kill_2",
+        "sev_kill_3",
+        "sev_kill_4",
+        "sev_kill_5",
+        "sev_kill_6",
+        "sev_kill_7"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "bosshurt",
+      "files": [
+        "boss_hurt_1",
+        "boss_hurt_10",
+        "boss_hurt_2",
+        "boss_hurt_3",
+        "boss_hurt_4",
+        "boss_hurt_5",
+        "boss_hurt_6",
+        "boss_hurt_7",
+        "boss_hurt_8",
+        "boss_hurt_9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "bossdeath",
+      "files": [
+        "boss_death_1",
+        "boss_death_2",
+        "boss_death_3",
+        "boss_death_4",
+        "boss_death_5",
+        "boss_death_6",
+        "boss_death_7",
+        "boss_death_8",
+        "boss_death_9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "bossspawn",
+      "files": [
+        "boss_spawn"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "bosskillai",
+      "files": [
+        "boss_kill_1",
+        "boss_kill_2",
+        "boss_kill_3",
+        "boss_kill_4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "fixerhurt",
+      "files": [
+        "fixer_hurt_1",
+        "fixer_hurt_2",
+        "fixer_hurt_3",
+        "fixer_hurt_4",
+        "fixer_hurt_5",
+        "fixer_hurt_6",
+        "fixer_hurt_7",
+        "fixer_hurt_8",
+        "fixer_hurt_9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "fixerdeath",
+      "files": [
+        "fixer_death_1",
+        "fixer_death_2",
+        "fixer_death_3",
+        "fixer_death_4",
+        "fixer_death_5",
+        "fixer_death_6",
+        "fixer_death_7",
+        "fixer_death_8"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "fixerspawn",
+      "files": [
+        "fixer_spawn_1",
+        "fixer_spawn_2",
+        "fixer_spawn_3",
+        "fixer_spawn_4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "fixerkillai",
+      "files": [
+        "fixer_kill_1",
+        "fixer_kill_10",
+        "fixer_kill_2",
+        "fixer_kill_3",
+        "fixer_kill_4",
+        "fixer_kill_5",
+        "fixer_kill_6",
+        "fixer_kill_7",
+        "fixer_kill_8",
+        "fixer_kill_9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "mousedroididle",
+      "files": [
+        "mousedroidliving"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "dc15coverheat",
+      "files": [
+        "overheat"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "dc-17msniperfire",
+      "files": [
+        "dc-17m_sniper_fire"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "valken_38xfire",
+      "files": [
+        "valken_38x_fire_1",
+        "valken_38x_fire_2",
+        "valken_38x_fire_3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "maulswing1",
+      "files": [
+        "maulhit1"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "maulhit2",
+      "files": [
+        "maulhit2"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "maulhit3",
+      "files": [
+        "maulhit3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "maulhit4",
+      "files": [
+        "maulhit4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "maulhit5",
+      "files": [
+        "maulhit5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "maulhum",
+      "files": [
+        "maulhum"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "obiwanhum",
+      "files": [
+        "lightsaberhum"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "lightsaberhit1",
+      "files": [
+        "obiwanhit1"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "lightsaberhit2",
+      "files": [
+        "obiwanhit2"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "lightsaberhit3",
+      "files": [
+        "obiwanhit3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "lightsaberhit4",
+      "files": [
+        "obiwanhit4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "lightsaberhit5",
+      "files": [
+        "obiwanhit5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "dc17mgrenadefire",
+      "files": [
+        "dc17m_grenade_fire"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "e-5",
+      "files": [
+        "battledroidfire1",
+        "battledroidfire2",
+        "battledroidfire3",
+        "battledroidfire4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "dc17mreload",
+      "files": [
+        "dc17m_reload"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "spiderdroidfire",
+      "files": [
+        "spiderdroidfire1",
+        "spiderdroidfire2",
+        "spiderdroidfire3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "buzzdroididle",
+      "files": [
+        "buzzidle1",
+        "buzzidle2",
+        "buzzidle3",
+        "buzzidle4",
+        "buzzidle5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "buzzdroidspawn",
+      "files": [
+        "buzzspawn"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "vibrobladehit",
+      "files": [
+        "viroblade_hit"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "clonekillsai",
+      "files": [
+        "cloneuponkill1",
+        "cloneuponkill2",
+        "cloneuponkill3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "cloneofficerkillsai",
+      "files": [
+        "cloneofficeruponkill1",
+        "cloneofficeruponkill2",
+        "cloneofficeruponkill3",
+        "cloneofficeruponkill4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "arctrooperkillsai",
+      "files": [
+        "arctrooperuponkill1",
+        "arctrooperuponkill2",
+        "arctrooperuponkill3",
+        "arctrooperuponkill4",
+        "arctrooperuponkill5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "droidkillsai",
+      "files": [
+        "droiduponkill1",
+        "droiduponkill2",
+        "droiduponkill3",
+        "droiduponkill4",
+        "droiduponkill5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "commandodroidkillsai",
+      "files": [
+        "commandodroiduponkill1",
+        "commandodroiduponkill2",
+        "commandodroiduponkill3",
+        "commandodroiduponkill4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "superbattledroidkillsai",
+      "files": [
+        "superbattledroiduponkill1",
+        "superbattledroiduponkill2",
+        "superbattledroiduponkill3",
+        "superbattledroiduponkill4"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "destroyerdroidshoot",
+      "files": [
+        "destroyerdroidshoot1",
+        "destroyerdroidshoot2",
+        "destroyerdroidshoot3",
+        "destroyerdroidshoot4",
+        "destroyerdroidshoot5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "commandodroidhurt",
+      "files": [
+        "commandodroidhurt1",
+        "commandodroidhurt2",
+        "commandodroidhurt3",
+        "commandodroidhurt4",
+        "commandodroidhurt5",
+        "commandodroidhurt6"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "commandodroidjump",
+      "files": [
+        "commandodroidjump"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "atrtstep",
+      "files": [
+        "at-rt_step"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "atrtstartup",
+      "files": [
+        "at-rt_startup"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "atrtfire",
+      "files": [
+        "at-rtfire"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "atrtoverheat",
+      "files": [
+        "at-rt_overheat"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "ewebfire",
+      "files": [
+        "eweb_fire"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "eweboverheat",
+      "files": [
+        "eweb_overheat"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "atrtturnoff",
+      "files": [
+        "at-rt_turnoff"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "rg-4dfire",
+      "files": [
+        "rg-4dfire2"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "virobladeswing",
+      "files": [
+        "viroblade_swing"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "e5cfire",
+      "files": [
+        "e-5c_fire_1"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "e5sfire",
+      "files": [
+        "e-5sfire"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "geonosianblasterfire",
+      "files": [
+        "geonosianblasterfire"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "geonosianwingflap",
+      "files": [
+        "geonosianflap1",
+        "geonosianflap10",
+        "geonosianflap11",
+        "geonosianflap12",
+        "geonosianflap13",
+        "geonosianflap14",
+        "geonosianflap2",
+        "geonosianflap3",
+        "geonosianflap4",
+        "geonosianflap5",
+        "geonosianflap6",
+        "geonosianflap7",
+        "geonosianflap8",
+        "geonosianflap9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "geonosiandeath",
+      "files": [
+        "geonosiandeath1",
+        "geonosiandeath2"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "geonosianhurt",
+      "files": [
+        "geonosianhurt1",
+        "geonosianhurt2",
+        "geonosianhurt3",
+        "geonosianhurt4",
+        "geonosianhurt5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "geonosianliving",
+      "files": [
+        "geonosianidle1",
+        "geonosianidle2",
+        "geonosianidle3",
+        "geonosianidle4",
+        "geonosianidle5",
+        "geonosianidle6"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "j10fire",
+      "files": [
+        "j-10fire1"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "acklayscreech",
+      "files": [
+        "acklay_screech_1",
+        "acklay_screech_2"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "flamethroweron",
+      "files": [
+        "flamethroweron"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "lr57fire",
+      "files": [
+        "lr-57_fire"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "senatecommandohurt",
+      "files": [
+        "senatecommandohurt1",
+        "senatecommandohurt2",
+        "senatecommandohurt3",
+        "senatecommandohurt4",
+        "senatecommandohurt5"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "senatecommandodeath",
+      "files": [
+        "senatecommandodeath"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "stapfire",
+      "files": [
+        "stapfire1",
+        "stapfire2",
+        "stapfire3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "siesmicchargepreexplosion",
+      "files": [
+        "pre_explosion"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "siesmicgchargeexplosion",
+      "files": [
+        "siesmicchargeexplosion"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "seismicchargeexplosioncombined",
+      "files": [
+        "seismic_charge_explosion"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "magnaguarddeath",
+      "files": [
+        "magnaguarddeath1",
+        "magnaguarddeath2"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "magnaguardhurt",
+      "files": [
+        "magnaguardhurt1",
+        "magnaguardhurt10",
+        "magnaguardhurt11",
+        "magnaguardhurt12",
+        "magnaguardhurt13",
+        "magnaguardhurt14",
+        "magnaguardhurt15",
+        "magnaguardhurt16",
+        "magnaguardhurt2",
+        "magnaguardhurt3",
+        "magnaguardhurt4",
+        "magnaguardhurt5",
+        "magnaguardhurt6",
+        "magnaguardhurt7",
+        "magnaguardhurt8",
+        "magnaguardhurt9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "magnaguardspawn",
+      "files": [
+        "magnaguardspawn1",
+        "magnaguardspawn2",
+        "magnaguardspawn3"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "magnaguarduponkill",
+      "files": [
+        "magnaguarduponkill1",
+        "magnaguarduponkill2",
+        "magnaguarduponkill3",
+        "magnaguarduponkill4",
+        "magnaguarduponkill5",
+        "magnaguarduponkill6"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "electrostaffloop",
+      "files": [
+        "electrostaffloop"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "electrostaffswing",
+      "files": [
+        "electrostaffswing1",
+        "electrostaffswing10",
+        "electrostaffswing11",
+        "electrostaffswing2",
+        "electrostaffswing3",
+        "electrostaffswing4",
+        "electrostaffswing5",
+        "electrostaffswing6",
+        "electrostaffswing7",
+        "electrostaffswing8",
+        "electrostaffswing9"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabblast_doors": "Blast Doors",
+      "subtitles.clonedeath": "",
+      "block.starwarsmod.com_display_stand_edge": "Com Display Stand Edge",
+      "item.starwarsmod.ammo_bag_helmet": "Ammo Bag Helmet",
+      "block.starwarsmod.red_beam": "Red Beam",
+      "block.starwarsmod.slope_stone_upper_glass": "Slope Stone Upper Glass",
+      "item.starwarsmod.battle_droid_weapon": "Battle Droid Weapon",
+      "block.starwarsmod.door_light_down": "Door Light Down",
+      "item.starwarsmod.whitefinandmacroviso_helmet": "Whitefinandmacrovisor",
+      "block.starwarsmod.bridge_window_bottom": "Bridge Window Bottom",
+      "block.starwarsmod.wall_light_alternative": "Wall Light Alternative",
+      "item.starwarsmod.viroblade": "Viroblade",
+      "subtitles.dc-17": "",
+      "block.starwarsmod.grey_plate": "Grey Plate",
+      "subtitles.valken_38x": "",
+      "entity.starwarsmod.clone_commando_sev": "Clone Commando - Sev",
+      "block.java_test.wall_light_alternative_mirrored": "Wall Light Alternative",
+      "item.starwarsmod.mauls_horns_boots": "Mauls Horns Boots",
+      "block.starwarsmod.com_display_stand_middle": "Com Display Stand Middle",
+      "subtitles.fixerdeath": "",
+      "item.starwarsmod.clone_jetpack_white_helmet": "Clone Jetpack White Helmet",
+      "block.starwarsmod.locker_bottom": "Locker Bottom",
+      "item.starwarsmod.captain_vaughn_spawn_egg": "Captain Vaughn Spawn Egg",
+      "block.starwarsmod.door_upper": "Door Upper",
+      "item.starwarsmod.dark_saber": "Dark Saber",
+      "subtitles.dc-15": "",
+      "item.starwarsmod.droideka_spawn_egg": "Droideka Spawn Egg",
+      "block.starwarsmod.codoan_copper_ore": "CodoanCopper Ore",
+      "subtitles.dc17mgrenadefire": "",
+      "item.starwarsmod.viper_probe_droid_spawn_egg": "Republic Probe Droid Spawn Egg",
+      "block.starwarsmod.hanger_light_large_stone": "Hanger Light Large Stone",
+      "block.starwarsmod.metal_block_bolted_vertical": "Metal Block Bolted Vertical",
+      "block.java_test.bridge_window_slab": "Bridge Window Slab",
+      "itemGroup.tabstar_wars_blocks": "Star Wars Blocks",
+      "item.starwarsmod.whitefinandrangefinder_helmet": "White fin and rangefinder ",
+      "item.java_test.clone_trooper_332nd_spawn_egg": "Clone Trooper 332nd Spawn Egg",
+      "item.starwarsmod.helmet_flashlight_chestplate": "Helmet Flashlight Body",
+      "entity.starwarsmod.stap": "STAP",
+      "item.starwarsmod.fives_pauldron_leggings": "Pauldron Left Side Leggings",
+      "entity.starwarsmod.super_battle_droid_jet_trooper": "Super Battle Droid Jet Trooper",
+      "item.starwarsmod.armour_icon": "Armour Icon",
+      "block.java_test.blast_door_closed_stairs_upper": "Blast Door Closed Stairs Upper",
+      "item.starwarsmod.lr_57_combat_droid_spawn_egg": "LR-57 Combat Droid Spawn Egg",
+      "subtitles.fixerspawn": "",
+      "block.starwarsmod.com_console_display": "Com Console Display",
+      "item.starwarsmod.mauls_horns_helmet": "Mauls Horns ",
+      "entity.java_test.viper_probe_droid": "Viper Probe Droid",
+      "block.starwarsmod.explosive_shell_rack": "Proton Bomb Rack",
+      "item.java_test.z_6_rotary_cannon": "Z-6 Rotary Cannon",
+      "itemGroup.tabstar_wars_lights": "Star Wars Lights",
+      "item.starwarsmod.clone_visor_standard_chestplate": "Clone Rangefinder Body",
+      "subtitles.buzzdroidspawn": "",
+      "subtitles.clonekillai": "",
+      "subtitles.virobladeswing": "",
+      "item.starwarsmod.scorch_backpack_leggings": "Backpack Leggings",
+      "subtitles.battledroidhurt": "",
+      "subtitles.lightsaberhit5": "",
+      "item.starwarsmod.arc_trooper_rangefinderand_fin_chestplate": "Arc Trooper Rangefinderand Fin Body",
+      "item.starwarsmod.fives_spawn_egg": "Fives Spawn Egg",
+      "block.starwarsmod.blast_door_middle": "Blast Door Middle",
+      "item.starwarsmod.j_10_dual_blaster_cannon_shot": "J-10DualBlasterCannonShot",
+      "item.starwarsmod.fives_pauldron_chestplate": "fivespauldron",
+      "block.java_test.wall_emergency_light_top_red": "Wall Emergency Light Top Red",
+      "block.starwarsmod.glass_stairs": "Glass Stairs",
+      "block.java_test.wall_light_top_red": "Wall Light Top Red",
+      "block.starwarsmod.wall_light_mid_top": "Wall Light Mid Top",
+      "itemGroup.tabstar_wars_windows": "Star Wars Windows",
+      "item.starwarsmod.pauldronbothwithammopouch_leggings": "Pauldron Left Side Leggings",
+      "block.starwarsmod.metal_grate_red": "Metal Grate Red",
+      "subtitles.e-5": "",
+      "block.java_test.console_corner_mid": "Console Corner Mid",
+      "item.starwarsmod.anakin_skywalker_spawn_egg": "Anakin Skywalker Spawn Egg",
+      "item.starwarsmod.dc_1_5_c": "DC-15C",
+      "block.java_test.hanger_light_large_stone": "Hanger Light Large Stone",
+      "entity.starwarsmod.clone_commando_fixer": "Clone Commando - Fixer",
+      "item.starwarsmod.jetpackand_antenna_chestplate": "Jetpack and Antenna",
+      "block.starwarsmod.triangle_2x_1_up_smooth_stone": "Triangle 2x 1 Up  Smooth Stone",
+      "item.starwarsmod.whitefinandgrayvisor_boots": "Clone Rangefinder Boots",
+      "subtitles.lightsaberhit4": "",
+      "subtitles.lightsaberhit3": "",
+      "item.starwarsmod.probe_weapon_republic": "ProbeWeapon",
+      "item.starwarsmod.vehicle_icon": "WorkInProgress",
+      "subtitles.lightsaberhit2": "",
+      "subtitles.lightsaberhit1": "",
+      "item.starwarsmod.clone_reinforced_helmet_boots": "Clone Reinforced Helmet Boots",
+      "block.java_test.bridge_window_bottom": "Bridge Window Bottom",
+      "item.starwarsmod.fixers_backpack_leggings": "Backpack Leggings",
+      "itemGroup.tabvehicles": "Vehicles",
+      "item.starwarsmod.lr_1_k_sonic_cannon_spawn_egg": "LR1K Sonic Cannon Spawn Egg",
+      "block.starwarsmod.ceiling_light_goes_above_wall_light": "Ceiling Light Edge",
+      "subtitles.buzzdroididle": "",
+      "entity.starwarsmod.clone_trooper_332nd": "Clone Trooper 332nd",
+      "block.java_test.slope_smooth_stone": "Slope Smooth Stone",
+      "item.starwarsmod.dedlanite_ingot": "Dedlanite",
+      "block.java_test.wall_bottom_detail_mid": "Wall Bottom Detail Mid",
+      "item.starwarsmod.clonetrooperwithrocket_spawn_egg": "Clone Trooper Explosive Spawn Egg",
+      "item.starwarsmod.pauldronbothwithammopouch_boots": "Pauldron Left Side Boots",
+      "item.starwarsmod.courscant_guard_phase_2_fin_leggings": "Clone Trooper Phase 2 Fin White Leggings",
+      "block.starwarsmod.curveblockstone": "Curve Block Stone",
+      "block.java_test.console_variant_1": "Console Variant 1",
+      "block.starwarsmod.circular_wall_light_red": "Circular Wall Light Red",
+      "block.starwarsmod.chair": "Chair",
+      "item.starwarsmod.clone_rangefinder_helmet": "Clone Macro Visor",
+      "block.java_test.stone_phat": "Stone Phat",
+      "block.java_test.grey_plate": "Grey Plate",
+      "block.java_test.door_upper": "Door Upper",
+      "subtitles.droidkillsai": "",
+      "subtitles.rps-6launche": "",
+      "item.starwarsmod.stap_spawn_egg": "STAP Spawn Egg",
+      "item.starwarsmod.commando_backpack_boots": "Backpack Boots",
+      "item.starwarsmod.clone_visor_standard_boots": "Clone Rangefinder Boots",
+      "block.starwarsmod.wall_light_bottom_red": "Wall Light Bottom Red 1",
+      "block.starwarsmod.red_beam_horizontal": "Red Beam Horizontal",
+      "item.starwarsmod.clone_jetpack_white_chestplate": "Clone Jetpack White ",
+      "subtitles.bosskillai": "",
+      "block.starwarsmod.redledlargefloor": "RED LED Large Floor",
+      "block.starwarsmod.bridge_window_test_1": "Bridge Window Test 1",
+      "item.starwarsmod.destroyer_droid_laser": "Destroyer Droid Weapon",
+      "item.starwarsmod.arc_backpack_leggings": "Backpack Leggings",
+      "subtitles.geonosianblasterfire": "",
+      "block.java_test.small_wall_pannel_smooth_stone": "Small Wall Pannel Smooth Stone",
+      "item.starwarsmod.codys_jetpack_boots": "Clone Jetpack White Boots",
+      "item.starwarsmod.clone_visor_standard_leggings": "Clone Rangefinder Leggings",
+      "itemGroup.tabstar_wars_armour": "Accessories",
+      "item.starwarsmod.whitefinandrangefinder_leggings": "Whitefinandrangefinder Leggings",
+      "item.starwarsmod.senate_commando_captain_pauldron_helmet": "Senate Commando Pauldron Helmet",
+      "block.starwarsmod.climeable_metal_grate_red": "Climeable Metal Grate Red",
+      "subtitles.magnaguarduponkill": "",
+      "entity.starwarsmod.r_2_d_2": "R2D2",
+      "entity.starwarsmod.battle_droid_commander": "BattleDroid Officer",
+      "block.starwarsmod.bridge_window_end": "Bridge Window End",
+      "item.starwarsmod.clone_jetpack_large_blue_leggings": "Clone Jetpack White Leggings",
+      "block.starwarsmod.bridge_window_test_2": "Bridge Window Test 2",
+      "item.starwarsmod.scorch_backpack_chestplate": "Scorch\u0027s Backpack",
+      "block.java_test.blast_door_slab": "Blast Door Slab",
+      "item.starwarsmod.whitefinandrangefinder_chestplate": "Whitefinandrangefinder Body",
+      "block.starwarsmod.red_beam_junction": "Red Beam Junction",
+      "block.starwarsmod.door_light_mid": "Door Light Mid",
+      "item.starwarsmod.courscant_guard_phase_2_fin_chestplate": "Clone Trooper Phase 2 Fin White Body",
+      "item.starwarsmod.clone_commando_scorch_spawn_egg": "Clone Commando - Scorch Spawn Egg",
+      "subtitles.anakaindefeat": "",
+      "item.java_test.viper_probe_droid_spawn_egg": "Viper Probe Droid Spawn Egg",
+      "subtitles.spiderdroidfire": "",
+      "block.java_test.door_light_mid": "Door Light Mid",
+      "item.starwarsmod.clone_jetpack_large_blue_boots": "Clone Jetpack White Boots",
+      "item.starwarsmod.dc_1_5": "DC-15",
+      "item.starwarsmod.dc_17_m": "DC-17M",
+      "block.java_test.triangle_2x_1_straight": "Triangle 2x1 Straight Stone",
+      "entity.starwarsmod.clone_trooper": "Clone Trooper",
+      "block.java_test.bridge_window_test_2": "Bridge Window Test 2",
+      "block.java_test.bridge_window_test_1": "Bridge Window Test 1",
+      "block.starwarsmod.wall_light_yellow": "Wall Light Yellow",
+      "item.starwarsmod.backpack_leggings": "Backpack Leggings",
+      "block.starwarsmod.blast_door_top_closed": "Blast Door Top Closed",
+      "entity.starwarsmod.senate_commando": "Senate Commando",
+      "entity.java_test.clone_trooper_332nd": "Clone Trooper 332nd",
+      "subtitles.obiwandefeat": "",
+      "block.java_test.smooth_stone_slope_upper_glass": "Smooth Stone Slope Upper Glass",
+      "item.starwarsmod.spider_droid_weapon": "Spider Droid Weapon",
+      "item.starwarsmod.clone_trooper_weapon": "Clone Weapon",
+      "subtitles.anakindeath": "",
+      "entity.starwarsmod.arc_trooper": "Arc Trooper",
+      "item.starwarsmod.codys_helmet_helmet": "Cody Helmet",
+      "block.java_test.com_console": "Com Console",
+      "block.starwarsmod.scaffolding": "Scaffolding",
+      "entity.starwarsmod.rex": "Rex",
+      "subtitles.superbattledroidfire": "",
+      "block.java_test.bridge_window": "Bridge Window",
+      "item.starwarsmod.z_6_rotary_cannon": "Z-6 Rotary Cannon",
+      "item.starwarsmod.dc_17_mgrenade": "DC-17M - grenade variant",
+      "block.starwarsmod.escape_pod_ring_top_middle": "Escape Pod Ring Top Middle",
+      "block.starwarsmod.hanger_light_large": "Hanger Light Large",
+      "block.starwarsmod.small_wall_pannel_smooth_stone": "Small Wall Pannel Smooth Stone",
+      "item.starwarsmod.whitefinandmacroviso_chestplate": "Clone Rangefinder Body",
+      "item.starwarsmod.atrt_spawn_egg": "AT-RT Spawn Egg",
+      "subtitles.atrtstartup": "",
+      "item.starwarsmod.codys_jetpack_leggings": "Clone Jetpack White Leggings",
+      "item.java_test.mob_icon": "Mob Icon",
+      "item.starwarsmod.whitefinandgrayvisor_chestplate": "Clone Rangefinder Body",
+      "subtitles.sevkillai": "",
+      "item.starwarsmod.fives_pauldron_boots": "Pauldron Left Side Boots",
+      "item.starwarsmod.clone_trooper_212th_spawn_egg": "Clone Trooper 212th Spawn Egg",
+      "item.starwarsmod.vaughns_jetpack_leggings": "Clone Jetpack White Leggings",
+      "block.starwarsmod.blast_door_block": "Blast Door Block",
+      "block.starwarsmod.metal_pipe_large_red_alternative": "Metal Piple Large Red Alternative",
+      "block.starwarsmod.console_top": "Console Top",
+      "item.starwarsmod.boss_backpack_leggings": "Backpack Leggings",
+      "block.java_test.barrel": "Barrel",
+      "item.starwarsmod.naval_officer_spawn_egg": "Naval Officer Spawn Egg",
+      "block.starwarsmod.buzzdroid": "Buzzdroid Inactive",
+      "block.starwarsmod.mini_slab_smooth_stone": "Mini Slab Smooth Stone",
+      "block.starwarsmod.redledlarge": "RED LED Large",
+      "block.starwarsmod.laat_railing": "LAAT Railing",
+      "block.starwarsmod.slope_stone": "Slope Stone",
+      "item.starwarsmod.blaster_components_item": "Blaster Components",
+      "entity.starwarsmod.j_10_dual_blaster_cannon": "J-10 Dual Blaster Cannon",
+      "item.starwarsmod.vaughns_jetpack_helmet": "Clone Jetpack White Helmet",
+      "entity.starwarsmod.clone_trooper_212th": "Clone Trooper 212th",
+      "entity.starwarsmod.magna_guard": "MagnaGuard",
+      "subtitles.j10fire": "",
+      "item.starwarsmod.jetpackand_antenna_boots": "Clone Jetpack White Boots",
+      "item.starwarsmod.jetpackand_antenna_leggings": "Clone Jetpack White Leggings",
+      "subtitles.vibrobladehit": "",
+      "block.java_test.bridge_window_slab_slope": "Bridge Window Slab Slope",
+      "item.starwarsmod.mob_icon": "Mob Icon",
+      "item.starwarsmod.geonosian_bezerker_spawn_egg": "Geonosian Bezerker Spawn Egg",
+      "block.starwarsmod.wall_light_alternative_mirrored": "Wall Light Alternative Double Sided",
+      "item.starwarsmod.spider_droid_spawn_egg": "Spider Droid Spawn Egg",
+      "item.starwarsmod.blue_gas_dust": "Blue Gas Dust",
+      "subtitles.eweboverheat": "",
+      "item.starwarsmod.senate_commando_captain_fin_helmet": "Senate Commando Captain Fin ",
+      "subtitles.siesmicchargeexplosion": "",
+      "block.starwarsmod.console_corner": "Console Corner",
+      "block.java_test.blast_door_closed_stairs_lower": "Blast Door Closed Stairs Lower",
+      "item.starwarsmod.sev_backpack_boots": "Backpack Boots",
+      "item.starwarsmod.backpack_helmet": "Backpack Helmet",
+      "item.starwarsmod.pauldron_left_side_with_ammo_pouch_boots": "Pauldron Left Side Boots",
+      "item.starwarsmod.clone_rangefinder_chestplate": "Clone Rangefinder Body",
+      "item.starwarsmod.boss_backpack_boots": "Backpack Boots",
+      "itemGroup.tabrepublic_ai": "Republic AI",
+      "item.starwarsmod.super_battle_droid_spawn_egg": "Super Battle Droid Spawn Egg",
+      "itemGroup.tabsepratist_ai": "Sepratist AI",
+      "item.java_test.gonk_droid": "Gonk Droid Spawn Egg",
+      "item.starwarsmod.vaughns_helmet_chestplate": "Vaughns Helmet Body",
+      "block.java_test.bridge_window_end": "Bridge Window End",
+      "item.starwarsmod.blue_gas_cannister": "Blue Gas Cannister",
+      "item.starwarsmod.senate_commando_fin_helmet": "Senate Commando Fin ",
+      "subtitles.fixerkillai": "",
+      "subtitles.stapfire": "",
+      "item.starwarsmod.arc_backpack_helmet": "Backpack Helmet",
+      "item.starwarsmod.geonosian_blaster": "Geonosian Blaster",
+      "subtitles.probefire": "",
+      "subtitles.battledroidkillsai": "",
+      "subtitles.sevhurt": "",
+      "block.java_test.wall_light_bottom_red": "Wall Light Bottom Red",
+      "block.starwarsmod.brig_floor": "Brig Floor",
+      "item.starwarsmod.valken_38x": "Valken-38x",
+      "subtitles.valken_38xfire": "",
+      "block.starwarsmod.whiteledlarge": "White LED Large",
+      "block.starwarsmod.blast_door_bottom_middle_closed": "Blast Door Bottom Middle Closed",
+      "block.starwarsmod.metal_pipes_red_no_bracket_alternative": "Pipes Red No Bracket",
+      "entity.starwarsmod.geonosian_bezerker": "Geonosian Bezerker",
+      "item.starwarsmod.dc_17_offhand": "DC-17",
+      "block.starwarsmod.triangle_2x_1_up": "Triangle 2x 1 Up Stone",
+      "block.starwarsmod.metal_pipes_red": "Metal Pipes Red",
+      "block.starwarsmod.escape_pod_ring_bottom_middle": "Escape Pod Ring Bottom Middle",
+      "subtitles.astromechliving": "",
+      "entity.starwarsmod.medicaldroid_2": "Medical Droid",
+      "subtitles.obiwanhurt": "",
+      "itemGroup.tabstar_wars_mobs": "Star Wars Mobs",
+      "block.java_test.door": "Door Lower",
+      "item.starwarsmod.stap_fire": "Stap Fire",
+      "item.starwarsmod.pauldron_left_side_boots": "Pauldron Left Side Boots",
+      "item.starwarsmod.rexspauldron_leggings": "Pauldron Left Side Leggings",
+      "key.mcreator.vehicle_blaster_atrt": "Vehicle Blaster ATRT",
+      "item.starwarsmod.rexspauldron_helmet": "Pauldron Left Side Helmet",
+      "item.starwarsmod.mauls_horns_chestplate": "Mauls Horns Body",
+      "block.starwarsmod.door": "Door Lower",
+      "item.starwarsmod.clone_commando_fixer_spawn_egg": "Clone Commando - Fixer Spawn Egg",
+      "subtitles.atrtfire": "",
+      "block.java_test.door_light_down": "Door Light Down",
+      "subtitles.electrostaffswing": "",
+      "block.java_test.blast_door_stairs": "Blast Door Stairs Lower",
+      "subtitles.dc-17msniperfire": "",
+      "entity.starwarsmod.clone_trooper_501st": "Clone Trooper 501st",
+      "item.starwarsmod.acklay_spawn_egg": "Acklay Spawn Egg",
+      "item.starwarsmod.clone_trooper_phase_2332_n_df_in_boots": "Clone Trooper Phase 2 Fin White Boots",
+      "item.starwarsmod.senate_commando_captain_fin_boots": "Senate Commando Fin Boots",
+      "item.starwarsmod.clone_reinforced_helmet_helmet": "Clone Reinforced Helmet",
+      "item.starwarsmod.fixers_antenna_chestplate": "Fixers Antenna Body",
+      "block.starwarsmod.wall_detailed_bottom": "Wall Detailed Bottom",
+      "block.java_test.blast_door_button": "Blast Door Button",
+      "block.java_test.slope_stone_upper_glass": "Slope Stone Upper Glass",
+      "block.starwarsmod.bridge_door_mid_bottom": "Bridge Door Mid Bottom",
+      "subtitles.clonekillsai": "",
+      "item.starwarsmod.arc_backpack_boots": "Backpack Boots",
+      "entity.starwarsmod.commando_droid_soldier": "Commando Droid",
+      "block.java_test.small_wall_pannel_stone": "Small Wall Pannel Stone",
+      "subtitles.bossspawn": "",
+      "block.starwarsmod.hanger_light_blue": "Hanger Light Blue",
+      "block.starwarsmod.doorlight": "Doorlight",
+      "block.starwarsmod.blast_door_top_middle": "Blast Door Top Middle",
+      "block.java_test.stone_slope_glass_upper": "Stone Slope Glass Upper",
+      "item.starwarsmod.bluefin_andrangefinder_helmet": "blue fin and rangefinder ",
+      "block.starwarsmod.escape_pod_ring_bottom_middle_closed": "Escape Pod Ring Bottom Middle Closed",
+      "subtitles.anakindefeattheme": "",
+      "block.java_test.blast_door": "Blast Door Frame",
+      "item.starwarsmod.clone_commando_spawn_egg": "Clone Commando  Spawn Egg",
+      "block.java_test.blast_door_closed_slab": "Blast Door Closed Slab",
+      "item.starwarsmod.dc_17_m_sniper_magazine": "DC-17M Sniper Magazine",
+      "item.starwarsmod.courscant_guard_phase_2_fin_boots": "Clone Trooper Phase 2 Fin White Boots",
+      "item.starwarsmod.magna_guard_spawn_egg": "MagnaGuard Spawn Egg",
+      "entity.starwarsmod.cody": "Commander Cody",
+      "block.java_test.barrel_end": "Barrel End",
+      "item.starwarsmod.atrt_blaster": "ATRT Blaster",
+      "block.starwarsmod.com_console": "Com Console",
+      "entity.starwarsmod.gonk_droid": "Gonk Droid",
+      "entity.starwarsmod.goldie": "Goldie",
+      "block.starwarsmod.bridge_door_mid_top": "Bridge Door Mid Top",
+      "entity.starwarsmod.clonetrooperwithrocket": "Clone Trooper Explosive",
+      "subtitles.astromechhurt": "",
+      "item.starwarsmod.commando_droid_spawn_egg": "Commando Droid Captain Spawn Egg",
+      "entity.starwarsmod.acklay": "Acklay",
+      "item.java_test.mouse_droid_spawn_egg": "Mouse Droid Spawn Egg",
+      "item.starwarsmod.arc_trooper_spawn_egg": "Arc Trooper Spawn Egg",
+      "item.starwarsmod.aqua_droid_spawn_egg": "Aqua Droid Spawn Egg",
+      "item.starwarsmod.clone_trooper_phase_2332_n_df_in_helmet": "Clone Trooper Phase 2 Fin White",
+      "subtitles.geonosianliving": "",
+      "item.starwarsmod.magnaguarweapon": "Magnaguardweapon",
+      "item.java_test.viper_probe_droid": "Viper Probe Droid Spawn Egg",
+      "block.starwarsmod.small_pipes_bottom": "Small Pipes Bottom",
+      "block.java_test.blast_door_frame_lower": "Blast Door Frame Lower",
+      "item.starwarsmod.mauls_light_saber": "Mauls Lightsaber",
+      "block.starwarsmod.com_console_top_corner_1": "Com Console Top Corner 1",
+      "block.starwarsmod.yellow_light": "Yellow Light",
+      "item.starwarsmod.r_2_d_2_spawn_egg": "R2D2 Spawn Egg",
+      "block.starwarsmod.stone_slope_glass_upper": "Stone Slope Glass Upper",
+      "item.java_test.gonk_droid_spawn_egg": "Gonk Droid Spawn Egg",
+      "block.java_test.wall_panel_quartz": "Wall Panel Quartz",
+      "block.starwarsmod.escape_pod_ring_bottom": "Escape Pod Ring Bottom",
+      "block.java_test.hyperdriveroom_wall_lights": "Hyperdriveroom Wall Lights",
+      "item.starwarsmod.codys_jetpack_helmet": "Clone Jetpack White Helmet",
+      "item.starwarsmod.clone_trooper_spawn_egg": "Clone Trooper Spawn Egg",
+      "item.starwarsmod.clone_trooper_heavy_spawn_egg": "Clone Trooper Heavy Spawn Egg",
+      "item.starwarsmod.senate_commando_captain_fin_leggings": "Senate Commando Fin Leggings",
+      "item.starwarsmod.vaughns_jetpack_boots": "Clone Jetpack White Boots",
+      "block.starwarsmod.console_variant_1": "Console Variant 1",
+      "block.java_test.door_light_down_mid": "Door Light Down Mid",
+      "block.starwarsmod.girder_horizontal": "Girder Horizontal",
+      "entity.starwarsmod.senate_commando_captain": "Senate Commando Captain",
+      "item.starwarsmod.clone_commando_sev_spawn_egg": "Clone Commando - Sev Spawn Egg",
+      "block.java_test.glass_stairs": "Glass Stairs",
+      "item.starwarsmod.senate_commando_captain_pauldron_chestplate": "Senate Commando Captain Pauldron ",
+      "block.starwarsmod.triangle_2x_1": "Triangle 2x1 Stone",
+      "item.starwarsmod.senate_commando_captain_fin_chestplate": "Senate Commando Fin Body",
+      "item.starwarsmod.aqua_droid_weapon": "Super Battle Droid Weapon",
+      "item.starwarsmod.whitefinandmacroviso_leggings": "Clone Rangefinder Leggings",
+      "item.starwarsmod.ammo_bag_and_backpack_leggings": "Ammo Bag Leggings",
+      "item.starwarsmod.rps_6_rocket_ammunition": "RPS-6 Rocket Ammunition",
+      "itemGroup.tabstar_wars_misc": "Star Wars Misc",
+      "subtitles.fixerhurt": "",
+      "item.starwarsmod.super_battle_droid_jet_trooper_spawn_egg": "Super Battle Droid Jet Trooper Spawn Egg",
+      "block.starwarsmod.wall_detailed_top": "Wall Detailed Top",
+      "item.starwarsmod.backpack_boots": "Backpack Boots",
+      "item.starwarsmod.sev_backpack_leggings": "Backpack Leggings",
+      "item.starwarsmod.clone_helmet_range_finder_chestplate": "Clone Helmet Range Finder Body",
+      "item.starwarsmod.senate_commando_captain_pauldron_leggings": "Senate Commando Pauldron Leggings",
+      "block.java_test.slope_stone": "Slope Stone",
+      "block.starwarsmod.bridge_door_side_test": "Bridge Door Side Test",
+      "block.java_test.mini_slab_smooth_stone": "Mini Slab Smooth Stone",
+      "item.starwarsmod.clone_visor_standard_helmet": "Clone Visor Gray",
+      "subtitles.sevspawn": "",
+      "item.starwarsmod.thermal_detonator": "Thermal Detonator",
+      "block.starwarsmod.red_beam_top": "Red Beam Top",
+      "item.starwarsmod.clone_trooper_phase_2_fin_white_leggings": "Clone Trooper Phase 2 Fin White Leggings",
+      "block.starwarsmod.clone_trooper_grave": "Clone Trooper Grave",
+      "item.starwarsmod.sbd_laser": "SBD Laser",
+      "entity.starwarsmod.atrt": "AT-RT",
+      "subtitles.ahsokahurt": "",
+      "block.starwarsmod.wall_bottom": "Wall Bottom",
+      "item.java_test.r_2_d_2": "R2D2 Spawn Egg",
+      "block.starwarsmod.clone_trooper_helmet_prop": "Clone Trooper Helmet Prop",
+      "item.starwarsmod.lr_57fire": "Lr57fire",
+      "key.starwarsmod.vehicle_blaster_atrt": "Vehicle Blaster ATRT",
+      "block.java_test.slope_smooth_stone_upper": "Slope Smooth Stone Upper",
+      "subtitles.maulhum": "",
+      "item.starwarsmod.pauldron_left_side_with_ammo_pouch_chestplate": "Pauldron Left Side With Ammo Pouch",
+      "block.starwarsmod.flight_seat": "Flightseat",
+      "block.java_test.elevator_bracket": "Elevator Bracket",
+      "block.starwarsmod.whiteledlargefloor": "White LED Large Floor",
+      "block.java_test.metal_block_bolted_vertical": "Metal Block Bolted Vertical",
+      "item.starwarsmod.republic_icon": "Mob Icon",
+      "block.starwarsmod.mini_slab_stone": "Mini Slab Stone",
+      "subtitles.acklayscreech": "",
+      "block.starwarsmod.circular_wall_light_white": "Circular Wall Light White",
+      "item.starwarsmod.courscant_guard_phase_2_fin_helmet": "Clone Trooper Phase 2 Fin White",
+      "item.starwarsmod.lr_1_k_sonic_cannon_shot": "LR1KSONICCANNON",
+      "item.starwarsmod.arc_trooper_rangefinderand_fin_boots": "Arc Trooper Rangefinderand Fin Boots",
+      "block.starwarsmod.escape_pod_ring_bottom_closed": "Escape Pod Ring Bottom Closed",
+      "subtitles.e5sfire": "",
+      "block.java_test.blast_door_standard": "Blast Door Standard",
+      "block.java_test.blue_light": "Blue Light",
+      "subtitles.seismicchargeexplosioncombined": "",
+      "block.java_test.escape_pod_ring_bottom": "Escape Pod Ring Bottom",
+      "block.starwarsmod.doorlighttop": "Door Light Up",
+      "item.starwarsmod.clone_trooper_phase_2_fin_white_helmet": "Clone Trooper Phase 2 Fin White",
+      "subtitles.magnaguarddeath": "",
+      "block.java_test.wall_light_yellow": "Wall Light Yellow",
+      "item.starwarsmod.fixers_antenna_leggings": "Fixers Antenna Leggings",
+      "block.starwarsmod.blast_door_bottom_middle": "Blast Door Bottom Middle",
+      "block.java_test.wall_light_mid_bottom": "Wall Light Mid Bottom",
+      "block.java_test.escape_pod_ring_top_middle": "Escape Pod Ring Top Middle",
+      "subtitles.scorchhurt": "",
+      "item.starwarsmod.super_battle_droid_weapon": "Super Battle Droid Weapon",
+      "item.starwarsmod.rexspauldron_boots": "Pauldron Left Side Boots",
+      "subtitles.astromechdeath": "",
+      "item.starwarsmod.ammo_bag_and_backpack_helmet": "Ammo Bag Helmet",
+      "item.starwarsmod.sepratist_icon": "Mob Icon",
+      "block.java_test.console_top": "Console Top",
+      "item.java_test.goldie": "Goldie Spawn Egg",
+      "block.starwarsmod.bridge_window_top_end": "Bridge Window Top End",
+      "subtitles.magnaguardhurt": "",
+      "block.starwarsmod.explosive_shell": "Proton Bomb",
+      "item.starwarsmod.senate_commando_fin_boots": "Senate Commando Fin Boots",
+      "block.starwarsmod.wall_light_top_white": "Wall Light Top White",
+      "item.starwarsmod.vaughns_jetpack_chestplate": "Vaughns Jetpack ",
+      "block.java_test.slope_smooth_stone_diagonal": "Slope Smooth Stone Diagonal",
+      "block.java_test.curveblocksmoothstone": "Curve Block Smooth Stone",
+      "subtitles.scorchspawn": "",
+      "subtitles.magnaguardspawn": "",
+      "block.starwarsmod.bridge_window_slab": "Bridge Window Slab",
+      "block.java_test.wall_light_top_white": "Wall Light Top White",
+      "item.starwarsmod.anakinslightsaber": "Anakin\u0027s Lightsaber",
+      "entity.starwarsmod.fives": "Fives",
+      "item.java_test.goldie_spawn_egg": "Goldie Spawn Egg",
+      "subtitles.flamethroweron": "",
+      "subtitles.obiwan_defeat": "",
+      "block.starwarsmod.triangle_2x_1_straight_smooth_stone": "Triangle 2x1 Straight Smooth Stone",
+      "subtitles.cloneofficerkillsai": "",
+      "entity.starwarsmod.ewhb_12": "EWHB-12",
+      "item.starwarsmod.clone_jetpack_large_blue_chestplate": "Clone Jetpack Large Blue ",
+      "block.starwarsmod.console_corner_mid": "Console Corner Mid",
+      "item.starwarsmod.cody_spawn_egg": "Commander Cody Spawn Egg",
+      "block.java_test.wall_emergency_light_mid_top": "Wall Emergency Light Mid Top",
+      "block.java_test.slope_stone_upper": "Slope Stone Upper",
+      "block.java_test.ray_shield_diagonal": "Ray Shield Diagonal",
+      "item.starwarsmod.sev_backpack_chestplate": "Sev\u0027s Backpack",
+      "item.starwarsmod.clone_trooper_phase_2_fin_white_chestplate": "Clone Trooper Phase 2 Fin White Body",
+      "item.starwarsmod.commando_backpack_leggings": "Backpack Leggings",
+      "block.starwarsmod.wall_top_detail_mid": "Wall Top Detail Mid",
+      "block.java_test.wall_emergency_light": "EmergencyWallLightBottom",
+      "subtitles.maulswing1": "",
+      "block.starwarsmod.wall_light_top_red": "Wall Light Top Red",
+      "item.starwarsmod.rg_4_d": "RG-4D",
+      "block.starwarsmod.blue_light": "Blue Light",
+      "item.starwarsmod.goldie_spawn_egg": "Goldie Spawn Egg",
+      "item.starwarsmod.clone_reinforced_helmet_chestplate": "Clone Reinforced Helmet Body",
+      "block.starwarsmod.smooth_stone_slope_upper_glass": "Smooth Stone Slope Upper Glass",
+      "block.java_test.ceiling_light_a": "Ceiling Light ",
+      "block.java_test.console_corner": "Console Corner",
+      "subtitles.misslefire": "",
+      "item.starwarsmod.pauldron_left_side_chestplate": "Pauldron Left Side",
+      "entity.starwarsmod.lr_57_combat_droid": "LR-57 Combat Droid",
+      "subtitles.barcidle": "",
+      "subtitles.obiwanrightclick": "",
+      "item.starwarsmod.whitefinandgrayvisor_leggings": "Clone Rangefinder Leggings",
+      "item.java_test.clone_trooper_332nd": "Clone Trooper 332nd Spawn Egg",
+      "block.java_test.mini_slab_stone": "Mini Slab Stone",
+      "block.java_test.wall_light_mid_top": "Wall Light Mid Top",
+      "item.starwarsmod.commando_droid_soldier_spawn_egg": "Commando Droid Spawn Egg",
+      "item.starwarsmod.codys_helmet_boots": "Vaughns Helmet Boots",
+      "entity.starwarsmod.clone_jettrooper": "Clone Jet Trooper",
+      "block.starwarsmod.slope_smooth_stone_upper": "Slope Smooth Stone Upper",
+      "entity.starwarsmod.droideka": "Droideka",
+      "block.starwarsmod.slope_upper_slab_smooth_stone": "Slope Upper Slab Smooth Stone",
+      "block.starwarsmod.redled": "RED LED",
+      "subtitles.scorchdeath": "",
+      "block.starwarsmod.triangle_2x_1_straight": "Triangle 2x1 Straight Stone",
+      "subtitles.battledroiddeath": "",
+      "block.starwarsmod.slope_smooth_stone": "Slope Smooth Stone",
+      "item.starwarsmod.commando_backpack_helmet": "Backpack Helmet",
+      "subtitles.battledroidfire": "",
+      "subtitles.siesmicgchargeexplosion": "",
+      "subtitles.geonosiandeath": "",
+      "entity.starwarsmod.lr_1_k_sonic_cannon": "LR1K Sonic Cannon",
+      "item.starwarsmod.fixers_backpack_boots": "Backpack Boots",
+      "entity.starwarsmod.clone_commando_boss": "Delta Squad",
+      "item.starwarsmod.ammo_bag_chestplate": "Ammo Bag",
+      "block.java_test.escape_pod_ring_top_middle_closed": "Escape Pod Ring Top Middle Closed",
+      "block.starwarsmod.triangle_2x_1_smooth_stone": "Triangle 2x1 Stone",
+      "item.starwarsmod.clone_trooper_501st_spawn_egg": "Clone Trooper 501st Spawn Egg",
+      "item.starwarsmod.clone_helmet_range_finder_leggings": "Clone Helmet Range Finder Leggings",
+      "item.starwarsmod.clone_rangefinder_boots": "Clone Rangefinder Boots",
+      "block.starwarsmod.floor_light": "Floor Light",
+      "block.starwarsmod.hall_way_floor": "Hall Way Floor",
+      "itemGroup.tabstar_wars_doors": "Star Wars Doors",
+      "block.java_test.escape_pod_ring_bottom_middle_closed": "Escape Pod Ring Bottom Middle Closed",
+      "item.starwarsmod.clone_trooper_courscant_guard_spawn_egg": "Courscant Guard Spawn Egg",
+      "block.java_test.slope_upper_slab_smooth_stone": "Slope Upper Slab Smooth Stone",
+      "entity.starwarsmod.clone_trooper_courscant_guard": "Courscant Guard",
+      "subtitles.dc17mreload": "",
+      "block.java_test.triangle_2x_1": "Triangle 2x1 Stone",
+      "entity.starwarsmod.clone_trooper_sniper": "Clone Trooper Sniper",
+      "block.starwarsmod.bridge_window_slab_slope": "Bridge Window Slab Slope",
+      "block.java_test.emergency_wall_light_bottom": "Wall Light Bottom Red",
+      "block.starwarsmod.triangle_2x_1_down": "Triangle 2x 1 Down Stone",
+      "block.starwarsmod.dedlanite_ore": "Dedlanite Ore",
+      "block.starwarsmod.wall_light_mid_bottom": "Wall Light Mid Bottom",
+      "entity.java_test.mouse_droid": "Mouse Droid",
+      "subtitles.probeidle": "",
+      "block.starwarsmod.metal_block_bolted": "Metal Block Bolted",
+      "subtitles.superbattledroiddeath": "",
+      "entity.starwarsmod.undead_geonosian": "Undead Geonosian",
+      "subtitles.dc15coverheat": "",
+      "block.starwarsmod.red_light": "Red Light",
+      "item.starwarsmod.clone_helmet_range_finder_boots": "Clone Helmet Range Finder Boots",
+      "block.java_test.ceiling_light_goes_above_wall_light": "Ceiling Light Edge",
+      "block.starwarsmod.metal_piple_large_red": "Metal Piple Large Red",
+      "item.starwarsmod.fixers_backpack_chestplate": "Fixer\u0027s Backpack",
+      "item.starwarsmod.scorch_backpack_boots": "Backpack Boots",
+      "subtitles.ahsokadefeat": "",
+      "item.starwarsmod.scorch_backpack_helmet": "Backpack Helmet",
+      "item.starwarsmod.buzz_droid_mob_spawn_egg": "Buzz Droid Spawn Egg",
+      "item.starwarsmod.senate_commando_pauldron_boots": "Senate Commando Pauldron Boots",
+      "block.java_test.wall_light_bottom_white": "Wall Light Bottom White",
+      "block.starwarsmod.small_wall_pannel_stone": "Small Wall Pannel Stone",
+      "block.starwarsmod.bridge_window": "Bridge Window",
+      "block.java_test.escape_pod_ring_bottom_closed": "Escape Pod Ring Bottom Closed",
+      "block.starwarsmod.small_pipes": "Small Pipes",
+      "subtitles.obiwanspawntheme": "",
+      "item.starwarsmod.e_5_c": "E-5C",
+      "block.starwarsmod.blast_door_top": "Blast Door Top",
+      "item.java_test.dc_1_5_c": "DC-15C",
+      "subtitles.superbattledroidhurt": "",
+      "subtitles.rg-4dfire": "",
+      "block.java_test.wall_light_alternative": "Wall Light Alternative",
+      "item.starwarsmod.helmet_flashlight_leggings": "Helmet Flashlight Leggings",
+      "block.starwarsmod.door_light_down_mid": "Door Light Down Mid",
+      "entity.starwarsmod.obi_wan_kenobi": "Obi-Wan Kenobi",
+      "item.starwarsmod.fixers_antenna_boots": "Fixers Antenna Boots",
+      "entity.starwarsmod.clone_commando_scorch": "Clone Commando - Scorch",
+      "block.java_test.escape_pod_ring_top_closed": "Escape Pod Ring Top Closed",
+      "item.starwarsmod.e_5_s": "E-5S",
+      "entity.starwarsmod.naval_officer": "Naval Officer",
+      "subtitles.superbattledroidkillsai": "",
+      "item.starwarsmod.senate_commando_fin_chestplate": "Senate Commando Fin Body",
+      "block.starwarsmod.hyperdriveroom_wall_lights": "Hyperdriveroom Wall Lights",
+      "block.starwarsmod.blast_door_bottom": "Blast Door Bottom ",
+      "entity.starwarsmod.commando_droid": "Commando Droid Captain",
+      "block.starwarsmod.barrel_end": "Barrel End",
+      "block.java_test.walltop": "Walltop",
+      "block.java_test.bridge_window_top_end": "Bridge Window Top End",
+      "block.java_test.wall_top_detail_mid": "Wall Top Detail Mid",
+      "item.starwarsmod.clone_trooper_332nd_spawn_egg": "Clone Trooper 332nd Spawn Egg",
+      "item.starwarsmod.jetpackand_antenna_helmet": "Clone Jetpack White Helmet",
+      "block.starwarsmod.curveblocksmoothstone": "Curve Block Smooth Stone",
+      "item.starwarsmod.backpack_chestplate": "Backpack ",
+      "block.java_test.wall_bottom": "Wall Bottom",
+      "block.java_test.girder": "Girder",
+      "block.starwarsmod.wall_light_bottom_white": "Wall Light Bottom White",
+      "block.java_test.console": "Console",
+      "item.starwarsmod.whitefinandmacroviso_boots": "Clone Rangefinder Boots",
+      "block.starwarsmod.escape_pod_ring_top": "Escape Pod Ring Top",
+      "item.starwarsmod.senate_commando_pauldron_chestplate": "Senate Commando Pauldron ",
+      "block.starwarsmod.wall_bottom_detail_mid": "Wall Bottom Detail Mid",
+      "item.starwarsmod.pauldronbothwithammopouch_chestplate": "Pauldron Both With Ammo Pouch",
+      "item.starwarsmod.clone_jetpack_white_boots": "Clone Jetpack White Boots",
+      "item.starwarsmod.codoan_copper_ingot": "Codoan Copper Ingot",
+      "item.starwarsmod.senate_commando_pauldron_leggings": "Senate Commando Pauldron Leggings",
+      "block.java_test.whiteledlarge": "White LED Large",
+      "item.starwarsmod.vaughns_helmet_leggings": "Vaughns Helmet Leggings",
+      "subtitles.battledroidstep": "",
+      "block.starwarsmod.wall_detail_mid": "Wall Detail Mid",
+      "item.starwarsmod.bluefin_andrangefinder_boots": "Whitefinandrangefinder Boots",
+      "entity.starwarsmod.spider_droid": "Spider Droid",
+      "item.java_test.dc_1_5": "DC-15",
+      "subtitles.destroyerdroidshoot": "",
+      "entity.starwarsmod.viper_probe_droid": "Republic Probe Droid",
+      "subtitles.e5_commando": "",
+      "item.starwarsmod.clone_helmet_range_finder_helmet": "Clone Helmet Range Finder Helmet",
+      "block.java_test.chair": "Chair",
+      "item.starwarsmod.clone_trooper_sniper_spawn_egg": "Clone Trooper Sniper Spawn Egg",
+      "entity.java_test.goldie": "Goldie",
+      "subtitles.mousedroididle": "",
+      "item.starwarsmod.codys_jetpack_chestplate": "Codys Jetpack ",
+      "item.starwarsmod.fixers_antenna_helmet": "Fixers Antenna ",
+      "block.starwarsmod.glass_slabs": "Glass Slab",
+      "item.starwarsmod.whitefinandgrayvisor_helmet": "Whitefinandgrayvisor",
+      "block.java_test.redled": "RED LED",
+      "block.java_test.hall_way_floor": "Hall Way Floor",
+      "item.starwarsmod.ammo_bag_boots": "Ammo Bag Boots",
+      "block.starwarsmod.small_pipes_top": "Small Pipes Top",
+      "subtitles.anakinhurt": "",
+      "block.java_test.com_console_display": "Com Console Display",
+      "subtitles.obiwandefeattheme": "",
+      "entity.starwarsmod.battle_droid": " B1 Battle Droid",
+      "item.starwarsmod.rexspauldron_chestplate": "rexspauldron",
+      "item.starwarsmod.ewhb_12_spawn_egg": "EWHB-12 Spawn Egg",
+      "item.starwarsmod.pauldron_left_side_helmet": "Pauldron Left Side Helmet",
+      "subtitles.bossdeath": "",
+      "item.starwarsmod.whitefinandrangefinder_boots": "Whitefinandrangefinder Boots",
+      "item.starwarsmod.clone_trooper_phase_2332_n_df_in_chestplate": "Clone Trooper Phase 2 Fin White Body",
+      "subtitles.commandodroidhurt": "",
+      "block.starwarsmod.walltop": "Walltop",
+      "block.java_test.escape_pod_ring_middle": "Escape Pod Ring Middle",
+      "item.starwarsmod.clone_reinforced_helmet_leggings": "Clone Reinforced Helmet Leggings",
+      "block.starwarsmod.ceiling_light_a": "Ceiling Light ",
+      "block.starwarsmod.circular_wall_column": "Circular Wall Column",
+      "entity.starwarsmod.clone_trooper_heavy": "Clone Trooper Heavy",
+      "entity.starwarsmod.captain_vaughn": "Captain Vaughn",
+      "subtitles.senatecommandodeath": "",
+      "subtitles.dc-15c": "",
+      "block.starwarsmod.blue_gas_ore": "Blue Gas Ore",
+      "item.starwarsmod.mauls_horns_leggings": "Mauls Horns Leggings",
+      "block.java_test.escape_pod_ring_bottom_middle": "Escape Pod Ring Bottom Middle",
+      "item.starwarsmod.senate_commando_captain_spawn_egg": "Senate Commando Captain Spawn Egg",
+      "block.starwarsmod.console": "Console",
+      "subtitles.bosshurt": "",
+      "item.starwarsmod.clone_trooper_phase_2_fin_white_boots": "Clone Trooper Phase 2 Fin White Boots",
+      "block.java_test.console_mid": "Console Mid",
+      "block.starwarsmod.bridge_door_side_top": "Bridge Door Side Top",
+      "item.starwarsmod.senate_commando_captain_pauldron_boots": "Senate Commando Pauldron Boots",
+      "item.starwarsmod.pauldron_left_side_with_ammo_pouch_helmet": "Pauldron Left Side Helmet",
+      "entity.starwarsmod.anakin_skywalker": "Anakin Skywalker",
+      "subtitles.atrtstep": "",
+      "block.starwarsmod.com_console_top": "Com Console Top",
+      "block.java_test.glass_slabs": "Glass Slabs",
+      "subtitles.obiwanhum": "",
+      "item.starwarsmod.arc_trooper_rangefinderand_fin_leggings": "Arc Trooper Rangefinderand Fin Leggings",
+      "block.starwarsmod.slope_upper_stone_slab": "Slope Upper Stone Slab",
+      "entity.starwarsmod.geonosian_flyer": "Geonosian Flyer",
+      "item.starwarsmod.dc_17_mainhand": "DC-17",
+      "item.starwarsmod.boss_backpack_chestplate": "Boss\u0027s Backpack",
+      "block.starwarsmod.bridge_door_side_bottom": "Bridge Door Side Bottom",
+      "item.starwarsmod.clone_jettrooper_spawn_egg": "Clone Jet Trooper Spawn Egg",
+      "block.starwarsmod.white_led": "WHITE LED",
+      "block.starwarsmod.red_beam_bottom": "Red Beam Bottom",
+      "block.starwarsmod.console_corner_top": "Console Corner Top",
+      "block.java_test.doorlight": "Doorlight",
+      "block.starwarsmod.girder": "Girder",
+      "item.starwarsmod.bluefin_andrangefinder_leggings": "Whitefinandrangefinder Leggings",
+      "item.starwarsmod.arc_backpack_chestplate": "Arc Trooper Backpack and Pauldron",
+      "subtitles.e5cfire": "",
+      "block.starwarsmod.wall_panel_quartz": "Wall Panel Quartz",
+      "subtitles.anakinspawntheme": "",
+      "block.java_test.flightseat": "Flightseat",
+      "block.java_test.curveblockstone": "Curve Block Stone",
+      "item.starwarsmod.ammo_bag_leggings": "Ammo Bag Leggings",
+      "subtitles.atrtoverheat": "",
+      "block.starwarsmod.siesmic_charge": "Siesmic Charge",
+      "block.java_test.redledlarge": "RED LED Large",
+      "block.java_test.escape_pod_ring_top": "Escape Pod Ring Top",
+      "entity.starwarsmod.mouse_droid": "Mouse Droid",
+      "subtitles.geonosianhurt": "",
+      "item.java_test.laserred": "LASERRED",
+      "subtitles.scorchkillai": "",
+      "entity.starwarsmod.buzz_droid_mob": "Buzz Droid",
+      "item.starwarsmod.boss_backpack_helmet": "Backpack Helmet",
+      "item.starwarsmod.gonk_droid_spawn_egg": "Gonk Droid Spawn Egg",
+      "block.java_test.locker_top": "Locker Top",
+      "item.starwarsmod.flame_thrower": "BT X-42 Flamethrower",
+      "entity.starwarsmod.super_battle_droid": "Super Battle Droid",
+      "block.java_test.console_corner_top": "Console Corner Top",
+      "item.starwarsmod.ammo_bag_and_backpack_boots": "Ammo Bag Boots",
+      "subtitles.arctrooperkillsai": "",
+      "item.starwarsmod.senate_commando_fin_leggings": "Senate Commando Fin Leggings",
+      "subtitles.lr57fire": "",
+      "block.starwarsmod.metal_pipes_red_no_bracket": "Pipes Red No Bracket Alternative",
+      "item.starwarsmod.medicaldroid_2_spawn_egg": "Medical Droid Spawn Egg",
+      "block.java_test.com_console_top_corner_1": "Com Console Top Corner 1",
+      "subtitles.commandodroidjump": "",
+      "item.starwarsmod.clone_jetpack_white_leggings": "Clone Jetpack White Leggings",
+      "item.starwarsmod.pauldronbothwithammopouch_helmet": "Pauldron Left Side Helmet",
+      "item.starwarsmod.fives_pauldron_helmet": "Pauldron Left Side Helmet",
+      "subtitles.sevdeath": "",
+      "item.starwarsmod.e_5_blaster": "E-5",
+      "item.starwarsmod.weapon_icon": "Weapon Icon",
+      "subtitles.senatecommandohurt": "",
+      "entity.starwarsmod.clone_commando": "Clone Commando ",
+      "block.starwarsmod.slope_stone_upper": "Slope Stone Upper",
+      "block.starwarsmod.blast_door_button": "Blast Door Button",
+      "block.java_test.brig_floor": "Brig Floor",
+      "block.starwarsmod.blast_door_top_middle_closed": "Blast Door Top Middle Closed",
+      "entity.java_test.gonk_droid": "Gonk Droid",
+      "item.java_test.laserblue": "LASERBLUE",
+      "block.java_test.wall_detail_mid": "Wall Detail Mid",
+      "block.starwarsmod.clone_pilot_in_seat": "Clone Pilot In Seat",
+      "item.starwarsmod.clone_jetpack_large_blue_helmet": "Clone Jetpack White Helmet",
+      "item.starwarsmod.helmet_flashlight_boots": "Helmet Flashlight Boots",
+      "item.starwarsmod.codys_helmet_chestplate": "Vaughns Helmet Body",
+      "item.starwarsmod.vaughns_helmet_boots": "Vaughns Helmet Boots",
+      "itemGroup.tabstar_wars_weapons": "Star Wars Weapons",
+      "item.starwarsmod.clone_rangefinder_leggings": "Clone Rangefinder Leggings",
+      "item.starwarsmod.rex_spawn_egg": "Rex Spawn Egg",
+      "item.starwarsmod.obiwans_lightsaber": "Obi-Wan\u0027s Lightsaber",
+      "subtitles.darksaberswing5": "",
+      "subtitles.darksaberswing4": "",
+      "subtitles.darksaberswing3": "",
+      "subtitles.darksaberswing2": "",
+      "subtitles.darksaberswing1": "",
+      "block.java_test.slope_upper_stone_slab": "Slope Upper Stone Slab",
+      "item.starwarsmod.arc_trooper_rangefinderand_fin_helmet": "Arc Trooper Rangefinder \u0026 Fin Helmet",
+      "item.starwarsmod.geonosian_flyer_spawn_egg": "Geonosian Flyer Spawn Egg",
+      "block.java_test.slope_stone_diagonal": "Slope Stone Diagonal",
+      "subtitles.darksabrerhum": "",
+      "subtitles.superbattledroidikillsai": "",
+      "item.starwarsmod.dc_17_msniper": "DC-17M - sniper variant",
+      "subtitles.geonosianwingflap": "",
+      "block.java_test.star_wars_glass": "Star Wars Glass",
+      "item.starwarsmod.ammo_bag_and_backpack_chestplate": "Ammo Bag And Backpack",
+      "item.starwarsmod.battle_droid_commander_spawn_egg": "BattleDroid Officer Spawn Egg",
+      "block.starwarsmod.ray_shield_diagonal": "Ray Shield Diagonal",
+      "item.starwarsmod.codys_helmet_leggings": "Vaughns Helmet Leggings",
+      "entity.java_test.r_2_d_2": "R2D2",
+      "item.starwarsmod.dual_wield_dc_17s": "Dual Weild DC-17s",
+      "block.starwarsmod.metal_grate": "Metal Grate",
+      "item.starwarsmod.mouse_droid_spawn_egg": "Mouse Droid Spawn Egg",
+      "block.starwarsmod.climeable_metal_grate_grey": "Climeable Metal Grate Grey",
+      "item.starwarsmod.battle_droid_spawn_egg": " B1 Battle Droid Spawn Egg",
+      "block.java_test.triangle_2x_1_up": "Triangle 2x 1 Up Stone",
+      "block.java_test.triangle_2x_1_down": "Triangle 2x 1 Down",
+      "block.starwarsmod.barrel": "Barrel",
+      "item.starwarsmod.clone_commando_boss_spawn_egg": "Delta Squad Spawn Egg",
+      "subtitles.rps-6fire": "",
+      "subtitles.ewebfire": "",
+      "item.starwarsmod.fixers_backpack_helmet": "Backpack Helmet",
+      "item.starwarsmod.commando_backpack_chestplate": "Commando Backpack",
+      "subtitles.maulhit5": "",
+      "item.starwarsmod.eweb_blaster": "EWEB Blaster",
+      "block.starwarsmod.slope_stone_diagonal": "Slope Stone Diagonal",
+      "block.starwarsmod.stone_phat": "Window Top",
+      "item.java_test.mouse_droid": "Mouse Droid Spawn Egg",
+      "subtitles.clonehurt": "",
+      "block.starwarsmod.console_mid": "Console Mid",
+      "item.starwarsmod.sev_backpack_helmet": "Backpack Helmet",
+      "subtitles.commandodroidkillsai": "",
+      "item.starwarsmod.pauldron_left_side_with_ammo_pouch_leggings": "Pauldron Left Side Leggings",
+      "block.starwarsmod.blast_door_middle_closed": "Blast Door Middle Closed",
+      "block.java_test.circular_wall_column": "Circular Wall Column",
+      "block.starwarsmod.locker_top": "Locker Top",
+      "item.starwarsmod.bluefin_andrangefinder_chestplate": "Whitefinandrangefinder Body",
+      "item.starwarsmod.e_5_commando_blaster": "E-5 - Commando",
+      "block.java_test.hanger_light_large": "Hanger Light Large",
+      "block.starwarsmod.escape_pod_ring_top_closed": "Escape Pod Ring Top Closed",
+      "block.java_test.blast_door_stairs_upper": "Blast Door Stairs Upper",
+      "block.java_test.metal_block_bolted": "Metal Block Bolted",
+      "block.starwarsmod.triangle_2x_1_down_smooth_stone": "Triangle 2x 1 Down Smooth Stone",
+      "item.starwarsmod.obi_wan_kenobi_spawn_egg": "Obi-Wan Kenobi Spawn Egg",
+      "block.java_test.hanger_light_blue": "Hanger Light Blue",
+      "block.starwarsmod.elevator_bracket": "Elevator Bracket",
+      "block.java_test.girder_horizontal": "Girder Horizontal",
+      "block.starwarsmod.blast_door_bottom_closed": "Blast Door Bottom Closed",
+      "subtitles.clonetrooperfire": "",
+      "block.java_test.com_console_top": "Com Console Top",
+      "block.java_test.doorlighttop": "Door Light Up",
+      "item.starwarsmod.helmet_flashlight_helmet": "Helmet Flashlight ",
+      "block.java_test.locker_bottom": "Locker Bottom",
+      "item.starwarsmod.vaughns_helmet_helmet": "Vaughns Helmet",
+      "subtitles.siesmicchargepreexplosion": "",
+      "item.starwarsmod.rps_6": "RPS-6",
+      "block.java_test.floor_light": "Floor Light",
+      "block.starwarsmod.escape_pod_ring_top_middle_closed": "Escape Pod Ring Top Middle Closed",
+      "item.starwarsmod.dc_17mgrenadeammo": "DC-17M Grenade",
+      "subtitles.atrtturnoff": "",
+      "item.starwarsmod.undead_geonosian_spawn_egg": "Undead Geonosian Spawn Egg",
+      "block.starwarsmod.slope_smooth_stone_diagonal": "Slope Smooth Stone Diagonal",
+      "subtitles.dc-17m": "",
+      "entity.starwarsmod.aqua_droid": "Aqua Droid",
+      "item.starwarsmod.clone_trooper_phase_2332_n_df_in_leggings": "Clone Trooper Phase 2 Fin White Leggings",
+      "item.starwarsmod.j_10_dual_blaster_cannon_spawn_egg": "J-10 Dual Blaster Cannon Spawn Egg",
+      "item.starwarsmod.senate_commando_pauldron_helmet": "Senate Commando Pauldron Helmet",
+      "block.java_test.wall_emergency_light_mid_bottom": "Wall Emergency Light Mid Bottom",
+      "block.starwarsmod.metal_pipes_red_alternative": "Metal Pipes Red Alternative",
+      "item.java_test.r_2_d_2_spawn_egg": "R2D2 Spawn Egg",
+      "block.starwarsmod.escape_pod_ring_middle": "Escape Pod Ring Middle",
+      "subtitles.maulhit2": "",
+      "item.starwarsmod.pauldron_left_side_leggings": "Pauldron Left Side Leggings",
+      "item.starwarsmod.senate_commando_spawn_egg": "Senate Commando Spawn Egg",
+      "subtitles.electrostaffloop": "",
+      "subtitles.maulhit4": "",
+      "subtitles.maulhit3": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Entities",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Weapons",
+        "children": []
+      },
+      {
+        "name": "Armour",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "starwarsmod",
+    "modName": "Jed\u0027s Star Wars Mod",
+    "version": "1.0.0",
+    "author": "vG iJedi",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "pack_icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.starwarsmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100235315
+}

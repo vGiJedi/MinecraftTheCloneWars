@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/rps-6",
+  "textures": {
+    "1": "starwarsmod:blocks/rps-6_texture",
+    "particle": "starwarsmod:items/rocketicon"
+  }
+}

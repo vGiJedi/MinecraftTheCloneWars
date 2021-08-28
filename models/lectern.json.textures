@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "bedrock": "bedrock",
+        "lectern_front": "lectern_front",
+        "yellow_concrete": "yellow_concrete",
+        "acacia_planks": "acacia_planks",
+        "cartography_table_side1": "cartography_table_side1"
+      },
+      "name": "default"
+    }
+  }
+}

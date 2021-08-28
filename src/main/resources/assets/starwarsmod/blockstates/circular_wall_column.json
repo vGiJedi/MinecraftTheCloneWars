@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/circular_wall_column"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/circular_wall_column",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/circular_wall_column",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/circular_wall_column",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "starwarsmod:block/circular_wall_column",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "starwarsmod:block/circular_wall_column",
+      "x": 90
+    }
+  }
+}

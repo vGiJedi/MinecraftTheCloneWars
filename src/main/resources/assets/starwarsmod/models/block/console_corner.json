@@ -1,0 +1,15 @@
+{
+  "parent": "starwarsmod:custom/blast_furnace",
+  "textures": {
+    "all": "starwarsmod:blocks/acacia_planks",
+    "particle": "starwarsmod:blocks/acacia_planks",
+    "red": "starwarsmod:blocks/red",
+    "bedrock": "starwarsmod:blocks/bedrock",
+    "5": "starwarsmod:blocks/5",
+    "lectern_front": "starwarsmod:blocks/lectern_front",
+    "yellow_concrete": "starwarsmod:blocks/yellow_concrete",
+    "gray_stained_glass_pane": "starwarsmod:blocks/gray_stained_glass_pane",
+    "acacia_planks": "starwarsmod:blocks/acacia_planks",
+    "cartography_table_side1": "starwarsmod:blocks/cartography_table_side1"
+  }
+}

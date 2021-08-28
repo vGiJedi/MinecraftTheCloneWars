@@ -1,0 +1,49 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "rocketicon",
+    "customModelName": "rps-6:default",
+    "name": "RPS-6",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:StarWarsWeapons"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:RPS6RocketAmmunition"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "CUSTOM:rps-6fire"
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "RPS6USED"
+    },
+    "bulletPower": 2.5,
+    "bulletDamage": 15.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": ""
+    },
+    "bulletModel": "ModelRPS_6_Rocket",
+    "customBulletModelTexture": "rps-6_rocket.png",
+    "onBulletHitsBlock": {
+      "name": "RPS6BulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "RPS6BulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "RPS6BulletHitsBlock"
+    }
+  }
+}

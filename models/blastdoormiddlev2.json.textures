@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "blastdoormiddlev2"
+      },
+      "name": "default"
+    }
+  }
+}

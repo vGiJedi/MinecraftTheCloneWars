@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/dc-17m_sniper",
+  "textures": {
+    "1": "starwarsmod:blocks/dc17m-sniper",
+    "particle": "starwarsmod:items/dc-15c_texture"
+  }
+}

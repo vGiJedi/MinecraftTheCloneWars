@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/blastdoorbottommiddleclosed",
+  "textures": {
+    "all": "starwarsmod:blocks/blastdoorbottommiddleclosed",
+    "particle": "starwarsmod:blocks/blastdoorbottommiddleclosed",
+    "2": "starwarsmod:blocks/blastdoorbottommiddleclosed"
+  }
+}

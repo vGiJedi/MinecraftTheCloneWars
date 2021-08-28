@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "red": "red",
+        "4": "4",
+        "gold_block": "gold_block",
+        "8": "8",
+        "acacia_planks": "acacia_planks",
+        "smooth_stone": "stone_slab_top",
+        "rifle": "rifle"
+      },
+      "name": "default"
+    }
+  }
+}

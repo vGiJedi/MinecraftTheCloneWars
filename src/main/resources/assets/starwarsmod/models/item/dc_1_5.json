@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/dc-15",
+  "textures": {
+    "0": "starwarsmod:blocks/dc-15_texture",
+    "particle": "starwarsmod:items/dc-15_texture"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "hopper_inside": "hopper_inside",
+        "cartography_table_top": "cartography_table_top",
+        "4": "4",
+        "gold_block": "gold_block",
+        "yellow_concrete": "yellow_concrete",
+        "acacia_planks": "acacia_planks",
+        "cartography_table_side3": "cartography_table_side3"
+      },
+      "name": "default"
+    }
+  }
+}

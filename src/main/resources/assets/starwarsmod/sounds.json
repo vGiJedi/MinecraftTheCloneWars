@@ -1,0 +1,2331 @@
+{
+  "gonkgonk": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "starwarsmod:gonk",
+        "stream": false
+      }
+    ]
+  },
+  "gonkstep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "starwarsmod:step_soun",
+        "stream": false
+      }
+    ]
+  },
+  "gonkwalk": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "starwarsmod:walking",
+        "stream": false
+      }
+    ]
+  },
+  "mousedeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "starwarsmod:death",
+        "stream": false
+      }
+    ]
+  },
+  "obiwandefeattheme": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:obiwan_defeat_theme",
+        "stream": false
+      }
+    ]
+  },
+  "anakindefeattheme": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:anakin_defeat_theme",
+        "stream": false
+      }
+    ]
+  },
+  "anakinspawntheme": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:anakin_spawn_theme",
+        "stream": false
+      }
+    ]
+  },
+  "obiwanspawntheme": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "starwarsmod:obiwan_spawn_theme",
+        "stream": false
+      }
+    ]
+  },
+  "anakinhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:anakinhurt1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakinhurt10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakinhurt2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakinhurt3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakinhurt4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakinhurt5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakinhurt6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakinhurt7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakinhurt8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakinhurt9",
+        "stream": false
+      }
+    ]
+  },
+  "anakaindefeat": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:anakindefeat1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakindefeat2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:anakindefeat3",
+        "stream": false
+      }
+    ]
+  },
+  "obiwandefeat": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:defeat1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:defeat2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:defeat3",
+        "stream": false
+      }
+    ]
+  },
+  "clonedeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:death1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:death2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:death3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:death4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:death5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:death6",
+        "stream": false
+      }
+    ]
+  },
+  "obiwanhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:obihurt1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt11",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt12",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obihurt9",
+        "stream": false
+      }
+    ]
+  },
+  "clonetrooperfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:cloneblaster1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:cloneblaster2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:cloneblaster3",
+        "stream": false
+      }
+    ]
+  },
+  "astromechliving": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:astroliving1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:astroliving2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:astroliving3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:astroliving4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:astroliving5",
+        "stream": false
+      }
+    ]
+  },
+  "astromechhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:hurt",
+        "stream": false
+      }
+    ]
+  },
+  "astromechdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:death",
+        "stream": false
+      }
+    ]
+  },
+  "obiwanrightclick": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:obiwanrightclick1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obiwanrightclick2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obiwanrightclick3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:obiwanrightclick4",
+        "stream": false
+      }
+    ]
+  },
+  "ahsokahurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:ahsokahurt1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:ahsokahurt2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:ahsokahurt3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:ahsokahurt4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:ahsokahurt5",
+        "stream": false
+      }
+    ]
+  },
+  "ahsokadefeat": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:ahsokadefeat1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:ahsokadefeat2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:ahsokadefeat3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:ahsokadefeat4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:ahsokadefeat5",
+        "stream": false
+      }
+    ]
+  },
+  "darksaberswing1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "starwarsmod:darksaberswing1",
+        "stream": false
+      }
+    ]
+  },
+  "darksaberswing2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "starwarsmod:darksaberswing2",
+        "stream": false
+      }
+    ]
+  },
+  "darksaberswing3": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "starwarsmod:darksaberswing3",
+        "stream": false
+      }
+    ]
+  },
+  "darksaberswing4": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "starwarsmod:darksaberswing4",
+        "stream": false
+      }
+    ]
+  },
+  "darksaberswing5": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "starwarsmod:darksaberswing5",
+        "stream": false
+      }
+    ]
+  },
+  "darksabrerhum": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "starwarsmod:darksaberidle",
+        "stream": false
+      }
+    ]
+  },
+  "superbattledroidhurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "starwarsmod:superbattledroidhurt1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroidhurt10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroidhurt2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroidhurt3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroidhurt4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroidhurt5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroidhurt6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroidhurt7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroidhurt8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroidhurt9",
+        "stream": false
+      }
+    ]
+  },
+  "superbattledroiddeath": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "starwarsmod:superbattledroiddeath1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiddeath10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiddeath2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiddeath3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiddeath4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiddeath5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiddeath6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiddeath7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiddeath8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiddeath9",
+        "stream": false
+      }
+    ]
+  },
+  "battledroidhurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "starwarsmod:battledroidhurt1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidhurt10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidhurt2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidhurt3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidhurt4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidhurt5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidhurt6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidhurt7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidhurt8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidhurt9",
+        "stream": false
+      }
+    ]
+  },
+  "battledroiddeath": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "starwarsmod:battledroiddeath1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroiddeath2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroiddeath3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroiddeath4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroiddeath5",
+        "stream": false
+      }
+    ]
+  },
+  "battledroidfire": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "starwarsmod:battledroidfire1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidfire2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidfire3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidfire4",
+        "stream": false
+      }
+    ]
+  },
+  "superbattledroidfire": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "starwarsmod:sbdfire1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sbdfire2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sbdfire3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sbdfire4",
+        "stream": false
+      }
+    ]
+  },
+  "clonehurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:hurt1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:hurt10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:hurt2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:hurt3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:hurt4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:hurt5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:hurt6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:hurt7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:hurt8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:hurt9",
+        "stream": false
+      }
+    ]
+  },
+  "battledroidstep": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "starwarsmod:battledroidstep1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidstep2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidstep3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidstep4",
+        "stream": false
+      }
+    ]
+  },
+  "barcidle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "starwarsmod:vehicleactive",
+        "stream": false
+      }
+    ]
+  },
+  "rps-6fire": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "starwarsmod:rps-6_fire",
+        "stream": false
+      }
+    ]
+  },
+  "rps-6launche": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "starwarsmod:launcherfire",
+        "stream": false
+      }
+    ]
+  },
+  "misslefire": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "starwarsmod:rockettravel",
+        "stream": false
+      }
+    ]
+  },
+  "dc-15": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:dc-15_fire_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-15_fire_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-15_fire_3",
+        "stream": false
+      }
+    ]
+  },
+  "dc-15c": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:dc-15c_fire_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-15c_fire_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-15c_fire_3",
+        "stream": false
+      }
+    ]
+  },
+  "dc-17": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:dc-17_fire_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-17_fire_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-17_fire_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-17_fire_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-17_fire_5",
+        "stream": false
+      }
+    ]
+  },
+  "e5_commando": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:e-5_commando_fire_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:e-5_commando_fire_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:e-5_commando_fire_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:e-5_commando_fire_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:e-5_commando_fire_5",
+        "stream": false
+      }
+    ]
+  },
+  "probeidle": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:probeidle1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:probeidle2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:probeidle3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:probeidle4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:probeidle5",
+        "stream": false
+      }
+    ]
+  },
+  "probefire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:probefire",
+        "stream": false
+      }
+    ]
+  },
+  "scorchhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:scorch_hurt_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_hurt_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_hurt_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_hurt_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_hurt_5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_hurt_6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_hurt_7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_hurt_8",
+        "stream": false
+      }
+    ]
+  },
+  "scorchdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:scorch_death_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_death_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_death_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_death_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_death_5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_death_6",
+        "stream": false
+      }
+    ]
+  },
+  "scorchkillai": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:scorch_kill_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_kill_10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_kill_11",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_kill_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_kill_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_kill_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_kill_5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_kill_6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_kill_7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_kill_8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_kill_9",
+        "stream": false
+      }
+    ]
+  },
+  "scorchspawn": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:scorch_spawn_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_spawn_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_spawn_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:scorch_spawn_4",
+        "stream": false
+      }
+    ]
+  },
+  "dc-17m": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "starwarsmod:dc-17m_fire_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-17m_fire_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-17m_fire_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-17m_fire_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:dc-17m_fire_5",
+        "stream": false
+      }
+    ]
+  },
+  "sevhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:sev_hurt_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_hurt_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_hurt_3",
+        "stream": false
+      }
+    ]
+  },
+  "sevdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:sev_death_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_death_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_death_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_death_4",
+        "stream": false
+      }
+    ]
+  },
+  "sevspawn": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:sev_spawn_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_spawn_2",
+        "stream": false
+      }
+    ]
+  },
+  "sevkillai": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:sev_kill_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_kill_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_kill_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_kill_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_kill_5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_kill_6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:sev_kill_7",
+        "stream": false
+      }
+    ]
+  },
+  "bosshurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:boss_hurt_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_hurt_10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_hurt_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_hurt_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_hurt_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_hurt_5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_hurt_6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_hurt_7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_hurt_8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_hurt_9",
+        "stream": false
+      }
+    ]
+  },
+  "bossdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:boss_death_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_death_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_death_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_death_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_death_5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_death_6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_death_7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_death_8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_death_9",
+        "stream": false
+      }
+    ]
+  },
+  "bossspawn": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:boss_spawn",
+        "stream": false
+      }
+    ]
+  },
+  "bosskillai": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:boss_kill_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_kill_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_kill_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:boss_kill_4",
+        "stream": false
+      }
+    ]
+  },
+  "fixerhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:fixer_hurt_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_hurt_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_hurt_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_hurt_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_hurt_5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_hurt_6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_hurt_7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_hurt_8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_hurt_9",
+        "stream": false
+      }
+    ]
+  },
+  "fixerdeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:fixer_death_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_death_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_death_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_death_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_death_5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_death_6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_death_7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_death_8",
+        "stream": false
+      }
+    ]
+  },
+  "fixerspawn": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:fixer_spawn_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_spawn_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_spawn_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_spawn_4",
+        "stream": false
+      }
+    ]
+  },
+  "fixerkillai": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:fixer_kill_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_kill_10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_kill_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_kill_3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_kill_4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_kill_5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_kill_6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_kill_7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_kill_8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:fixer_kill_9",
+        "stream": false
+      }
+    ]
+  },
+  "mousedroididle": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:mousedroidliving",
+        "stream": false
+      }
+    ]
+  },
+  "dc15coverheat": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:overheat",
+        "stream": false
+      }
+    ]
+  },
+  "dc-17msniperfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:dc-17m_sniper_fire",
+        "stream": false
+      }
+    ]
+  },
+  "valken_38xfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:valken_38x_fire_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:valken_38x_fire_2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:valken_38x_fire_3",
+        "stream": false
+      }
+    ]
+  },
+  "maulswing1": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:maulhit1",
+        "stream": false
+      }
+    ]
+  },
+  "maulhit2": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:maulhit2",
+        "stream": false
+      }
+    ]
+  },
+  "maulhit3": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:maulhit3",
+        "stream": false
+      }
+    ]
+  },
+  "maulhit4": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:maulhit4",
+        "stream": false
+      }
+    ]
+  },
+  "maulhit5": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:maulhit5",
+        "stream": false
+      }
+    ]
+  },
+  "maulhum": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:maulhum",
+        "stream": false
+      }
+    ]
+  },
+  "obiwanhum": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:lightsaberhum",
+        "stream": false
+      }
+    ]
+  },
+  "lightsaberhit1": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:obiwanhit1",
+        "stream": false
+      }
+    ]
+  },
+  "lightsaberhit2": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:obiwanhit2",
+        "stream": false
+      }
+    ]
+  },
+  "lightsaberhit3": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:obiwanhit3",
+        "stream": false
+      }
+    ]
+  },
+  "lightsaberhit4": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:obiwanhit4",
+        "stream": false
+      }
+    ]
+  },
+  "lightsaberhit5": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:obiwanhit5",
+        "stream": false
+      }
+    ]
+  },
+  "dc17mgrenadefire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:dc17m_grenade_fire",
+        "stream": false
+      }
+    ]
+  },
+  "e-5": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:battledroidfire1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidfire2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidfire3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:battledroidfire4",
+        "stream": false
+      }
+    ]
+  },
+  "dc17mreload": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "starwarsmod:dc17m_reload",
+        "stream": false
+      }
+    ]
+  },
+  "spiderdroidfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:spiderdroidfire1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:spiderdroidfire2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:spiderdroidfire3",
+        "stream": false
+      }
+    ]
+  },
+  "buzzdroididle": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:buzzidle1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:buzzidle2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:buzzidle3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:buzzidle4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:buzzidle5",
+        "stream": false
+      }
+    ]
+  },
+  "buzzdroidspawn": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:buzzspawn",
+        "stream": false
+      }
+    ]
+  },
+  "vibrobladehit": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:viroblade_hit",
+        "stream": false
+      }
+    ]
+  },
+  "clonekillsai": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:cloneuponkill1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:cloneuponkill2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:cloneuponkill3",
+        "stream": false
+      }
+    ]
+  },
+  "cloneofficerkillsai": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:cloneofficeruponkill1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:cloneofficeruponkill2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:cloneofficeruponkill3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:cloneofficeruponkill4",
+        "stream": false
+      }
+    ]
+  },
+  "arctrooperkillsai": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:arctrooperuponkill1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:arctrooperuponkill2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:arctrooperuponkill3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:arctrooperuponkill4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:arctrooperuponkill5",
+        "stream": false
+      }
+    ]
+  },
+  "droidkillsai": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:droiduponkill1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:droiduponkill2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:droiduponkill3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:droiduponkill4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:droiduponkill5",
+        "stream": false
+      }
+    ]
+  },
+  "commandodroidkillsai": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:commandodroiduponkill1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:commandodroiduponkill2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:commandodroiduponkill3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:commandodroiduponkill4",
+        "stream": false
+      }
+    ]
+  },
+  "superbattledroidkillsai": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:superbattledroiduponkill1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiduponkill2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiduponkill3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:superbattledroiduponkill4",
+        "stream": false
+      }
+    ]
+  },
+  "destroyerdroidshoot": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:destroyerdroidshoot1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:destroyerdroidshoot2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:destroyerdroidshoot3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:destroyerdroidshoot4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:destroyerdroidshoot5",
+        "stream": false
+      }
+    ]
+  },
+  "commandodroidhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:commandodroidhurt1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:commandodroidhurt2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:commandodroidhurt3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:commandodroidhurt4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:commandodroidhurt5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:commandodroidhurt6",
+        "stream": false
+      }
+    ]
+  },
+  "commandodroidjump": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:commandodroidjump",
+        "stream": false
+      }
+    ]
+  },
+  "atrtstep": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:at-rt_step",
+        "stream": false
+      }
+    ]
+  },
+  "atrtstartup": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:at-rt_startup",
+        "stream": false
+      }
+    ]
+  },
+  "atrtfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:at-rtfire",
+        "stream": false
+      }
+    ]
+  },
+  "atrtoverheat": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:at-rt_overheat",
+        "stream": false
+      }
+    ]
+  },
+  "ewebfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:eweb_fire",
+        "stream": false
+      }
+    ]
+  },
+  "eweboverheat": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:eweb_overheat",
+        "stream": false
+      }
+    ]
+  },
+  "atrtturnoff": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:at-rt_turnoff",
+        "stream": false
+      }
+    ]
+  },
+  "rg-4dfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:rg-4dfire2",
+        "stream": false
+      }
+    ]
+  },
+  "virobladeswing": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:viroblade_swing",
+        "stream": false
+      }
+    ]
+  },
+  "e5cfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:e-5c_fire_1",
+        "stream": false
+      }
+    ]
+  },
+  "e5sfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:e-5sfire",
+        "stream": false
+      }
+    ]
+  },
+  "geonosianblasterfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:geonosianblasterfire",
+        "stream": false
+      }
+    ]
+  },
+  "geonosianwingflap": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:geonosianflap1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap11",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap12",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap13",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap14",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianflap9",
+        "stream": false
+      }
+    ]
+  },
+  "geonosiandeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:geonosiandeath1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosiandeath2",
+        "stream": false
+      }
+    ]
+  },
+  "geonosianhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:geonosianhurt1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianhurt2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianhurt3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianhurt4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianhurt5",
+        "stream": false
+      }
+    ]
+  },
+  "geonosianliving": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:geonosianidle1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianidle2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianidle3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianidle4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianidle5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:geonosianidle6",
+        "stream": false
+      }
+    ]
+  },
+  "j10fire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:j-10fire1",
+        "stream": false
+      }
+    ]
+  },
+  "acklayscreech": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:acklay_screech_1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:acklay_screech_2",
+        "stream": false
+      }
+    ]
+  },
+  "flamethroweron": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:flamethroweron",
+        "stream": false
+      }
+    ]
+  },
+  "lr57fire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:lr-57_fire",
+        "stream": false
+      }
+    ]
+  },
+  "senatecommandohurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:senatecommandohurt1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:senatecommandohurt2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:senatecommandohurt3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:senatecommandohurt4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:senatecommandohurt5",
+        "stream": false
+      }
+    ]
+  },
+  "senatecommandodeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:senatecommandodeath",
+        "stream": false
+      }
+    ]
+  },
+  "stapfire": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:stapfire1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:stapfire2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:stapfire3",
+        "stream": false
+      }
+    ]
+  },
+  "siesmicchargepreexplosion": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "starwarsmod:pre_explosion",
+        "stream": false
+      }
+    ]
+  },
+  "siesmicgchargeexplosion": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "starwarsmod:siesmicchargeexplosion",
+        "stream": false
+      }
+    ]
+  },
+  "seismicchargeexplosioncombined": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "starwarsmod:seismic_charge_explosion",
+        "stream": false
+      }
+    ]
+  },
+  "magnaguarddeath": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:magnaguarddeath1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguarddeath2",
+        "stream": false
+      }
+    ]
+  },
+  "magnaguardhurt": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:magnaguardhurt1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt11",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt12",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt13",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt14",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt15",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt16",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardhurt9",
+        "stream": false
+      }
+    ]
+  },
+  "magnaguardspawn": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:magnaguardspawn1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardspawn2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguardspawn3",
+        "stream": false
+      }
+    ]
+  },
+  "magnaguarduponkill": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:magnaguarduponkill1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguarduponkill2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguarduponkill3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguarduponkill4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguarduponkill5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:magnaguarduponkill6",
+        "stream": false
+      }
+    ]
+  },
+  "electrostaffloop": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:electrostaffloop",
+        "stream": false
+      }
+    ]
+  },
+  "electrostaffswing": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "starwarsmod:electrostaffswing1",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:electrostaffswing10",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:electrostaffswing11",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:electrostaffswing2",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:electrostaffswing3",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:electrostaffswing4",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:electrostaffswing5",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:electrostaffswing6",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:electrostaffswing7",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:electrostaffswing8",
+        "stream": false
+      },
+      {
+        "name": "starwarsmod:electrostaffswing9",
+        "stream": false
+      }
+    ]
+  }
+}

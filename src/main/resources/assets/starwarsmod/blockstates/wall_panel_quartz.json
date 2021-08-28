@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/wall_panel_quartz"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/wall_panel_quartz",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/wall_panel_quartz",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/wall_panel_quartz",
+      "y": 270
+    }
+  }
+}

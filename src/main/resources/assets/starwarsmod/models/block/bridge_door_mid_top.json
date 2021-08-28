@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/stardestroyerbridgedoormidtop",
+  "textures": {
+    "all": "starwarsmod:blocks/bridgedoormidtop",
+    "particle": "starwarsmod:blocks/bridgedoormidtop",
+    "1": "starwarsmod:blocks/bridgedoormidtop"
+  }
+}

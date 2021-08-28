@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/blast_door_button"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/blast_door_button",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/blast_door_button",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/blast_door_button",
+      "y": 270
+    }
+  }
+}

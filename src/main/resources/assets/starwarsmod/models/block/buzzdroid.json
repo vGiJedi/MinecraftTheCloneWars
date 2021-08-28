@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/buzzdroidblock",
+  "textures": {
+    "all": "starwarsmod:blocks/buzzdroidblock",
+    "particle": "starwarsmod:blocks/buzzdroidblock",
+    "0": "starwarsmod:blocks/buzzdroidblock"
+  }
+}

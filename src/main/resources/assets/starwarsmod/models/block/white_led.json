@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/whiteled",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "3": "starwarsmod:blocks/whiteledsmall"
+  }
+}

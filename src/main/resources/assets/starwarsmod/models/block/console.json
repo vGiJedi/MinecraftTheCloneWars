@@ -1,0 +1,12 @@
+{
+  "parent": "starwarsmod:custom/console",
+  "textures": {
+    "all": "starwarsmod:blocks/acacia_planks",
+    "particle": "starwarsmod:blocks/acacia_planks",
+    "bedrock": "starwarsmod:blocks/bedrock",
+    "lectern_front": "starwarsmod:blocks/lectern_front",
+    "yellow_concrete": "starwarsmod:blocks/yellow_concrete",
+    "acacia_planks": "starwarsmod:blocks/acacia_planks",
+    "cartography_table_side1": "starwarsmod:blocks/cartography_table_side1"
+  }
+}

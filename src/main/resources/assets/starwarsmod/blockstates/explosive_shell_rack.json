@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/explosive_shell_rack"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/explosive_shell_rack",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/explosive_shell_rack",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/explosive_shell_rack",
+      "y": 270
+    }
+  }
+}

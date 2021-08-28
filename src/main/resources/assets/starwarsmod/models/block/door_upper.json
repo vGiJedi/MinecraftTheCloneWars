@@ -1,0 +1,9 @@
+{
+  "parent": "starwarsmod:custom/doorupper",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "4": "starwarsmod:blocks/4",
+    "stone": "starwarsmod:blocks/stone"
+  }
+}

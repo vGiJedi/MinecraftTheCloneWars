@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "anakins_lightsaber",
+    "customModelName": "anakinslightsaber:default",
+    "name": "Anakin's Lightsaber",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:StarWarsWeapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 15.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "LightsaberHum"
+    },
+    "onEntitySwing": {
+      "name": "LightsaberHit"
+    }
+  }
+}

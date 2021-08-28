@@ -1,0 +1,11 @@
+{
+  "parent": "starwarsmod:custom/locker_bottom",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "polished_granite": "starwarsmod:blocks/polished_granite",
+    "4": "starwarsmod:blocks/4",
+    "iron_block": "starwarsmod:blocks/iron_block",
+    "stone": "starwarsmod:blocks/stone"
+  }
+}

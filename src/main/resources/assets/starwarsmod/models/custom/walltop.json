@@ -1,0 +1,485 @@
+{
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    128,
+    128
+  ],
+  "elements": [
+    {
+      "from": [
+        0,
+        11,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          23,
+          8,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            8,
+            14,
+            5.5
+          ],
+          "texture": "#smooth stone"
+        },
+        "east": {
+          "uv": [
+            3,
+            8,
+            11,
+            5.5
+          ],
+          "texture": "#smooth stone"
+        },
+        "south": {
+          "uv": [
+            5,
+            15,
+            13,
+            12.5
+          ],
+          "texture": "#smooth stone"
+        },
+        "west": {
+          "uv": [
+            5,
+            9,
+            13,
+            6.5
+          ],
+          "texture": "#smooth stone"
+        },
+        "up": {
+          "uv": [
+            4,
+            15,
+            12,
+            7
+          ],
+          "texture": "#smooth stone"
+        },
+        "down": {
+          "uv": [
+            4,
+            6.75,
+            0,
+            8.75
+          ],
+          "texture": "#smooth stone"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        2
+      ],
+      "to": [
+        16,
+        11,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          23,
+          3,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            3.375,
+            4,
+            0
+          ],
+          "texture": "#smooth stone"
+        },
+        "east": {
+          "uv": [
+            8,
+            7.25,
+            15,
+            1.75
+          ],
+          "texture": "#smooth stone"
+        },
+        "south": {
+          "uv": [
+            5,
+            10,
+            13,
+            4.5
+          ],
+          "texture": "#smooth stone"
+        },
+        "west": {
+          "uv": [
+            5,
+            12.5,
+            12,
+            7
+          ],
+          "texture": "#smooth stone"
+        },
+        "up": {
+          "uv": [
+            12,
+            1.75,
+            8,
+            0
+          ],
+          "texture": "#smooth stone"
+        },
+        "down": {
+          "uv": [
+            2,
+            10,
+            10,
+            3
+          ],
+          "texture": "#smooth stone"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        10,
+        0
+      ],
+      "to": [
+        16,
+        11,
+        1
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          23,
+          3,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            7.5,
+            12,
+            7.375
+          ],
+          "texture": "#smooth stone"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            9.625,
+            7.625,
+            9.5
+          ],
+          "texture": "#smooth stone"
+        },
+        "south": {
+          "uv": [
+            8,
+            7.625,
+            12,
+            7.5
+          ],
+          "texture": "#smooth stone"
+        },
+        "west": {
+          "uv": [
+            7.625,
+            9.625,
+            7.75,
+            9.5
+          ],
+          "texture": "#smooth stone"
+        },
+        "up": {
+          "uv": [
+            12,
+            7.875,
+            8,
+            7.75
+          ],
+          "texture": "#smooth stone"
+        },
+        "down": {
+          "uv": [
+            6,
+            7,
+            14,
+            6.5
+          ],
+          "texture": "#smooth stone"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        1
+      ],
+      "to": [
+        16,
+        11,
+        2
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          23,
+          3,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            7.375,
+            8,
+            4
+          ],
+          "texture": "#6"
+        },
+        "east": {
+          "uv": [
+            11,
+            14.375,
+            11.125,
+            11
+          ],
+          "texture": "#6"
+        },
+        "south": {
+          "uv": [
+            4,
+            3.375,
+            8,
+            0
+          ],
+          "texture": "#6"
+        },
+        "west": {
+          "uv": [
+            11.125,
+            14.5,
+            11.25,
+            11.125
+          ],
+          "texture": "#6"
+        },
+        "up": {
+          "uv": [
+            13.75,
+            4.25,
+            9.75,
+            4.125
+          ],
+          "texture": "#6"
+        },
+        "down": {
+          "uv": [
+            12,
+            7.875,
+            8,
+            8
+          ],
+          "texture": "#6"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        9,
+        1
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          23,
+          1,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            11,
+            10,
+            6.5
+          ],
+          "texture": "#smooth stone"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            14,
+            8,
+            9.5
+          ],
+          "texture": "#smooth stone"
+        },
+        "south": {
+          "uv": [
+            3.125,
+            12.5,
+            4.5,
+            9.375
+          ],
+          "texture": "#smooth stone"
+        },
+        "west": {
+          "uv": [
+            11.375,
+            15.875,
+            11.875,
+            11.375
+          ],
+          "texture": "#smooth stone"
+        },
+        "up": {
+          "uv": [
+            9.375,
+            7.625,
+            16,
+            7.125
+          ],
+          "texture": "#smooth stone"
+        },
+        "down": {
+          "uv": [
+            2,
+            6.5,
+            10,
+            6
+          ],
+          "texture": "#smooth stone"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        107,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        135,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "WallDetailedTop",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "children": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+}

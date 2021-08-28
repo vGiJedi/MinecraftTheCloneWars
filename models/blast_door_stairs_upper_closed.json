@@ -1,0 +1,204 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "particle": "minecraft:block/acacia_planks",
+        "cobblestone": "minecraft:block/cobblestone",
+        "stone": "minecraft:block/stone"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 4, 0 ],
+            "scale": [ 0.85, 0.85, 0.85 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 270, 0 ],
+            "translation": [ 0, 0, -14 ],
+            "scale": [ 2, 2, 2 ]
+        },
+        "head": {
+            "rotation": [ 0, 270, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 86, 272, 0 ],
+            "translation": [ 0, 2.5, -2 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 0, 10, 0 ], 
+            "to": [ 16, 16, 6 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 6 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 6, 6 ] },
+                "south": { "texture": "#stone", "uv": [ 0, 0, 16, 6 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 6, 6 ] },
+                "up": { "texture": "#stone", "uv": [ 0, 0, 16, 6 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 6 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 15, 5 ], 
+            "to": [ 16, 16, 15 ], 
+            "faces": {
+                "east": { "texture": "#stone", "uv": [ 0, 0, 10, 1 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 10, 1 ] },
+                "up": { "texture": "#stone", "uv": [ 0, 0, 16, 10 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 10 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 0, 15 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 16 ] },
+                "south": { "texture": "#stone", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 16 ] },
+                "up": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, -4.6, 7.3 ], 
+            "to": [ 16, 12.4, 8.3 ], 
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -45.0 },
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 14 ] },
+                "south": { "texture": "#stone", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 14 ] },
+                "up": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 1.4, 14 ], 
+            "to": [ 16, 15.4, 15 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 14 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 14 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 14 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 2.4, 13 ], 
+            "to": [ 16, 15.4, 14 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 13 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 13 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 13 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 3.4, 12 ], 
+            "to": [ 16, 15.4, 13 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 12 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 12 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 12 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 4.4, 11 ], 
+            "to": [ 16, 15.4, 12 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 11 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 11 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 11 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 5.4, 10 ], 
+            "to": [ 16, 15.4, 11 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 10 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 10 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 10 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 6.4, 9 ], 
+            "to": [ 16, 15.4, 10 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 9 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 9 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 9 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 7.4, 8 ], 
+            "to": [ 16, 15.4, 9 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 8 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 8 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 8 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 8.4, 7 ], 
+            "to": [ 16, 15.4, 8 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 7 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 7 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 7 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 9.4, 6 ], 
+            "to": [ 16, 15.4, 7 ], 
+            "faces": {
+                "north": { "texture": "#stone", "uv": [ 0, 0, 16, 6 ] },
+                "east": { "texture": "#stone", "uv": [ 0, 0, 1, 6 ] },
+                "west": { "texture": "#stone", "uv": [ 0, 0, 1, 6 ] },
+                "down": { "texture": "#stone", "uv": [ 0, 0, 16, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.5, 0, 0 ], 
+            "to": [ 8.5, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#cobblestone", "uv": [ 0, 0, 0.2, 16 ] },
+                "east": { "texture": "#cobblestone", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#cobblestone", "uv": [ 0, 0, 16, 16 ] },
+                "up": { "texture": "#cobblestone", "uv": [ 0, 0, 0.2, 16 ] },
+                "down": { "texture": "#cobblestone", "uv": [ 0, 0, 2.2, 16 ] }
+            }
+        }
+    ]
+}

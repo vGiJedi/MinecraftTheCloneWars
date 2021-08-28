@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/redledlargefloor"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/redledlargefloor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/redledlargefloor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/redledlargefloor",
+      "y": 270
+    }
+  }
+}

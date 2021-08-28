@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "6": "6",
+        "smooth stone": "stone_slab_top"
+      },
+      "name": "default"
+    }
+  }
+}

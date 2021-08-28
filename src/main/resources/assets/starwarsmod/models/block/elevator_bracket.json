@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/elevatorbracket",
+  "textures": {
+    "all": "starwarsmod:blocks/elevatorbracket",
+    "particle": "starwarsmod:blocks/elevatorbracket",
+    "4": "starwarsmod:blocks/elevatorbracket"
+  }
+}

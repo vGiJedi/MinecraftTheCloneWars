@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "starwarsmod:blocks/emergency_light_red",
+    "up": "starwarsmod:blocks/emergency_light_red",
+    "north": "starwarsmod:blocks/emergency_light_red",
+    "east": "starwarsmod:blocks/emergency_light_red",
+    "south": "starwarsmod:blocks/emergency_light_red",
+    "west": "starwarsmod:blocks/emergency_light_red",
+    "particle": "starwarsmod:blocks/emergency_light_red"
+  }
+}

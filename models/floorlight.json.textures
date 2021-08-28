@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "bedrock": "bedrock",
+        "8": "8",
+        "emergency light red": "emergency_light_red"
+      },
+      "name": "default"
+    }
+  }
+}

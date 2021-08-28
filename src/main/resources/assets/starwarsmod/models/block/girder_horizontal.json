@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/girdervertical",
+  "textures": {
+    "all": "starwarsmod:blocks/rusty_iron_block",
+    "particle": "starwarsmod:blocks/rusty_iron_block",
+    "Rusty_iron_block": "starwarsmod:blocks/rusty_iron_block"
+  }
+}

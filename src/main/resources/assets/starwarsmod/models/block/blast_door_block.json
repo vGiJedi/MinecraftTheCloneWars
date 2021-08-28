@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/blastdoorblock",
+  "textures": {
+    "all": "starwarsmod:blocks/blastdoorblock",
+    "particle": "starwarsmod:blocks/blastdoorblock",
+    "1": "starwarsmod:blocks/blastdoorblock"
+  }
+}

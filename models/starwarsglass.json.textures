@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "gray_stained_glass": "graystainedglass1"
+      },
+      "name": "default"
+    }
+  }
+}

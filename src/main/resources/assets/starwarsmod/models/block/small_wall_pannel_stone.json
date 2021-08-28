@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/smallwallpanel",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "missing": "starwarsmod:blocks/stone"
+  }
+}

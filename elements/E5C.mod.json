@@ -1,0 +1,40 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "e-5c",
+    "customModelName": "e-5c_blaster:default",
+    "name": "E-5C",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:StarWarsWeapons"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 100000,
+    "actionSound": {
+      "value": "CUSTOM:e5cfire"
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "E5CRangedItemUsed"
+    },
+    "bulletPower": 1.0,
+    "bulletDamage": 1.0,
+    "bulletKnockback": 2,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": ""
+    },
+    "bulletModel": "ModelBD_Laser",
+    "customBulletModelTexture": "bd_laser.png"
+  }
+}

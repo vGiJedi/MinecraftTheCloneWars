@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DedlaniteIngot"
+      },
+      {
+        "value": "CUSTOM:DedlaniteIngot"
+      },
+      {
+        "value": "CUSTOM:DedlaniteIngot"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:BlasterComponentsItem"
+      },
+      {
+        "value": "CUSTOM:BlueGasCannister"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:CodoanCopperIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DC15C"
+    },
+    "name": "dc_15_c_crafting_recipe",
+    "namespace": "mod"
+  }
+}

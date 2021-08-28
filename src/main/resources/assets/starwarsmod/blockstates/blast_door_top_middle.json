@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/blast_door_top_middle"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/blast_door_top_middle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/blast_door_top_middle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/blast_door_top_middle",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "starwarsmod:custom/floorlight",
+  "textures": {
+    "all": "starwarsmod:blocks/bedrock",
+    "particle": "starwarsmod:blocks/bedrock",
+    "bedrock": "starwarsmod:blocks/bedrock",
+    "8": "starwarsmod:blocks/8",
+    "emergency light red": "starwarsmod:blocks/emergency_light_red"
+  }
+}

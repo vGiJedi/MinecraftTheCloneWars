@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Star Wars Lights",
+    "icon": {
+      "value": "CUSTOM:WallLightAlternative"
+    },
+    "showSearch": false
+  }
+}

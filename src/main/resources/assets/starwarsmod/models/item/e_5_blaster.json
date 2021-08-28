@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/e-5_blaster",
+  "textures": {
+    "0": "starwarsmod:blocks/e-5_blaster",
+    "particle": "starwarsmod:items/e-5_blaster"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/dc-17m_sniper_magazine",
+  "textures": {
+    "2": "starwarsmod:blocks/dc-17m_sniper_magazine",
+    "particle": "starwarsmod:items/lasermag"
+  }
+}

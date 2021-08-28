@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/curveblocksmoothstone"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/curveblocksmoothstone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/curveblocksmoothstone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/curveblocksmoothstone",
+      "y": 270
+    }
+  }
+}

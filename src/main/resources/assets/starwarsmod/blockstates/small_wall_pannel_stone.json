@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/small_wall_pannel_stone"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/small_wall_pannel_stone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/small_wall_pannel_stone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/small_wall_pannel_stone",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/climeable_metal_grate_red"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/climeable_metal_grate_red",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/climeable_metal_grate_red",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/climeable_metal_grate_red",
+      "y": 270
+    }
+  }
+}

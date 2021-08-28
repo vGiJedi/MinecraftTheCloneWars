@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "stone": "stone"
+      },
+      "name": "default"
+    }
+  }
+}

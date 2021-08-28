@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/comdisplaystandedge",
+  "textures": {
+    "all": "starwarsmod:blocks/comdisplaystandmiddle",
+    "particle": "starwarsmod:blocks/comdisplaystandmiddle",
+    "0": "starwarsmod:blocks/comdisplaystandedge"
+  }
+}

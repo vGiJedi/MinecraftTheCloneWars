@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Rusty_iron_block": "rusty_iron_block"
+      },
+      "name": "default"
+    }
+  }
+}

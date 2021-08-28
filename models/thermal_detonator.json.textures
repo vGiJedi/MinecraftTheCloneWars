@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "thermal_detonator"
+      },
+      "name": "default"
+    }
+  }
+}

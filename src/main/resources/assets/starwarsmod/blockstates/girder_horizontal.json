@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/girder_horizontal"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/girder_horizontal",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/girder_horizontal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/girder_horizontal",
+      "y": 270
+    }
+  }
+}

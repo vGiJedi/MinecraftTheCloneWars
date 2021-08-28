@@ -1,0 +1,10 @@
+{
+  "parent": "starwarsmod:custom/console_corner_top",
+  "textures": {
+    "all": "starwarsmod:blocks/6",
+    "particle": "starwarsmod:blocks/6",
+    "yellow_concrete": "starwarsmod:blocks/yellow_concrete",
+    "6": "starwarsmod:blocks/6",
+    "red_terracotta1": "starwarsmod:blocks/red_terracotta1"
+  }
+}

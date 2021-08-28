@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/vibroblade",
+  "textures": {
+    "0": "starwarsmod:blocks/viroblade",
+    "particle": "starwarsmod:items/viroblade"
+  }
+}

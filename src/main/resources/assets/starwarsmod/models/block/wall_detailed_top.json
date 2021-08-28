@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/walldetailedtop",
+  "textures": {
+    "all": "starwarsmod:blocks/walldetailed",
+    "particle": "starwarsmod:blocks/walldetailed",
+    "6": "starwarsmod:blocks/walldetailed"
+  }
+}

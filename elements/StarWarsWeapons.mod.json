@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Star Wars Weapons",
+    "icon": {
+      "value": "CUSTOM:DC17Mainhand"
+    },
+    "showSearch": true
+  }
+}

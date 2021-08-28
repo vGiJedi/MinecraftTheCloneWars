@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/siesmiccharge",
+  "textures": {
+    "all": "starwarsmod:blocks/siesmiccharge",
+    "particle": "starwarsmod:blocks/siesmiccharge",
+    "0": "starwarsmod:blocks/siesmiccharge"
+  }
+}

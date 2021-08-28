@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.7,
+    "cookingTime": 300,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:DedlaniteOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:DedlaniteIngot"
+    },
+    "name": "dedlanite_ore_smelting",
+    "namespace": "mod"
+  }
+}

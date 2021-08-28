@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/white_led"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/white_led",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/white_led",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/white_led",
+      "y": 270
+    }
+  }
+}

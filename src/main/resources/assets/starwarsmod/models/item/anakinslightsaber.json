@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/anakinslightsaber",
+  "textures": {
+    "0": "starwarsmod:blocks/anakinslightsaber",
+    "particle": "starwarsmod:items/anakins_lightsaber"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/doorlight"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/doorlight",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/doorlight",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/doorlight",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "starwarsmod:custom/doorlighttop",
+  "textures": {
+    "all": "starwarsmod:blocks/stone_slab_top",
+    "particle": "starwarsmod:blocks/stone_slab_top",
+    "5": "starwarsmod:blocks/5",
+    "acacia_planks": "starwarsmod:blocks/acacia_planks",
+    "smooth_stone": "starwarsmod:blocks/stone_slab_top"
+  }
+}

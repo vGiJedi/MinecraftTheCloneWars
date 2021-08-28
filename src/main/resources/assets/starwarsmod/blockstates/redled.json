@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/redled"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/redled",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/redled",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/redled",
+      "y": 270
+    }
+  }
+}

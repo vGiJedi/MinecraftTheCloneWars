@@ -1,0 +1,9 @@
+{
+  "parent": "starwarsmod:custom/brigfloor",
+  "textures": {
+    "all": "starwarsmod:blocks/brig_floor",
+    "particle": "starwarsmod:blocks/brig_floor",
+    "BRIGFLOORLIGHT": "starwarsmod:blocks/brigfloorlight",
+    "BRIGFLORMESH": "starwarsmod:blocks/brigflormesh"
+  }
+}

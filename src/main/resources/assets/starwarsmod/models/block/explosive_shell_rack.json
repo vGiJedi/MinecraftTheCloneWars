@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/explosiveshellrack",
+  "textures": {
+    "all": "starwarsmod:blocks/explosiveshell",
+    "particle": "starwarsmod:blocks/explosiveshell",
+    "1": "starwarsmod:blocks/explosiveshellrack"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/laat_railing"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/laat_railing",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/laat_railing",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/laat_railing",
+      "y": 270
+    }
+  }
+}

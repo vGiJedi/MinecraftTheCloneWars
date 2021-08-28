@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/ceiling_light_a"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/ceiling_light_a",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/ceiling_light_a",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/ceiling_light_a",
+      "y": 270
+    }
+  }
+}

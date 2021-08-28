@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/circularwalllightred",
+  "textures": {
+    "all": "starwarsmod:blocks/circularwalllightred",
+    "particle": "starwarsmod:blocks/circularwalllightred",
+    "3": "starwarsmod:blocks/circularwalllightred"
+  }
+}

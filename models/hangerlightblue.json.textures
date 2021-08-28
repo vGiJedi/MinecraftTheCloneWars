@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "magenta_stained_glass": "magenta_stained_glass",
+        "stone": "stone"
+      },
+      "name": "default"
+    }
+  }
+}

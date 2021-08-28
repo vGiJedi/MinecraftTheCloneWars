@@ -1,0 +1,10 @@
+{
+  "parent": "starwarsmod:custom/ceilinglight-goes_above_wall_light",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "5": "starwarsmod:blocks/5",
+    "smooth_stone": "starwarsmod:blocks/stone_slab_top",
+    "stone": "starwarsmod:blocks/stone"
+  }
+}

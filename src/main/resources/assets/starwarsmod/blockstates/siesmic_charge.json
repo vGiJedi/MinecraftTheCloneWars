@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/siesmic_charge"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/siesmic_charge",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/siesmic_charge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/siesmic_charge",
+      "y": 270
+    }
+  }
+}

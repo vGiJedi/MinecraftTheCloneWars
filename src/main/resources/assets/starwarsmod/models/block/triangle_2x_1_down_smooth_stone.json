@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/triangle_2x1_down_smooth_stone",
+  "textures": {
+    "all": "starwarsmod:blocks/stone_slab_top",
+    "particle": "starwarsmod:blocks/stone_slab_top",
+    "0": "starwarsmod:blocks/stone_slab_top"
+  }
+}

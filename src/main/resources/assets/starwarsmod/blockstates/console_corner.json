@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/console_corner"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/console_corner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/console_corner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/console_corner",
+      "y": 270
+    }
+  }
+}

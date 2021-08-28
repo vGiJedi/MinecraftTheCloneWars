@@ -1,0 +1,9 @@
+{
+  "parent": "starwarsmod:custom/slope_smooth_stone_upper",
+  "textures": {
+    "all": "starwarsmod:blocks/stone_slab_top",
+    "particle": "starwarsmod:blocks/stone_slab_top",
+    "smooth_stone": "starwarsmod:blocks/stone_slab_top",
+    "stone": "starwarsmod:blocks/stone_slab_top"
+  }
+}

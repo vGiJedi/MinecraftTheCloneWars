@@ -1,0 +1,9 @@
+{
+  "parent": "starwarsmod:custom/hangerlightlargestone",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "1": "starwarsmod:blocks/stone",
+    "hangerlight": "starwarsmod:blocks/hangerlight"
+  }
+}

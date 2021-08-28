@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/bridge_window_end"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/bridge_window_end",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/bridge_window_end",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/bridge_window_end",
+      "y": 270
+    }
+  }
+}

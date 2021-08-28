@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/circular_wall_light_white"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/circular_wall_light_white",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/circular_wall_light_white",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/circular_wall_light_white",
+      "y": 270
+    }
+  }
+}

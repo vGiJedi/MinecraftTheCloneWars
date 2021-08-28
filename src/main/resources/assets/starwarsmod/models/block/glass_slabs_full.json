@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "starwarsmod:blocks/graystainedglass1",
+    "top": "starwarsmod:blocks/graystainedglass1",
+    "side": "starwarsmod:blocks/graystainedglass1"
+  }
+}

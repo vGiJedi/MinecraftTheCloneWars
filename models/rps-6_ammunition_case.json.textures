@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "rps-6_ammunition"
+      },
+      "name": "default"
+    }
+  }
+}

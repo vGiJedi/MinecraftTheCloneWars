@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "yellow_concrete": "yellow_concrete",
+        "6": "6",
+        "red_terracotta1": "red_terracotta1"
+      },
+      "name": "default"
+    }
+  }
+}

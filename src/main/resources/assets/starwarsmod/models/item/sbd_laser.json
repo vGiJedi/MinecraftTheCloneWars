@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/sbd_laser",
+  "textures": {
+    "0": "starwarsmod:blocks/sbd_laser_texture",
+    "particle": "starwarsmod:items/brigfloorlight"
+  }
+}

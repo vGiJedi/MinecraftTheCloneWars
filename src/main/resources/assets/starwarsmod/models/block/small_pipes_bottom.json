@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/smallpipesbracketbottom",
+  "textures": {
+    "all": "starwarsmod:blocks/smallpipesbracket",
+    "particle": "starwarsmod:blocks/smallpipesbracket",
+    "3": "starwarsmod:blocks/smallpipesbracket"
+  }
+}

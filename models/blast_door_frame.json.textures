@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "cobblestone": "cobblestone",
+        "stone": "stone"
+      },
+      "name": "default"
+    }
+  }
+}

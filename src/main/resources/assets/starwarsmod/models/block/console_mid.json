@@ -1,0 +1,10 @@
+{
+  "parent": "starwarsmod:custom/console_mid",
+  "textures": {
+    "all": "starwarsmod:blocks/acacia_planks",
+    "particle": "starwarsmod:blocks/acacia_planks",
+    "yellow_concrete": "starwarsmod:blocks/yellow_concrete",
+    "8": "starwarsmod:blocks/8",
+    "acacia_planks": "starwarsmod:blocks/acacia_planks"
+  }
+}

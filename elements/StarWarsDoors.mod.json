@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Star Wars Doors",
+    "icon": {
+      "value": "Blocks.OAK_DOOR"
+    },
+    "showSearch": false
+  }
+}

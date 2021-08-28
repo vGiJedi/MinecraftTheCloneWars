@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/elevator_bracket"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/elevator_bracket",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/elevator_bracket",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/elevator_bracket",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "brigfloorlight",
+    "customModelName": "Normal",
+    "name": "Super Battle Droid Weapon",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:SBDLaser"
+    },
+    "shootConstantly": true,
+    "usageCount": 500,
+    "actionSound": {
+      "value": "CUSTOM:superbattledroidfire"
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": ""
+    },
+    "bulletModel": "ModelBD_Laser",
+    "customBulletModelTexture": "bd_laser.png"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "rps-6_texture"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/metal_grate"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/metal_grate",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/metal_grate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/metal_grate",
+      "y": 270
+    }
+  }
+}

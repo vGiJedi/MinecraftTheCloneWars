@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "starwarsmod:blocks/bedrock",
+    "up": "starwarsmod:blocks/bedrock",
+    "north": "starwarsmod:blocks/bedrock",
+    "east": "starwarsmod:blocks/bedrock",
+    "south": "starwarsmod:blocks/bedrock",
+    "west": "starwarsmod:blocks/bedrock",
+    "particle": "starwarsmod:blocks/bedrock"
+  }
+}

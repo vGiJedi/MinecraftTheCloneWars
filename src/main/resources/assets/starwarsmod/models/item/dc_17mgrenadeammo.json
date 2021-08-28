@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/dc17mgrenade",
+  "textures": {
+    "2": "starwarsmod:blocks/dc-17m_grenade",
+    "particle": "starwarsmod:items/dc-17m_grenade"
+  }
+}

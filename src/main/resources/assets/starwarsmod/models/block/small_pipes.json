@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/smallpipes",
+  "textures": {
+    "all": "starwarsmod:blocks/smallpipes",
+    "particle": "starwarsmod:blocks/smallpipes",
+    "1": "starwarsmod:blocks/smallpipes"
+  }
+}

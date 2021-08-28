@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/buzzdroid"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/buzzdroid",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/buzzdroid",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/buzzdroid",
+      "y": 270
+    }
+  }
+}

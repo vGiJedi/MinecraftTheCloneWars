@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/scaffolding"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/scaffolding",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/scaffolding",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/scaffolding",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "e-5s1"
+      },
+      "name": "default"
+    }
+  }
+}

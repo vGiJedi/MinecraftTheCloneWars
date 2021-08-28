@@ -1,0 +1,12 @@
+{
+  "group": "starwarsmod",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "starwarsmod:codoan_copper_ore"
+  },
+  "result": {
+    "item": "starwarsmod:codoan_copper_ingot"
+  }
+}

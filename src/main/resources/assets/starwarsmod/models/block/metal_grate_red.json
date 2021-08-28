@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/metalgratered",
+  "textures": {
+    "all": "starwarsmod:blocks/metalgratered",
+    "particle": "starwarsmod:blocks/metalgratered",
+    "1": "starwarsmod:blocks/metalgratered"
+  }
+}

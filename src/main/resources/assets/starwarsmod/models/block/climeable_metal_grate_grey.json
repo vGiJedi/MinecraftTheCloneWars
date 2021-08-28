@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/climeablemetalgratevertical",
+  "textures": {
+    "all": "starwarsmod:blocks/metalgrateclimeablevertical",
+    "particle": "starwarsmod:blocks/metalgrateclimeablevertical",
+    "2": "starwarsmod:blocks/metalgrateclimeablevertical"
+  }
+}

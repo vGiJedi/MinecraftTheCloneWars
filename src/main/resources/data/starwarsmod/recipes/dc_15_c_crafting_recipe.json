@@ -1,0 +1,39 @@
+{
+  "group": "starwarsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "starwarsmod:dedlanite_ingot"
+    },
+    "1": {
+      "item": "starwarsmod:dedlanite_ingot"
+    },
+    "2": {
+      "item": "starwarsmod:dedlanite_ingot"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "starwarsmod:blaster_components_item"
+    },
+    "5": {
+      "item": "starwarsmod:blue_gas_cannister"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "starwarsmod:codoan_copper_ingot"
+    }
+  },
+  "result": {
+    "item": "starwarsmod:dc_1_5_c",
+    "count": 1
+  }
+}

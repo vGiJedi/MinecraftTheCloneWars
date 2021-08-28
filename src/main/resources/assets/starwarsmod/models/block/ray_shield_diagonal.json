@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/rayshield",
+  "textures": {
+    "all": "starwarsmod:blocks/rayshieldtexture",
+    "particle": "starwarsmod:blocks/rayshieldtexture",
+    "2": "starwarsmod:blocks/rayshieldtexture"
+  }
+}

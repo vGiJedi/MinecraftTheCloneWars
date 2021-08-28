@@ -1,0 +1,9 @@
+{
+  "_fv": 24,
+  "_type": "function",
+  "definition": {
+    "code": "/effect @e[r=5] minecraft:regeneration 10 0",
+    "name": "heal",
+    "namespace": "mod"
+  }
+}

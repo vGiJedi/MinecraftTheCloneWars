@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "rifle",
+        "gold_block": "gold_block",
+        "gray_concrete_powder": "gray_concrete_powder"
+      },
+      "name": "default"
+    }
+  }
+}

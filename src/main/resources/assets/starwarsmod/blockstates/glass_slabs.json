@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "starwarsmod:block/glass_slabs"
+    },
+    "type=top": {
+      "model": "starwarsmod:block/glass_slabs_top"
+    },
+    "type=double": {
+      "model": "starwarsmod:block/glass_slabs_full"
+    }
+  }
+}

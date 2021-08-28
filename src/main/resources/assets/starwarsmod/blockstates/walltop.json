@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/walltop"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/walltop",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/walltop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/walltop",
+      "y": 270
+    }
+  }
+}

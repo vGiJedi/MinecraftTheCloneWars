@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/bridge_door_side_test"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/bridge_door_side_test",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/bridge_door_side_test",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/bridge_door_side_test",
+      "y": 270
+    }
+  }
+}

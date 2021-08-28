@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/darksaber",
+  "textures": {
+    "0": "starwarsmod:blocks/darksaber",
+    "particle": "starwarsmod:items/darksaber"
+  }
+}

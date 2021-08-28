@@ -1,0 +1,12 @@
+{
+  "group": "starwarsmod",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 50,
+  "ingredient": {
+    "item": "starwarsmod:blue_gas_dust"
+  },
+  "result": {
+    "item": "starwarsmod:blue_gas_cannister"
+  }
+}

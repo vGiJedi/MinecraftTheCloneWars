@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/metal_block_bolted",
+  "textures": {
+    "all": "starwarsmod:blocks/metal_block_bolted",
+    "particle": "starwarsmod:blocks/metal_block_bolted",
+    "0": "starwarsmod:blocks/metal_block_bolted"
+  }
+}

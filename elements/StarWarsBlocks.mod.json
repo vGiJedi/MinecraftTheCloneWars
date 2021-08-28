@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Star Wars Blocks",
+    "icon": {
+      "value": "CUSTOM:RedBeam"
+    },
+    "showSearch": false
+  }
+}

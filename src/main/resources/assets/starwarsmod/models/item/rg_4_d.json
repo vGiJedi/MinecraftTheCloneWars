@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/rg-4d_",
+  "textures": {
+    "0": "starwarsmod:blocks/rg-4d",
+    "particle": "starwarsmod:items/e-5_blaster"
+  }
+}

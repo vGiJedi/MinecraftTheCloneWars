@@ -1,0 +1,12 @@
+{
+  "group": "starwarsmod",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "starwarsmod:dedlanite_ore"
+  },
+  "result": {
+    "item": "starwarsmod:dedlanite_ingot"
+  }
+}

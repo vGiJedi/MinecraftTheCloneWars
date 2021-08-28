@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Accessories",
+    "icon": {
+      "value": "CUSTOM:ArmourIcon"
+    },
+    "showSearch": false
+  }
+}

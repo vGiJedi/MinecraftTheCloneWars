@@ -1,0 +1,13 @@
+{
+  "parent": "starwarsmod:custom/dispenser_vertical",
+  "textures": {
+    "all": "starwarsmod:blocks/acacia_planks",
+    "particle": "starwarsmod:blocks/acacia_planks",
+    "hopper_inside": "starwarsmod:blocks/hopper_inside",
+    "red": "starwarsmod:blocks/red",
+    "bedrock": "starwarsmod:blocks/bedrock",
+    "5": "starwarsmod:blocks/5",
+    "red_terracotta1": "starwarsmod:blocks/red_terracotta1",
+    "acacia_planks": "starwarsmod:blocks/acacia_planks"
+  }
+}

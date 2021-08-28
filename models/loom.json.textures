@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "bedrock": "bedrock",
+        "yellow_concrete": "yellow_concrete",
+        "red_terracotta1": "red_terracotta1",
+        "acacia_planks": "acacia_planks"
+      },
+      "name": "default"
+    }
+  }
+}

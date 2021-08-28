@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/clonehelmetprop",
+  "textures": {
+    "all": "starwarsmod:blocks/clonehelmetprop",
+    "particle": "starwarsmod:blocks/clonehelmetprop",
+    "1": "starwarsmod:blocks/clonehelmetprop"
+  }
+}

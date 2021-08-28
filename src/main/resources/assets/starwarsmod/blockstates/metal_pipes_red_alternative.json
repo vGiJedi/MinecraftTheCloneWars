@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/metal_pipes_red_alternative"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/metal_pipes_red_alternative",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/metal_pipes_red_alternative",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/metal_pipes_red_alternative",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "starwarsmod:block/metal_pipes_red_alternative",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "starwarsmod:block/metal_pipes_red_alternative",
+      "x": 90
+    }
+  }
+}

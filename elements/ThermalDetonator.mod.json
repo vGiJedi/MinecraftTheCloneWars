@@ -1,0 +1,49 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "thermaldetonator",
+    "customModelName": "thermal_detonator:default",
+    "name": "Thermal Detonator",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:StarWarsWeapons"
+    },
+    "stackSize": 5,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "ThermalDetonatorRangedItemUsed"
+    },
+    "bulletPower": 1.0,
+    "bulletDamage": 0.1,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:ThermalDetonator"
+    },
+    "bulletModel": "ModelThermal_DetonatorProjectile",
+    "customBulletModelTexture": "thermal_detonatorprojectile.png",
+    "onBulletHitsBlock": {
+      "name": "ThermalDetonatorExplosion"
+    },
+    "onBulletHitsPlayer": {
+      "name": "ThermalDetonatorExplosion"
+    },
+    "onBulletHitsEntity": {
+      "name": "ThermalDetonatorExplosion"
+    }
+  }
+}

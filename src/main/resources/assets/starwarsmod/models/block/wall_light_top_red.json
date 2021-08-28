@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/walllighttopred",
+  "textures": {
+    "all": "starwarsmod:blocks/walllighttopredimproved",
+    "particle": "starwarsmod:blocks/walllighttopredimproved",
+    "1": "starwarsmod:blocks/wall_light_top_red"
+  }
+}

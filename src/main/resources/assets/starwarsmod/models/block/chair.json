@@ -1,0 +1,10 @@
+{
+  "parent": "starwarsmod:custom/furnace",
+  "textures": {
+    "all": "starwarsmod:blocks/acacia_planks",
+    "particle": "starwarsmod:blocks/acacia_planks",
+    "black_wool": "starwarsmod:blocks/black_wool",
+    "8": "starwarsmod:blocks/8",
+    "acacia_planks": "starwarsmod:blocks/acacia_planks"
+  }
+}

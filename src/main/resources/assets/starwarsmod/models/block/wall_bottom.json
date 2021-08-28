@@ -1,0 +1,9 @@
+{
+  "parent": "starwarsmod:custom/wallbottom",
+  "textures": {
+    "all": "starwarsmod:blocks/stone_slab_top",
+    "particle": "starwarsmod:blocks/stone_slab_top",
+    "6": "starwarsmod:blocks/6",
+    "smooth stone": "starwarsmod:blocks/stone_slab_top"
+  }
+}

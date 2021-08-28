@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/minislabstone",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "stone": "starwarsmod:blocks/stone"
+  }
+}

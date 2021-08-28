@@ -1,0 +1,15 @@
+{
+  "parent": "starwarsmod:custom/consolevariant1",
+  "textures": {
+    "all": "starwarsmod:blocks/acacia_planks",
+    "particle": "starwarsmod:blocks/acacia_planks",
+    "bedrock": "starwarsmod:blocks/bedrock",
+    "gold_block": "starwarsmod:blocks/gold_block",
+    "lectern_front": "starwarsmod:blocks/lectern_front",
+    "yellow_concrete": "starwarsmod:blocks/yellow_concrete",
+    "acacia_planks": "starwarsmod:blocks/acacia_planks",
+    "purple_stained_glass_pane": "starwarsmod:blocks/purple_stained_glass_pane",
+    "stone": "starwarsmod:blocks/stone",
+    "cartography_table_side3": "starwarsmod:blocks/cartography_table_side3"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/escapepodringtopmiddleclosed",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "4": "starwarsmod:blocks/escapepodringtopmiddleclosed"
+  }
+}

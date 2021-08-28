@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/obiwanlightsaber",
+  "textures": {
+    "0": "starwarsmod:blocks/obiwanslightsaber",
+    "particle": "starwarsmod:items/obiwanlightsaber"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "starwarsmod:custom/hangerlightblue",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "magenta_stained_glass": "starwarsmod:blocks/magenta_stained_glass",
+    "stone": "starwarsmod:blocks/stone"
+  }
+}

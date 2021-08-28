@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/metalpipesrednobracket",
+  "textures": {
+    "all": "starwarsmod:blocks/metalpipesrednobracket",
+    "particle": "starwarsmod:blocks/metalpipesrednobracket",
+    "2": "starwarsmod:blocks/metalpipesrednobracket"
+  }
+}

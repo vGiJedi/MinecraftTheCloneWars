@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/clonetroopergrave",
+  "textures": {
+    "all": "starwarsmod:blocks/clonetroopergrave",
+    "particle": "starwarsmod:blocks/clonetroopergrave",
+    "5": "starwarsmod:blocks/clonetroopergrave"
+  }
+}

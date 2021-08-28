@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "starwarsmod:blocks/graystainedglass1",
+    "top": "starwarsmod:blocks/graystainedglass1",
+    "side": "starwarsmod:blocks/graystainedglass1"
+  }
+}

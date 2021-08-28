@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/redbeamtop",
+  "textures": {
+    "all": "starwarsmod:blocks/metalbeamtexture",
+    "particle": "starwarsmod:blocks/metalbeamtexture",
+    "2": "starwarsmod:blocks/redbeamtop"
+  }
+}

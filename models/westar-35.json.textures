@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "westar-35_texture"
+      },
+      "name": "default"
+    }
+  }
+}

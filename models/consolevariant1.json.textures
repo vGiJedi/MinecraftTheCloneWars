@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "bedrock": "bedrock",
+        "gold_block": "gold_block",
+        "lectern_front": "lectern_front",
+        "yellow_concrete": "yellow_concrete",
+        "acacia_planks": "acacia_planks",
+        "purple_stained_glass_pane": "purple_stained_glass_pane",
+        "stone": "stone",
+        "cartography_table_side3": "cartography_table_side3"
+      },
+      "name": "default"
+    }
+  }
+}

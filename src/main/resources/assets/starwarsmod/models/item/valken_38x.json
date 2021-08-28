@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/valken-38x",
+  "textures": {
+    "0": "starwarsmod:blocks/valken-38x",
+    "particle": "starwarsmod:items/dc-15c_texture"
+  }
+}

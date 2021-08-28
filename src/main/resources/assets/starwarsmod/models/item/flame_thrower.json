@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/btx-42_flamethrower",
+  "textures": {
+    "0": "starwarsmod:blocks/btx-42_flamethrower",
+    "particle": "starwarsmod:items/btx-42_flamethrower"
+  }
+}

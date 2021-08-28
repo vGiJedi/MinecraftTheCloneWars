@@ -1,0 +1,13 @@
+{
+  "parent": "starwarsmod:custom/z-6_rotary_cannon",
+  "textures": {
+    "red": "starwarsmod:blocks/red",
+    "4": "starwarsmod:blocks/4",
+    "gold_block": "starwarsmod:blocks/gold_block",
+    "8": "starwarsmod:blocks/8",
+    "acacia_planks": "starwarsmod:blocks/acacia_planks",
+    "smooth_stone": "starwarsmod:blocks/stone_slab_top",
+    "rifle": "starwarsmod:blocks/rifle",
+    "particle": "starwarsmod:items/z-6_rotary_cannon"
+  }
+}

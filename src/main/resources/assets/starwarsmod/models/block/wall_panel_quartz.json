@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/wall_panel_quartz",
+  "textures": {
+    "all": "starwarsmod:blocks/quartz",
+    "particle": "starwarsmod:blocks/quartz",
+    "quartz": "starwarsmod:blocks/quartz"
+  }
+}

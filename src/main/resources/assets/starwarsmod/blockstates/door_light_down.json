@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/door_light_down"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/door_light_down",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/door_light_down",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/door_light_down",
+      "y": 270
+    }
+  }
+}

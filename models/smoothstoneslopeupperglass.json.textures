@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "smooth_stone": "stone_slab_top",
+        "gray_stained_glass": "graystainedglass1"
+      },
+      "name": "default"
+    }
+  }
+}

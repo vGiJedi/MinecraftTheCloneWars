@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "starwarsmod:blocks/magenta_stained_glass",
+    "up": "starwarsmod:blocks/magenta_stained_glass",
+    "north": "starwarsmod:blocks/magenta_stained_glass",
+    "east": "starwarsmod:blocks/magenta_stained_glass",
+    "south": "starwarsmod:blocks/magenta_stained_glass",
+    "west": "starwarsmod:blocks/magenta_stained_glass",
+    "particle": "starwarsmod:blocks/magenta_stained_glass"
+  }
+}

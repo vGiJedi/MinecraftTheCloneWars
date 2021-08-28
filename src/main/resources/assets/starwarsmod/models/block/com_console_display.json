@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "starwarsmod:blocks/comconsolescreen",
+    "up": "starwarsmod:blocks/comconsolescreen",
+    "north": "starwarsmod:blocks/comconsolescreen",
+    "east": "starwarsmod:blocks/comconsolescreen",
+    "south": "starwarsmod:blocks/comconsolescreen",
+    "west": "starwarsmod:blocks/comconsolescreen",
+    "particle": "starwarsmod:blocks/comconsolescreen"
+  }
+}

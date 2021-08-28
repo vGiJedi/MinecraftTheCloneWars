@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "starwarsmod:block/com_console_display"
+    }
+  }
+}

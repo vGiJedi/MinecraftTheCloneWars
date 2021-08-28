@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/scaffolding",
+  "textures": {
+    "all": "starwarsmod:blocks/scaffolding_texture",
+    "particle": "starwarsmod:blocks/scaffolding_texture",
+    "0": "starwarsmod:blocks/scaffolding_texture"
+  }
+}

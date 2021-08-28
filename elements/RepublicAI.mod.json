@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Republic AI",
+    "icon": {
+      "value": "CUSTOM:RepublicIcon"
+    },
+    "showSearch": false
+  }
+}

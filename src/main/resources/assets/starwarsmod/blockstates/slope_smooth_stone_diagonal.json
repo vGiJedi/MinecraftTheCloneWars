@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/slope_smooth_stone_diagonal"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/slope_smooth_stone_diagonal",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/slope_smooth_stone_diagonal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/slope_smooth_stone_diagonal",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/slope_stone_upper_glass"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/slope_stone_upper_glass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/slope_stone_upper_glass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/slope_stone_upper_glass",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "starwarsmod:block/triangle_2x_1_straight"
+    },
+    "facing=east": {
+      "model": "starwarsmod:block/triangle_2x_1_straight",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "starwarsmod:block/triangle_2x_1_straight",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "starwarsmod:block/triangle_2x_1_straight",
+      "y": 270
+    }
+  }
+}

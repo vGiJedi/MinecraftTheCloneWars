@@ -1,0 +1,9 @@
+{
+  "parent": "starwarsmod:custom/walllightyellow",
+  "textures": {
+    "all": "starwarsmod:blocks/stone_slab_top",
+    "particle": "starwarsmod:blocks/stone_slab_top",
+    "yellowwallight": "starwarsmod:blocks/yellowwallight",
+    "smooth_stone": "starwarsmod:blocks/stone_slab_top"
+  }
+}

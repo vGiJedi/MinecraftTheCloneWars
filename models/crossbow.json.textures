@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "",
+        "gold_block": "",
+        "iron_block": "",
+        "particle": "",
+        "rifle": ""
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/triangle_2x1_straight",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "missing": "starwarsmod:blocks/stone"
+  }
+}

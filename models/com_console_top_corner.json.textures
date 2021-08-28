@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "acacia_planks": "acacia_planks"
+      },
+      "name": "default"
+    }
+  }
+}

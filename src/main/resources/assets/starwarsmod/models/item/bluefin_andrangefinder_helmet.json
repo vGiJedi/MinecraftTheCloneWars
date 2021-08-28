@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "starwarsmod:items/white_fin_and_rangfinder"
+  }
+}

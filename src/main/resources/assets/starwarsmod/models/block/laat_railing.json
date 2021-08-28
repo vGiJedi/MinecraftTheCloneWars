@@ -1,0 +1,8 @@
+{
+  "parent": "starwarsmod:custom/laat_railing",
+  "textures": {
+    "all": "starwarsmod:blocks/laatrailing",
+    "particle": "starwarsmod:blocks/laatrailing",
+    "0": "starwarsmod:blocks/laatrailing"
+  }
+}

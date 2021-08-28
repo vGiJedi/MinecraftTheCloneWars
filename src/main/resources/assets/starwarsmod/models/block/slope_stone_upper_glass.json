@@ -1,0 +1,9 @@
+{
+  "parent": "starwarsmod:custom/stoneslopeupperglass",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "gray_stained_glass": "starwarsmod:blocks/gray_stained_glass",
+    "stone": "starwarsmod:blocks/stone"
+  }
+}

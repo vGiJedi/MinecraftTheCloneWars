@@ -1,0 +1,7 @@
+{
+  "parent": "starwarsmod:custom/maulslightsaber2",
+  "textures": {
+    "0": "starwarsmod:blocks/maulslightsaber",
+    "particle": "starwarsmod:items/maulssaber"
+  }
+}

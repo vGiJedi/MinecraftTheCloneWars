@@ -1,0 +1,9 @@
+{
+  "parent": "starwarsmod:custom/bridge_window_2",
+  "textures": {
+    "all": "starwarsmod:blocks/stone",
+    "particle": "starwarsmod:blocks/stone",
+    "acacia_planks": "starwarsmod:blocks/acacia_planks",
+    "stone": "starwarsmod:blocks/rifle"
+  }
+}

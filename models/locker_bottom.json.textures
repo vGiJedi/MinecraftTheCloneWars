@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "polished_granite": "polished_granite",
+        "4": "4",
+        "iron_block": "iron_block",
+        "stone": "stone"
+      },
+      "name": "default"
+    }
+  }
+}
