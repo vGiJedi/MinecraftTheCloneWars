@@ -11,7 +11,7 @@
     "enableBoots": false,
     "textureBoots": "",
     "creativeTab": {
-      "value": "CUSTOM:StarWarsArmour"
+      "value": "No creative tab entry"
     },
     "armorTextureFile": "clone",
     "helmetName": "Clone Reinforced Helmet",

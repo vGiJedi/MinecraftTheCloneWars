@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "starwarsmod:blocks/sepratistfactionblock",
+    "up": "starwarsmod:blocks/sepratistfactionblock",
+    "north": "starwarsmod:blocks/sepratistfactionblock",
+    "east": "starwarsmod:blocks/sepratistfactionblock",
+    "south": "starwarsmod:blocks/sepratistfactionblock",
+    "west": "starwarsmod:blocks/sepratistfactionblock",
+    "particle": "starwarsmod:blocks/sepratistfactionblock"
+  }
+}

@@ -19,7 +19,6 @@ import net.minecraft.client.renderer.model.ModelRenderer;
 import net.minecraft.client.renderer.entity.model.EntityModel;
 import net.minecraft.client.renderer.entity.model.BipedModel;
 
-import net.mcreator.starwarsmod.itemgroup.StarWarsArmourItemGroup;
 import net.mcreator.starwarsmod.StarwarsmodModElements;
 
 import com.mojang.blaze3d.vertex.IVertexBuilder;
@@ -71,7 +70,7 @@ public class CloneReinforcedHelmetItem extends StarwarsmodModElements.ModElement
 				return 0f;
 			}
 		};
-		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(StarWarsArmourItemGroup.tab)) {
+		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(null)) {
 			@Override
 			@OnlyIn(Dist.CLIENT)
 			public BipedModel getArmorModel(LivingEntity living, ItemStack stack, EquipmentSlotType slot, BipedModel defaultModel) {

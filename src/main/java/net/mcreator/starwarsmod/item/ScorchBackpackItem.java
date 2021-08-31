@@ -77,8 +77,8 @@ public class ScorchBackpackItem extends StarwarsmodModElements.ModElement {
 			public BipedModel getArmorModel(LivingEntity living, ItemStack stack, EquipmentSlotType slot, BipedModel defaultModel) {
 				BipedModel armorModel = new BipedModel(1);
 				armorModel.bipedBody = new ModelScorchBackpack115().Body;
-				armorModel.bipedLeftArm = new ModelScorchBackpack115().LeftArm;
-				armorModel.bipedRightArm = new ModelScorchBackpack115().RightArm;
+				armorModel.bipedLeftArm = new ModelScorchBackpack115().Body;
+				armorModel.bipedRightArm = new ModelScorchBackpack115().Body;
 				armorModel.isSneak = living.isSneaking();
 				armorModel.isSitting = defaultModel.isSitting;
 				armorModel.isChild = living.isChild();

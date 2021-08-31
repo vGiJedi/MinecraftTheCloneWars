@@ -8,7 +8,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_light_mid_top"
+      "registry_name": "wall_light_mid_top",
+      "path": "~/Blocks"
     },
     {
       "name": "WallLightMidBottom",
@@ -17,7 +18,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_light_mid_bottom"
+      "registry_name": "wall_light_mid_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "WallLightTopWhite",
@@ -26,7 +28,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_light_top_white"
+      "registry_name": "wall_light_top_white",
+      "path": "~/Blocks"
     },
     {
       "name": "WallLightBottomWhite",
@@ -35,7 +38,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_light_bottom_white"
+      "registry_name": "wall_light_bottom_white",
+      "path": "~/Blocks"
     },
     {
       "name": "Walltop",
@@ -44,7 +48,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "walltop"
+      "registry_name": "walltop",
+      "path": "~/Blocks"
     },
     {
       "name": "WallBottom",
@@ -53,7 +58,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_bottom"
+      "registry_name": "wall_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "CeilingLightA",
@@ -62,7 +68,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ceiling_light_a"
+      "registry_name": "ceiling_light_a",
+      "path": "~/Blocks"
     },
     {
       "name": "HallWayFloor",
@@ -71,7 +78,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "hall_way_floor"
+      "registry_name": "hall_way_floor",
+      "path": "~/Blocks"
     },
     {
       "name": "WallBottomDetailMid",
@@ -80,7 +88,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_bottom_detail_mid"
+      "registry_name": "wall_bottom_detail_mid",
+      "path": "~/Blocks"
     },
     {
       "name": "WallDetailMid",
@@ -89,7 +98,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_detail_mid"
+      "registry_name": "wall_detail_mid",
+      "path": "~/Blocks"
     },
     {
       "name": "WallTopDetailMid",
@@ -98,7 +108,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_top_detail_mid"
+      "registry_name": "wall_top_detail_mid",
+      "path": "~/Blocks"
     },
     {
       "name": "BrigFloor",
@@ -107,7 +118,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "brig_floor"
+      "registry_name": "brig_floor",
+      "path": "~/Blocks"
     },
     {
       "name": "WallLightYellow",
@@ -116,7 +128,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_light_yellow"
+      "registry_name": "wall_light_yellow",
+      "path": "~/Blocks"
     },
     {
       "name": "WallLightAlternative",
@@ -125,7 +138,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_light_alternative"
+      "registry_name": "wall_light_alternative",
+      "path": "~/Blocks"
     },
     {
       "name": "HyperdriveroomWallLights",
@@ -134,7 +148,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "hyperdriveroom_wall_lights"
+      "registry_name": "hyperdriveroom_wall_lights",
+      "path": "~/Blocks"
     },
     {
       "name": "CircularWallColumn",
@@ -143,7 +158,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "circular_wall_column"
+      "registry_name": "circular_wall_column",
+      "path": "~/Blocks"
     },
     {
       "name": "Doorlight",
@@ -152,7 +168,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "doorlight"
+      "registry_name": "doorlight",
+      "path": "~/Blocks"
     },
     {
       "name": "Doorlighttop",
@@ -161,7 +178,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "doorlighttop"
+      "registry_name": "doorlighttop",
+      "path": "~/Blocks"
     },
     {
       "name": "CeilingLightGoesAboveWallLight",
@@ -170,7 +188,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ceiling_light_goes_above_wall_light"
+      "registry_name": "ceiling_light_goes_above_wall_light",
+      "path": "~/Blocks"
     },
     {
       "name": "DoorLightMid",
@@ -179,7 +198,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "door_light_mid"
+      "registry_name": "door_light_mid",
+      "path": "~/Blocks"
     },
     {
       "name": "BlastDoorButton",
@@ -188,7 +208,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_button"
+      "registry_name": "blast_door_button",
+      "path": "~/Blocks"
     },
     {
       "name": "DC15",
@@ -197,7 +218,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dc_1_5"
+      "registry_name": "dc_1_5",
+      "path": "~/Weapons"
     },
     {
       "name": "DC15C",
@@ -206,7 +228,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dc_1_5_c"
+      "registry_name": "dc_1_5_c",
+      "path": "~/Weapons"
     },
     {
       "name": "DC15RangedItemUsed",
@@ -243,7 +266,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "DC15CRangedItemUsed",
@@ -280,7 +304,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Blocks"
     },
     {
       "name": "Z6RotaryCannon",
@@ -289,7 +314,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "z_6_rotary_cannon"
+      "registry_name": "z_6_rotary_cannon",
+      "path": "~/Weapons"
     },
     {
       "name": "ConsoleTop",
@@ -298,7 +324,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "console_top"
+      "registry_name": "console_top",
+      "path": "~/Blocks"
     },
     {
       "name": "Console",
@@ -307,7 +334,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "console"
+      "registry_name": "console",
+      "path": "~/Blocks"
     },
     {
       "name": "Chair",
@@ -316,7 +344,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chair"
+      "registry_name": "chair",
+      "path": "~/Blocks"
     },
     {
       "name": "ComConsoleTop",
@@ -325,7 +354,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "com_console_top"
+      "registry_name": "com_console_top",
+      "path": "~/Blocks"
     },
     {
       "name": "ComConsole",
@@ -334,7 +364,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "com_console"
+      "registry_name": "com_console",
+      "path": "~/Blocks"
     },
     {
       "name": "ConsoleCorner",
@@ -343,7 +374,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "console_corner"
+      "registry_name": "console_corner",
+      "path": "~/Blocks"
     },
     {
       "name": "ComConsoleTopCorner1",
@@ -352,7 +384,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "com_console_top_corner_1"
+      "registry_name": "com_console_top_corner_1",
+      "path": "~/Blocks"
     },
     {
       "name": "GreyPlate",
@@ -361,7 +394,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "grey_plate"
+      "registry_name": "grey_plate",
+      "path": "~/Blocks"
     },
     {
       "name": "ComConsoleDisplay",
@@ -370,7 +404,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "com_console_display"
+      "registry_name": "com_console_display",
+      "path": "~/Blocks"
     },
     {
       "name": "Girder",
@@ -379,7 +414,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "girder"
+      "registry_name": "girder",
+      "path": "~/Blocks"
     },
     {
       "name": "GirderHorizontal",
@@ -388,7 +424,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "girder_horizontal"
+      "registry_name": "girder_horizontal",
+      "path": "~/Blocks"
     },
     {
       "name": "ConsoleMid",
@@ -397,7 +434,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "console_mid"
+      "registry_name": "console_mid",
+      "path": "~/Blocks"
     },
     {
       "name": "SlopeStone",
@@ -406,7 +444,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "slope_stone"
+      "registry_name": "slope_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "SlopeSmoothStone",
@@ -415,7 +454,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "slope_smooth_stone"
+      "registry_name": "slope_smooth_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "SlopeStoneUpper",
@@ -424,7 +464,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "slope_stone_upper"
+      "registry_name": "slope_stone_upper",
+      "path": "~/Blocks"
     },
     {
       "name": "SlopeSmoothStoneUpper",
@@ -433,7 +474,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "slope_smooth_stone_upper"
+      "registry_name": "slope_smooth_stone_upper",
+      "path": "~/Blocks"
     },
     {
       "name": "SlopeUpperStoneSlab",
@@ -442,7 +484,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "slope_upper_stone_slab"
+      "registry_name": "slope_upper_stone_slab",
+      "path": "~/Blocks"
     },
     {
       "name": "SlopeUpperSlabSmoothStone",
@@ -451,7 +494,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "slope_upper_slab_smooth_stone"
+      "registry_name": "slope_upper_slab_smooth_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "MiniSlabStone",
@@ -460,7 +504,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mini_slab_stone"
+      "registry_name": "mini_slab_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "MiniSlabSmoothStone",
@@ -469,7 +514,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mini_slab_smooth_stone"
+      "registry_name": "mini_slab_smooth_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "Door",
@@ -478,7 +524,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "door"
+      "registry_name": "door",
+      "path": "~/Blocks"
     },
     {
       "name": "DoorUpper",
@@ -487,7 +534,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "door_upper"
+      "registry_name": "door_upper",
+      "path": "~/Blocks"
     },
     {
       "name": "DoorLightDown",
@@ -496,7 +544,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "door_light_down"
+      "registry_name": "door_light_down",
+      "path": "~/Blocks"
     },
     {
       "name": "FloorLight",
@@ -505,7 +554,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "floor_light"
+      "registry_name": "floor_light",
+      "path": "~/Blocks"
     },
     {
       "name": "SlopeStoneUpperGlass",
@@ -514,7 +564,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "slope_stone_upper_glass"
+      "registry_name": "slope_stone_upper_glass",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeWindow",
@@ -523,7 +574,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_window"
+      "registry_name": "bridge_window",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeWindowSlabSlope",
@@ -532,7 +584,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_window_slab_slope"
+      "registry_name": "bridge_window_slab_slope",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeWindowSlab",
@@ -541,7 +594,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_window_slab"
+      "registry_name": "bridge_window_slab",
+      "path": "~/Blocks"
     },
     {
       "name": "SmoothStoneSlopeUpperGlass",
@@ -550,7 +604,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "smooth_stone_slope_upper_glass"
+      "registry_name": "smooth_stone_slope_upper_glass",
+      "path": "~/Blocks"
     },
     {
       "name": "StoneSlopeGlassUpper",
@@ -559,7 +614,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stone_slope_glass_upper"
+      "registry_name": "stone_slope_glass_upper",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeWindowBottom",
@@ -568,7 +624,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_window_bottom"
+      "registry_name": "bridge_window_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeWindowTopEnd",
@@ -577,7 +634,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_window_top_end"
+      "registry_name": "bridge_window_top_end",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeWindowEnd",
@@ -586,7 +644,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_window_end"
+      "registry_name": "bridge_window_end",
+      "path": "~/Blocks"
     },
     {
       "name": "StonePhat",
@@ -595,7 +654,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stone_phat"
+      "registry_name": "stone_phat",
+      "path": "~/Blocks"
     },
     {
       "name": "SlopeStoneDiagonal",
@@ -604,7 +664,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "slope_stone_diagonal"
+      "registry_name": "slope_stone_diagonal",
+      "path": "~/Blocks"
     },
     {
       "name": "WallPanelQuartz",
@@ -613,7 +674,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_panel_quartz"
+      "registry_name": "wall_panel_quartz",
+      "path": "~/Blocks"
     },
     {
       "name": "SlopeSmoothStoneDiagonal",
@@ -622,7 +684,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "slope_smooth_stone_diagonal"
+      "registry_name": "slope_smooth_stone_diagonal",
+      "path": "~/Blocks"
     },
     {
       "name": "HangerLightLarge",
@@ -631,7 +694,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "hanger_light_large"
+      "registry_name": "hanger_light_large",
+      "path": "~/Blocks"
     },
     {
       "name": "HangerLightBlue",
@@ -640,7 +704,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "hanger_light_blue"
+      "registry_name": "hanger_light_blue",
+      "path": "~/Blocks"
     },
     {
       "name": "ConsoleVariant1",
@@ -649,7 +714,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "console_variant_1"
+      "registry_name": "console_variant_1",
+      "path": "~/Blocks"
     },
     {
       "name": "Triangle2x1",
@@ -658,7 +724,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "triangle_2x_1"
+      "registry_name": "triangle_2x_1",
+      "path": "~/Blocks"
     },
     {
       "name": "Triangle2x1Up",
@@ -667,7 +734,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "triangle_2x_1_up"
+      "registry_name": "triangle_2x_1_up",
+      "path": "~/Blocks"
     },
     {
       "name": "Triangle2x1Down",
@@ -676,7 +744,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "triangle_2x_1_down"
+      "registry_name": "triangle_2x_1_down",
+      "path": "~/Blocks"
     },
     {
       "name": "BlueLight",
@@ -685,7 +754,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blue_light"
+      "registry_name": "blue_light",
+      "path": "~/Blocks"
     },
     {
       "name": "Barrel",
@@ -694,7 +764,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "barrel"
+      "registry_name": "barrel",
+      "path": "~/Blocks"
     },
     {
       "name": "BarrelEnd",
@@ -703,7 +774,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "barrel_end"
+      "registry_name": "barrel_end",
+      "path": "~/Blocks"
     },
     {
       "name": "StarWarsBlocks",
@@ -712,7 +784,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "star_wars_blocks"
+      "registry_name": "star_wars_blocks",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "StarWarsWeapons",
@@ -721,7 +794,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "star_wars_weapons"
+      "registry_name": "star_wars_weapons",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "BlastDoors",
@@ -730,7 +804,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_doors"
+      "registry_name": "blast_doors",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "StarWarsLights",
@@ -739,7 +814,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "star_wars_lights"
+      "registry_name": "star_wars_lights",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "StarWarsDoors",
@@ -748,7 +824,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "star_wars_doors"
+      "registry_name": "star_wars_doors",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "StarWarsMisc",
@@ -757,7 +834,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "star_wars_misc"
+      "registry_name": "star_wars_misc",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "StarWarsWindows",
@@ -766,7 +844,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "star_wars_windows"
+      "registry_name": "star_wars_windows",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "LockerBottom",
@@ -775,7 +854,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "locker_bottom"
+      "registry_name": "locker_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "LockerTop",
@@ -784,7 +864,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "locker_top"
+      "registry_name": "locker_top",
+      "path": "~/Blocks"
     },
     {
       "name": "DoorLightDownMid",
@@ -793,7 +874,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "door_light_down_mid"
+      "registry_name": "door_light_down_mid",
+      "path": "~/Blocks"
     },
     {
       "name": "MouseDroid",
@@ -802,7 +884,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mouse_droid"
+      "registry_name": "mouse_droid",
+      "path": "~/Entities"
     },
     {
       "name": "StarWarsMobs",
@@ -811,7 +894,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "star_wars_mobs"
+      "registry_name": "star_wars_mobs",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "MobIcon",
@@ -820,7 +904,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mob_icon"
+      "registry_name": "mob_icon",
+      "path": "~/Entities"
     },
     {
       "name": "GonkDroid",
@@ -829,7 +914,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "gonk_droid"
+      "registry_name": "gonk_droid",
+      "path": "~/Entities"
     },
     {
       "name": "GonkChest",
@@ -838,7 +924,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "gonk_chest"
+      "registry_name": "gonk_chest",
+      "path": "~/Misc"
     },
     {
       "name": "ViperProbeDroid",
@@ -847,7 +934,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "viper_probe_droid"
+      "registry_name": "viper_probe_droid",
+      "path": "~/Entities"
     },
     {
       "name": "R2D2",
@@ -856,7 +944,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "r_2_d_2"
+      "registry_name": "r_2_d_2",
+      "path": "~/Entities"
     },
     {
       "name": "R2Inventory",
@@ -865,7 +954,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "r_2_inventory"
+      "registry_name": "r_2_inventory",
+      "path": "~/Blocks"
     },
     {
       "name": "Goldie",
@@ -874,7 +964,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "goldie"
+      "registry_name": "goldie",
+      "path": "~/Entities"
     },
     {
       "name": "MetalBlockBolted",
@@ -883,7 +974,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "metal_block_bolted"
+      "registry_name": "metal_block_bolted",
+      "path": "~/Blocks"
     },
     {
       "name": "MetalBlockBoltedVertical",
@@ -892,7 +984,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "metal_block_bolted_vertical"
+      "registry_name": "metal_block_bolted_vertical",
+      "path": "~/Blocks"
     },
     {
       "name": "CloneTrooper332nd",
@@ -901,7 +994,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_trooper_332nd"
+      "registry_name": "clone_trooper_332nd",
+      "path": "~/Entities"
     },
     {
       "name": "BridgeWindowTest1",
@@ -910,7 +1004,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_window_test_1"
+      "registry_name": "bridge_window_test_1",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeWindowTest2",
@@ -919,7 +1014,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_window_test_2"
+      "registry_name": "bridge_window_test_2",
+      "path": "~/Blocks"
     },
     {
       "name": "ConsoleCornerMid",
@@ -928,7 +1024,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "console_corner_mid"
+      "registry_name": "console_corner_mid",
+      "path": "~/Blocks"
     },
     {
       "name": "ConsoleCornerTop",
@@ -937,7 +1034,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "console_corner_top"
+      "registry_name": "console_corner_top",
+      "path": "~/Blocks"
     },
     {
       "name": "WallLightAlternativeMirrored",
@@ -946,7 +1044,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_light_alternative_mirrored"
+      "registry_name": "wall_light_alternative_mirrored",
+      "path": "~/Blocks"
     },
     {
       "name": "Curveblockstone",
@@ -955,7 +1054,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "curveblockstone"
+      "registry_name": "curveblockstone",
+      "path": "~/Blocks"
     },
     {
       "name": "Curveblocksmoothstone",
@@ -964,7 +1064,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "curveblocksmoothstone"
+      "registry_name": "curveblocksmoothstone",
+      "path": "~/Blocks"
     },
     {
       "name": "ElevatorBracket",
@@ -973,7 +1074,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "elevator_bracket"
+      "registry_name": "elevator_bracket",
+      "path": "~/Blocks"
     },
     {
       "name": "SmallWallPannelStone",
@@ -982,7 +1084,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "small_wall_pannel_stone"
+      "registry_name": "small_wall_pannel_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "SmallWallPannelSmoothStone",
@@ -991,7 +1094,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "small_wall_pannel_smooth_stone"
+      "registry_name": "small_wall_pannel_smooth_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "RayShieldDiagonal",
@@ -1000,7 +1104,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ray_shield_diagonal"
+      "registry_name": "ray_shield_diagonal",
+      "path": "~/Blocks"
     },
     {
       "name": "Triangle2x1Straight",
@@ -1009,7 +1114,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "triangle_2x_1_straight"
+      "registry_name": "triangle_2x_1_straight",
+      "path": "~/Blocks"
     },
     {
       "name": "EscapePodRingBottom",
@@ -1018,7 +1124,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "escape_pod_ring_bottom"
+      "registry_name": "escape_pod_ring_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "EscapePodRingTop",
@@ -1027,7 +1134,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "escape_pod_ring_top"
+      "registry_name": "escape_pod_ring_top",
+      "path": "~/Blocks"
     },
     {
       "name": "EscapePodRingTopMiddle",
@@ -1036,7 +1144,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "escape_pod_ring_top_middle"
+      "registry_name": "escape_pod_ring_top_middle",
+      "path": "~/Blocks"
     },
     {
       "name": "EscapePodRingBottomMiddle",
@@ -1045,7 +1154,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "escape_pod_ring_bottom_middle"
+      "registry_name": "escape_pod_ring_bottom_middle",
+      "path": "~/Blocks"
     },
     {
       "name": "EscapePodRingBottomClosed",
@@ -1054,7 +1164,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "escape_pod_ring_bottom_closed"
+      "registry_name": "escape_pod_ring_bottom_closed",
+      "path": "~/Blocks"
     },
     {
       "name": "EscapePodRingTopClosed",
@@ -1063,7 +1174,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "escape_pod_ring_top_closed"
+      "registry_name": "escape_pod_ring_top_closed",
+      "path": "~/Blocks"
     },
     {
       "name": "EscapePodRingTopMiddleClosed",
@@ -1072,7 +1184,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "escape_pod_ring_top_middle_closed"
+      "registry_name": "escape_pod_ring_top_middle_closed",
+      "path": "~/Blocks"
     },
     {
       "name": "EscapePodRingBottomMiddleClosed",
@@ -1081,7 +1194,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "escape_pod_ring_bottom_middle_closed"
+      "registry_name": "escape_pod_ring_bottom_middle_closed",
+      "path": "~/Blocks"
     },
     {
       "name": "EscapePodRingMiddle",
@@ -1090,7 +1204,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "escape_pod_ring_middle"
+      "registry_name": "escape_pod_ring_middle",
+      "path": "~/Blocks"
     },
     {
       "name": "REDLED",
@@ -1099,7 +1214,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "redled"
+      "registry_name": "redled",
+      "path": "~/Blocks"
     },
     {
       "name": "REDLEDLARGE",
@@ -1108,7 +1224,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "redledlarge"
+      "registry_name": "redledlarge",
+      "path": "~/Blocks"
     },
     {
       "name": "WHITELEDLARGE",
@@ -1117,7 +1234,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "whiteledlarge"
+      "registry_name": "whiteledlarge",
+      "path": "~/Blocks"
     },
     {
       "name": "HangerLightLargeStone",
@@ -1126,7 +1244,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "hanger_light_large_stone"
+      "registry_name": "hanger_light_large_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "AnakinSkywalker",
@@ -1135,7 +1254,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "anakin_skywalker"
+      "registry_name": "anakin_skywalker",
+      "path": "~/Entities"
     },
     {
       "name": "ObiWanKenobi",
@@ -1144,7 +1264,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "obi_wan_kenobi"
+      "registry_name": "obi_wan_kenobi",
+      "path": "~/Entities"
     },
     {
       "name": "CloneWeapon",
@@ -1161,7 +1282,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "RedLight",
@@ -1170,7 +1292,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "red_light"
+      "registry_name": "red_light",
+      "path": "~/Blocks"
     },
     {
       "name": "YellowLight",
@@ -1179,7 +1302,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "yellow_light"
+      "registry_name": "yellow_light",
+      "path": "~/Blocks"
     },
     {
       "name": "Triangle2x1StraightSmoothStone",
@@ -1188,7 +1312,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "triangle_2x_1_straight_smooth_stone"
+      "registry_name": "triangle_2x_1_straight_smooth_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "Triangle2x1DownSmoothStone",
@@ -1197,7 +1322,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "triangle_2x_1_down_smooth_stone"
+      "registry_name": "triangle_2x_1_down_smooth_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "Triangle2x1SmoothStone",
@@ -1206,7 +1332,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "triangle_2x_1_smooth_stone"
+      "registry_name": "triangle_2x_1_smooth_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "Triangle2x1UpSmoothStone",
@@ -1215,7 +1342,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "triangle_2x_1_up_smooth_stone"
+      "registry_name": "triangle_2x_1_up_smooth_stone",
+      "path": "~/Blocks"
     },
     {
       "name": "DualWieldDC17s",
@@ -1224,7 +1352,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dual_wield_dc_17s"
+      "registry_name": "dual_wield_dc_17s",
+      "path": "~/Weapons"
     },
     {
       "name": "DC17Mainhand",
@@ -1233,7 +1362,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dc_17_mainhand"
+      "registry_name": "dc_17_mainhand",
+      "path": "~/Weapons"
     },
     {
       "name": "DC17Offhand",
@@ -1242,7 +1372,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dc_17_offhand"
+      "registry_name": "dc_17_offhand",
+      "path": "~/Weapons"
     },
     {
       "name": "GonkDroidEntityDies",
@@ -1271,7 +1402,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "WhiteLED",
@@ -1280,7 +1412,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "white_led"
+      "registry_name": "white_led",
+      "path": "~/Blocks"
     },
     {
       "name": "REDLEDLARGEFLOOR",
@@ -1289,7 +1422,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "redledlargefloor"
+      "registry_name": "redledlargefloor",
+      "path": "~/Blocks"
     },
     {
       "name": "WHITELEDLARGEFLOOR",
@@ -1298,7 +1432,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "whiteledlargefloor"
+      "registry_name": "whiteledlargefloor",
+      "path": "~/Blocks"
     },
     {
       "name": "WeaponIcon",
@@ -1307,7 +1442,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "weapon_icon"
+      "registry_name": "weapon_icon",
+      "path": "~/Blocks"
     },
     {
       "name": "MetalPipleLargeRed",
@@ -1316,7 +1452,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "metal_piple_large_red"
+      "registry_name": "metal_piple_large_red",
+      "path": "~/Blocks"
     },
     {
       "name": "MetalPipesRed",
@@ -1325,7 +1462,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "metal_pipes_red"
+      "registry_name": "metal_pipes_red",
+      "path": "~/Blocks"
     },
     {
       "name": "MetalPipesRedAlternative",
@@ -1334,7 +1472,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "metal_pipes_red_alternative"
+      "registry_name": "metal_pipes_red_alternative",
+      "path": "~/Blocks"
     },
     {
       "name": "MetalPipeLargeRedAlternative",
@@ -1343,7 +1482,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "metal_pipe_large_red_alternative"
+      "registry_name": "metal_pipe_large_red_alternative",
+      "path": "~/Blocks"
     },
     {
       "name": "MetalPipesRedNoBracketAlternative",
@@ -1352,7 +1492,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "metal_pipes_red_no_bracket_alternative"
+      "registry_name": "metal_pipes_red_no_bracket_alternative",
+      "path": "~/Blocks"
     },
     {
       "name": "MetalPipesRedNoBracket",
@@ -1361,7 +1502,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "metal_pipes_red_no_bracket"
+      "registry_name": "metal_pipes_red_no_bracket",
+      "path": "~/Blocks"
     },
     {
       "name": "SmallPipes",
@@ -1370,7 +1512,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "small_pipes"
+      "registry_name": "small_pipes",
+      "path": "~/Blocks"
     },
     {
       "name": "SmallPipesTop",
@@ -1379,7 +1522,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "small_pipes_top"
+      "registry_name": "small_pipes_top",
+      "path": "~/Blocks"
     },
     {
       "name": "SmallPipesBottom",
@@ -1388,7 +1532,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "small_pipes_bottom"
+      "registry_name": "small_pipes_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "MetalGrate",
@@ -1397,7 +1542,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "metal_grate"
+      "registry_name": "metal_grate",
+      "path": "~/Blocks"
     },
     {
       "name": "ClimeableMetalGrateGrey",
@@ -1406,7 +1552,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "climeable_metal_grate_grey"
+      "registry_name": "climeable_metal_grate_grey",
+      "path": "~/Blocks"
     },
     {
       "name": "ClimeableMetalGrateRed",
@@ -1415,7 +1562,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "climeable_metal_grate_red"
+      "registry_name": "climeable_metal_grate_red",
+      "path": "~/Blocks"
     },
     {
       "name": "DarkSaber",
@@ -1424,7 +1572,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dark_saber"
+      "registry_name": "dark_saber",
+      "path": "~/Weapons"
     },
     {
       "name": "CloneTrooperCourscantGuard",
@@ -1433,7 +1582,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_trooper_courscant_guard"
+      "registry_name": "clone_trooper_courscant_guard",
+      "path": "~/Entities"
     },
     {
       "name": "Rex",
@@ -1442,7 +1592,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rex"
+      "registry_name": "rex",
+      "path": "~/Entities"
     },
     {
       "name": "SuperBattleDroid",
@@ -1451,7 +1602,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "super_battle_droid"
+      "registry_name": "super_battle_droid",
+      "path": "~/Entities"
     },
     {
       "name": "SBDLaser",
@@ -1460,7 +1612,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sbd_laser"
+      "registry_name": "sbd_laser",
+      "path": "~/Blocks"
     },
     {
       "name": "DarkSaberSwing",
@@ -1493,7 +1646,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "DarkSaberLoop",
@@ -1526,7 +1680,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "BattleDroid",
@@ -1535,7 +1690,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "battle_droid"
+      "registry_name": "battle_droid",
+      "path": "~/Entities"
     },
     {
       "name": "SuperBattleDroidWeapon",
@@ -1544,7 +1700,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "super_battle_droid_weapon"
+      "registry_name": "super_battle_droid_weapon",
+      "path": "~/Weapons"
     },
     {
       "name": "BattleDroidWeapon",
@@ -1553,7 +1710,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "battle_droid_weapon"
+      "registry_name": "battle_droid_weapon",
+      "path": "~/Weapons"
     },
     {
       "name": "CloneTrooperWeapon",
@@ -1562,7 +1720,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_trooper_weapon"
+      "registry_name": "clone_trooper_weapon",
+      "path": "~/Weapons"
     },
     {
       "name": "NavalOfficer",
@@ -1571,7 +1730,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "naval_officer"
+      "registry_name": "naval_officer",
+      "path": "~/Entities"
     },
     {
       "name": "Cody",
@@ -1580,7 +1740,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cody"
+      "registry_name": "cody",
+      "path": "~/Entities"
     },
     {
       "name": "MetalGrateRed",
@@ -1589,7 +1750,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "metal_grate_red"
+      "registry_name": "metal_grate_red",
+      "path": "~/Blocks"
     },
     {
       "name": "Scaffolding",
@@ -1598,7 +1760,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "scaffolding"
+      "registry_name": "scaffolding",
+      "path": "~/Blocks"
     },
     {
       "name": "RedBeam",
@@ -1607,7 +1770,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "red_beam"
+      "registry_name": "red_beam",
+      "path": "~/Blocks"
     },
     {
       "name": "RedBeamHorizontal",
@@ -1616,7 +1780,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "red_beam_horizontal"
+      "registry_name": "red_beam_horizontal",
+      "path": "~/Blocks"
     },
     {
       "name": "RedBeamJunction",
@@ -1625,7 +1790,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "red_beam_junction"
+      "registry_name": "red_beam_junction",
+      "path": "~/Blocks"
     },
     {
       "name": "RedBeamBottom",
@@ -1634,7 +1800,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "red_beam_bottom"
+      "registry_name": "red_beam_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "RedBeamTop",
@@ -1643,7 +1810,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "red_beam_top"
+      "registry_name": "red_beam_top",
+      "path": "~/Blocks"
     },
     {
       "name": "BarcMoving",
@@ -1676,7 +1844,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "VehicleIcon",
@@ -1685,7 +1854,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "vehicle_icon"
+      "registry_name": "vehicle_icon",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "Vehicles",
@@ -1694,7 +1864,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "vehicles"
+      "registry_name": "vehicles",
+      "path": "~/Armour"
     },
     {
       "name": "GLASSStairs",
@@ -1703,7 +1874,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "glass_stairs"
+      "registry_name": "glass_stairs",
+      "path": "~/Blocks"
     },
     {
       "name": "GlassSlabs",
@@ -1712,7 +1884,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "glass_slabs"
+      "registry_name": "glass_slabs",
+      "path": "~/Blocks"
     },
     {
       "name": "RPS6RocketAmmunition",
@@ -1721,7 +1894,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rps_6_rocket_ammunition"
+      "registry_name": "rps_6_rocket_ammunition",
+      "path": "~/Items"
     },
     {
       "name": "RPS6BulletHitsBlock",
@@ -1750,7 +1924,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "RPS6USED",
@@ -1771,7 +1946,8 @@
             "type": "itemstack"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "RPS6",
@@ -1780,7 +1956,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rps_6"
+      "registry_name": "rps_6",
+      "path": "~/Weapons"
     },
     {
       "name": "CloneTrooper",
@@ -1789,7 +1966,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_trooper"
+      "registry_name": "clone_trooper",
+      "path": "~/Entities"
     },
     {
       "name": "CloneTrooperHeavy",
@@ -1798,7 +1976,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_trooper_heavy"
+      "registry_name": "clone_trooper_heavy",
+      "path": "~/Entities"
     },
     {
       "name": "CloneTrooper501st",
@@ -1807,7 +1986,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_trooper_501st"
+      "registry_name": "clone_trooper_501st",
+      "path": "~/Entities"
     },
     {
       "name": "CloneTrooper212th",
@@ -1816,7 +1996,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_trooper_212th"
+      "registry_name": "clone_trooper_212th",
+      "path": "~/Entities"
     },
     {
       "name": "CloneRangefinder",
@@ -1831,7 +2012,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "CloneVisorStandard",
@@ -1846,7 +2028,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "Valken38x",
@@ -1855,7 +2038,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "valken_38x"
+      "registry_name": "valken_38x",
+      "path": "~/Weapons"
     },
     {
       "name": "Valken38xRangedItem",
@@ -1892,7 +2076,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CloneTrooperSniper",
@@ -1901,7 +2086,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_trooper_sniper"
+      "registry_name": "clone_trooper_sniper",
+      "path": "~/Entities"
     },
     {
       "name": "DC17Used",
@@ -1938,7 +2124,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "WallDetailedBottom",
@@ -1947,7 +2134,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_detailed_bottom"
+      "registry_name": "wall_detailed_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "WallDetailedTop",
@@ -1956,7 +2144,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_detailed_top"
+      "registry_name": "wall_detailed_top",
+      "path": "~/Blocks"
     },
     {
       "name": "ThermalDetonator",
@@ -1965,7 +2154,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "thermal_detonator"
+      "registry_name": "thermal_detonator",
+      "path": "~/Weapons"
     },
     {
       "name": "ThermalDetonatorRangedItemUsed",
@@ -1986,7 +2176,8 @@
             "type": "itemstack"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "ThermalDetonatorExplosion",
@@ -2015,7 +2206,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "StarWarsArmour",
@@ -2024,7 +2216,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "star_wars_armour"
+      "registry_name": "star_wars_armour",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "ArmourIcon",
@@ -2033,7 +2226,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "armour_icon"
+      "registry_name": "armour_icon",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "BlastDoorBottomMiddle",
@@ -2042,7 +2236,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_bottom_middle"
+      "registry_name": "blast_door_bottom_middle",
+      "path": "~/Blocks"
     },
     {
       "name": "BlastDoorBottom",
@@ -2051,7 +2246,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_bottom"
+      "registry_name": "blast_door_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "BlastDoorMiddle",
@@ -2060,7 +2256,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_middle"
+      "registry_name": "blast_door_middle",
+      "path": "~/Blocks"
     },
     {
       "name": "BlastDoorTop",
@@ -2069,7 +2266,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_top"
+      "registry_name": "blast_door_top",
+      "path": "~/Blocks"
     },
     {
       "name": "BlastDoorTopMiddle",
@@ -2078,7 +2276,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_top_middle"
+      "registry_name": "blast_door_top_middle",
+      "path": "~/Blocks"
     },
     {
       "name": "DC17M",
@@ -2087,7 +2286,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dc_17_m"
+      "registry_name": "dc_17_m",
+      "path": "~/Weapons"
     },
     {
       "name": "DC17MRangedItemUsed",
@@ -2124,7 +2324,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "Z6RotaryCannonRangedItemUsed",
@@ -2145,7 +2346,8 @@
             "type": "itemstack"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "DualWieldDC17sRangedItemUsed",
@@ -2174,7 +2376,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "ProbeWeaponRepublic",
@@ -2183,7 +2386,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "probe_weapon_republic"
+      "registry_name": "probe_weapon_republic",
+      "path": "~/Weapons"
     },
     {
       "name": "CloneCommandoScorchThisEntityKillsAnotherOne",
@@ -2212,7 +2416,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CloneCommandoScorchOnInitialEntitySpawn",
@@ -2241,7 +2446,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CloneCommandoScorch",
@@ -2250,7 +2456,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_commando_scorch"
+      "registry_name": "clone_commando_scorch",
+      "path": "~/Entities"
     },
     {
       "name": "CloneCommandoSev",
@@ -2259,7 +2466,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_commando_sev"
+      "registry_name": "clone_commando_sev",
+      "path": "~/Entities"
     },
     {
       "name": "CloneCommandoSevThisEntityKillsAnotherOne",
@@ -2288,7 +2496,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CloneCommandoSevOnInitialEntitySpawn",
@@ -2317,7 +2526,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CloneCommandoBoss",
@@ -2326,7 +2536,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_commando_boss"
+      "registry_name": "clone_commando_boss",
+      "path": "~/Entities"
     },
     {
       "name": "CloneCommandoBossThisEntityKillsAnotherOne",
@@ -2355,7 +2566,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CloneCommandoBossOnInitialEntitySpawn",
@@ -2388,7 +2600,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CloneCommandoFixer",
@@ -2397,7 +2610,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_commando_fixer"
+      "registry_name": "clone_commando_fixer",
+      "path": "~/Entities"
     },
     {
       "name": "CloneCommandoFixerThisEntityKillsAnotherOne",
@@ -2426,7 +2640,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CloneCommandoFixerOnInitialEntitySpawn",
@@ -2455,7 +2670,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CircularWallLightWhite",
@@ -2464,7 +2680,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "circular_wall_light_white"
+      "registry_name": "circular_wall_light_white",
+      "path": "~/Blocks"
     },
     {
       "name": "CircularWallLightRed",
@@ -2473,7 +2690,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "circular_wall_light_red"
+      "registry_name": "circular_wall_light_red",
+      "path": "~/Blocks"
     },
     {
       "name": "WallLightTopRed",
@@ -2482,7 +2700,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_light_top_red"
+      "registry_name": "wall_light_top_red",
+      "path": "~/Blocks"
     },
     {
       "name": "WallLightBottomRed",
@@ -2491,7 +2710,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_light_bottom_red"
+      "registry_name": "wall_light_bottom_red",
+      "path": "~/Blocks"
     },
     {
       "name": "ArcTrooper",
@@ -2500,7 +2720,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "arc_trooper"
+      "registry_name": "arc_trooper",
+      "path": "~/Entities"
     },
     {
       "name": "CloneHelmetRangeFinder",
@@ -2515,7 +2736,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "MaulsLightSaber",
@@ -2524,7 +2746,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mauls_light_saber"
+      "registry_name": "mauls_light_saber",
+      "path": "~/Weapons"
     },
     {
       "name": "DualDC17Used",
@@ -2561,7 +2784,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "DC17MSNIPER",
@@ -2570,7 +2794,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dc_17_msniper"
+      "registry_name": "dc_17_msniper",
+      "path": "~/Weapons"
     },
     {
       "name": "DC17MSNIPERRangedItemUsed",
@@ -2591,7 +2816,8 @@
             "type": "itemstack"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "DC17MSniperMagazine",
@@ -2600,7 +2826,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dc_17_m_sniper_magazine"
+      "registry_name": "dc_17_m_sniper_magazine",
+      "path": "~/Items"
     },
     {
       "name": "MaulsLightSaberEntitySwingsItem",
@@ -2633,7 +2860,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "MaulsLightSaberToolInHandTick",
@@ -2666,7 +2894,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "ObiwansLightsaber",
@@ -2675,7 +2904,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "obiwans_lightsaber"
+      "registry_name": "obiwans_lightsaber",
+      "path": "~/Weapons"
     },
     {
       "name": "LightsaberHum",
@@ -2708,7 +2938,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "LightsaberHit",
@@ -2741,7 +2972,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "DC17MGRENADE",
@@ -2750,7 +2982,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dc_17_mgrenade"
+      "registry_name": "dc_17_mgrenade",
+      "path": "~/Weapons"
     },
     {
       "name": "Dc17mgrenadeammo",
@@ -2759,7 +2992,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dc_17mgrenadeammo"
+      "registry_name": "dc_17mgrenadeammo",
+      "path": "~/Procedures"
     },
     {
       "name": "DC17MGRENADERangedItemUsed",
@@ -2780,7 +3014,8 @@
             "type": "itemstack"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "DC17MGRENADEBulletHitsBlock",
@@ -2809,7 +3044,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "Anakinslightsaber",
@@ -2818,7 +3054,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "anakinslightsaber"
+      "registry_name": "anakinslightsaber",
+      "path": "~/Weapons"
     },
     {
       "name": "Medicaldroid2",
@@ -2827,7 +3064,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "medicaldroid_2"
+      "registry_name": "medicaldroid_2",
+      "path": "~/Entities"
     },
     {
       "name": "DedlaniteOre",
@@ -2836,7 +3074,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dedlanite_ore"
+      "registry_name": "dedlanite_ore",
+      "path": "~/Blocks"
     },
     {
       "name": "DedlaniteIngot",
@@ -2845,7 +3084,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dedlanite_ingot"
+      "registry_name": "dedlanite_ingot",
+      "path": "~/Items"
     },
     {
       "name": "DedlaniteOreSmelting",
@@ -2854,7 +3094,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dedlanite_ore_smelting"
+      "registry_name": "dedlanite_ore_smelting",
+      "path": "~/Misc"
     },
     {
       "name": "CodoanCopperIngot",
@@ -2863,7 +3104,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "codoan_copper_ingot"
+      "registry_name": "codoan_copper_ingot",
+      "path": "~/Items"
     },
     {
       "name": "CodoanCopperOre",
@@ -2872,7 +3114,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "codoan_copper_ore"
+      "registry_name": "codoan_copper_ore",
+      "path": "~/Blocks"
     },
     {
       "name": "CodoanCopperOreSmelting",
@@ -2881,7 +3124,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "codoan_copper_ore_smelting"
+      "registry_name": "codoan_copper_ore_smelting",
+      "path": "~/Misc"
     },
     {
       "name": "BlasterComponentsItem",
@@ -2890,7 +3134,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blaster_components_item"
+      "registry_name": "blaster_components_item",
+      "path": "~/Items"
     },
     {
       "name": "BlasterComponents",
@@ -2899,7 +3144,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blaster_components"
+      "registry_name": "blaster_components",
+      "path": "~/Misc"
     },
     {
       "name": "BlueGasDust",
@@ -2908,7 +3154,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blue_gas_dust"
+      "registry_name": "blue_gas_dust",
+      "path": "~/Items"
     },
     {
       "name": "BlueGasOre",
@@ -2917,7 +3164,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blue_gas_ore"
+      "registry_name": "blue_gas_ore",
+      "path": "~/Blocks"
     },
     {
       "name": "BlueGasOreSmelting",
@@ -2926,7 +3174,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blue_gas_ore_smelting"
+      "registry_name": "blue_gas_ore_smelting",
+      "path": "~/Misc"
     },
     {
       "name": "BlueGasCannister",
@@ -2935,7 +3184,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blue_gas_cannister"
+      "registry_name": "blue_gas_cannister",
+      "path": "~/Items"
     },
     {
       "name": "DC15CCraftingRecipe",
@@ -2944,7 +3194,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dc_15_c_crafting_recipe"
+      "registry_name": "dc_15_c_crafting_recipe",
+      "path": "~/Misc"
     },
     {
       "name": "Medicaldroid2OnEntityTickUpdate",
@@ -2977,7 +3228,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CloneCommando",
@@ -2986,7 +3238,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_commando"
+      "registry_name": "clone_commando",
+      "path": "~/Entities"
     },
     {
       "name": "E5Blaster",
@@ -2995,7 +3248,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "e_5_blaster"
+      "registry_name": "e_5_blaster",
+      "path": "~/Weapons"
     },
     {
       "name": "E5BlasterRangedItemUsed",
@@ -3032,7 +3286,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "Backpack",
@@ -3047,7 +3302,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "ArcBackpack",
@@ -3062,7 +3318,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "BossBackpack",
@@ -3077,7 +3334,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "CommandoBackpack",
@@ -3092,7 +3350,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "SevBackpack",
@@ -3107,7 +3366,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "ScorchBackpack",
@@ -3122,7 +3382,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "FixersBackpack",
@@ -3137,7 +3398,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "FixersAntenna",
@@ -3152,7 +3414,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "E5CommandoBlaster",
@@ -3161,7 +3424,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "e_5_commando_blaster"
+      "registry_name": "e_5_commando_blaster",
+      "path": "~/Weapons"
     },
     {
       "name": "E5CommandoBlasterRangedItemUsed",
@@ -3198,7 +3462,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "ArcTrooperRangefinderandFin",
@@ -3213,7 +3478,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "CloneTrooperPhase2FinWhite",
@@ -3228,7 +3494,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "Whitefinandmacroviso",
@@ -3243,7 +3510,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "Whitefinandgrayvisor",
@@ -3258,7 +3526,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "EWHB12",
@@ -3267,7 +3536,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ewhb_12"
+      "registry_name": "ewhb_12",
+      "path": "~/Weapons"
     },
     {
       "name": "Whitefinandrangefinder",
@@ -3282,7 +3552,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "CloneJetpackWhiteBodyTickEvent",
@@ -3319,7 +3590,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CloneJetpackWhite",
@@ -3334,7 +3606,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "VaughnsHelmet",
@@ -3349,7 +3622,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "CaptainVaughn",
@@ -3358,7 +3632,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "captain_vaughn"
+      "registry_name": "captain_vaughn",
+      "path": "~/Entities"
     },
     {
       "name": "SpiderDroid",
@@ -3367,7 +3642,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "spider_droid"
+      "registry_name": "spider_droid",
+      "path": "~/Entities"
     },
     {
       "name": "ComDisplayStandMiddle",
@@ -3376,7 +3652,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "com_display_stand_middle"
+      "registry_name": "com_display_stand_middle",
+      "path": "~/Blocks"
     },
     {
       "name": "ComDisplayStandEdge",
@@ -3385,7 +3662,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "com_display_stand_edge"
+      "registry_name": "com_display_stand_edge",
+      "path": "~/Blocks"
     },
     {
       "name": "SpiderDroidWeapon",
@@ -3394,7 +3672,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "spider_droid_weapon"
+      "registry_name": "spider_droid_weapon",
+      "path": "~/Weapons"
     },
     {
       "name": "SuperBattleDroidJetTrooper",
@@ -3403,7 +3682,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "super_battle_droid_jet_trooper"
+      "registry_name": "super_battle_droid_jet_trooper",
+      "path": "~/Entities"
     },
     {
       "name": "SuperBattleDroidJetTrooperOnEntityTickUpdate",
@@ -3432,7 +3712,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "BuzzDroidSwarm",
@@ -3465,7 +3746,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "BuzzDroidGui",
@@ -3474,7 +3756,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "buzz_droid_gui"
+      "registry_name": "buzz_droid_gui",
+      "path": "~/Misc"
     },
     {
       "name": "Buzzdroid",
@@ -3483,7 +3766,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "buzzdroid"
+      "registry_name": "buzzdroid",
+      "path": "~/Blocks"
     },
     {
       "name": "MaulsHorns",
@@ -3498,7 +3782,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "BuzzDroidMobOnInitialEntitySpawn",
@@ -3527,7 +3812,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "BuzzDroidMob",
@@ -3536,7 +3822,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "buzz_droid_mob"
+      "registry_name": "buzz_droid_mob",
+      "path": "~/Entities"
     },
     {
       "name": "CloneJetpackLargeBlue",
@@ -3551,7 +3838,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "CloneJettrooper",
@@ -3560,7 +3848,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_jettrooper"
+      "registry_name": "clone_jettrooper",
+      "path": "~/Entities"
     },
     {
       "name": "Viroblade",
@@ -3569,7 +3858,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "viroblade"
+      "registry_name": "viroblade",
+      "path": "~/Weapons"
     },
     {
       "name": "VirobladeSwingf",
@@ -3598,7 +3888,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "VirobladeLivingEntityIsHitWithTool",
@@ -3627,7 +3918,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CodysHelmet",
@@ -3642,7 +3934,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "JetpackandAntenna",
@@ -3657,7 +3950,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "CodysJetpack",
@@ -3672,7 +3966,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "VaughnsJetpack",
@@ -3687,7 +3982,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "AmmoBag",
@@ -3702,7 +3998,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "AmmoBagAndBackpack",
@@ -3717,7 +4014,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "CloneTrooperHelmetProp",
@@ -3726,7 +4024,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_trooper_helmet_prop"
+      "registry_name": "clone_trooper_helmet_prop",
+      "path": "~/Blocks"
     },
     {
       "name": "CloneTrooperGrave",
@@ -3735,7 +4034,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_trooper_grave"
+      "registry_name": "clone_trooper_grave",
+      "path": "~/Blocks"
     },
     {
       "name": "CloneTrooperKillsAnotherOne",
@@ -3764,7 +4064,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "ArcTrooperKillsAnotherOne",
@@ -3793,7 +4094,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "SuperBattleDroidKillsAnotherOne",
@@ -3822,7 +4124,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "BattleDroidKillsAnotherOne",
@@ -3851,7 +4154,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "NavalOfficerKillsAnotherOne",
@@ -3880,7 +4184,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "Droideka",
@@ -3889,7 +4194,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "droideka"
+      "registry_name": "droideka",
+      "path": "~/Entities"
     },
     {
       "name": "DestroyerDroidLaser",
@@ -3898,7 +4204,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "destroyer_droid_laser"
+      "registry_name": "destroyer_droid_laser",
+      "path": "~/Weapons"
     },
     {
       "name": "CommandoDroidKillsAnotherOne",
@@ -3927,7 +4234,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CommandoDroid",
@@ -3936,7 +4244,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "commando_droid"
+      "registry_name": "commando_droid",
+      "path": "~/Entities"
     },
     {
       "name": "CommandoDroidEntityFalls",
@@ -3965,7 +4274,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "CommandoDroidSoldier",
@@ -3974,7 +4284,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "commando_droid_soldier"
+      "registry_name": "commando_droid_soldier",
+      "path": "~/Entities"
     },
     {
       "name": "ATRT",
@@ -3983,7 +4294,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "atrt"
+      "registry_name": "atrt",
+      "path": "~/Entities"
     },
     {
       "name": "ATRTRightClickedOnEntity",
@@ -4016,7 +4328,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "ATRTBlasterRangedItemUsed",
@@ -4053,7 +4366,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "ATRTBlaster",
@@ -4062,7 +4376,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "atrt_blaster"
+      "registry_name": "atrt_blaster",
+      "path": "~/Weapons"
     },
     {
       "name": "VehicleBlasterATRTOnKeyPressed",
@@ -4079,7 +4394,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "VehicleBlasterATRT",
@@ -4088,7 +4404,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "vehicle_blaster_atrt"
+      "registry_name": "vehicle_blaster_atrt",
+      "path": "~/Misc"
     },
     {
       "name": "ATRTRIDING",
@@ -4105,7 +4422,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "EWEBBlaster",
@@ -4114,7 +4432,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "eweb_blaster"
+      "registry_name": "eweb_blaster",
+      "path": "~/Weapons"
     },
     {
       "name": "Ewebused",
@@ -4151,7 +4470,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "FlightTest7",
@@ -4168,7 +4488,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "RG4D",
@@ -4177,7 +4498,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "rg_4_d"
+      "registry_name": "rg_4_d",
+      "path": "~/Weapons"
     },
     {
       "name": "RG4DRangedItemUsed",
@@ -4214,7 +4536,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "PauldronLeftSide",
@@ -4229,7 +4552,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "PauldronLeftSideWithAmmoPouch",
@@ -4244,7 +4568,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "REXSPAULDRON",
@@ -4259,7 +4584,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "Pauldronbothwithammopouch",
@@ -4274,7 +4600,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "CourscantGuardPhase2Fin",
@@ -4289,7 +4616,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "CloneTrooperPhase2332NDfIN",
@@ -4304,7 +4632,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "BluefinAndrangefinder",
@@ -4319,7 +4648,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "FivesPauldron",
@@ -4334,7 +4664,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "FIVES",
@@ -4343,7 +4674,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "fives"
+      "registry_name": "fives",
+      "path": "~/Entities"
     },
     {
       "name": "E5C",
@@ -4352,7 +4684,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "e_5_c"
+      "registry_name": "e_5_c",
+      "path": "~/Weapons"
     },
     {
       "name": "E5CRangedItemUsed",
@@ -4389,7 +4722,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "Clonetrooperwithrocket",
@@ -4398,7 +4732,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clonetrooperwithrocket"
+      "registry_name": "clonetrooperwithrocket",
+      "path": "~/Entities"
     },
     {
       "name": "BattleDroidCommander",
@@ -4407,7 +4742,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "battle_droid_commander"
+      "registry_name": "battle_droid_commander",
+      "path": "~/Entities"
     },
     {
       "name": "E5SRangedItemUsed",
@@ -4444,7 +4780,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "E5S",
@@ -4453,7 +4790,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "e_5_s"
+      "registry_name": "e_5_s",
+      "path": "~/Weapons"
     },
     {
       "name": "GeonosianFlyer",
@@ -4462,7 +4800,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "geonosian_flyer"
+      "registry_name": "geonosian_flyer",
+      "path": "~/Entities"
     },
     {
       "name": "GeonosianBlaster",
@@ -4471,7 +4810,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "geonosian_blaster"
+      "registry_name": "geonosian_blaster",
+      "path": "~/Weapons"
     },
     {
       "name": "GeonosianBezerker",
@@ -4480,7 +4820,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "geonosian_bezerker"
+      "registry_name": "geonosian_bezerker",
+      "path": "~/Entities"
     },
     {
       "name": "LAATRailing",
@@ -4489,7 +4830,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "laat_railing"
+      "registry_name": "laat_railing",
+      "path": "~/Blocks"
     },
     {
       "name": "ExplosiveShell",
@@ -4498,7 +4840,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "explosive_shell"
+      "registry_name": "explosive_shell",
+      "path": "~/Weapons"
     },
     {
       "name": "ExplosiveShellRack",
@@ -4507,7 +4850,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "explosive_shell_rack"
+      "registry_name": "explosive_shell_rack",
+      "path": "~/Blocks"
     },
     {
       "name": "ClonePilotInSeat",
@@ -4516,7 +4860,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "clone_pilot_in_seat"
+      "registry_name": "clone_pilot_in_seat",
+      "path": "~/Blocks"
     },
     {
       "name": "FlightSeat",
@@ -4525,7 +4870,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "flight_seat"
+      "registry_name": "flight_seat",
+      "path": "~/Blocks"
     },
     {
       "name": "ExplosiveShellExplode",
@@ -4554,7 +4900,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "FlameThrower",
@@ -4563,7 +4910,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "flame_thrower"
+      "registry_name": "flame_thrower",
+      "path": "~/Weapons"
     },
     {
       "name": "FlameThrowerBulletHitsBlock",
@@ -4580,7 +4928,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "LR1KSonicCannon",
@@ -4589,7 +4938,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "lr_1_k_sonic_cannon"
+      "registry_name": "lr_1_k_sonic_cannon",
+      "path": "~/Entities"
     },
     {
       "name": "LR1KSonicCannonShot",
@@ -4598,7 +4948,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "lr_1_k_sonic_cannon_shot"
+      "registry_name": "lr_1_k_sonic_cannon_shot",
+      "path": "~/Weapons"
     },
     {
       "name": "J10DualBlasterCannon",
@@ -4607,7 +4958,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "j_10_dual_blaster_cannon"
+      "registry_name": "j_10_dual_blaster_cannon",
+      "path": "~/Entities"
     },
     {
       "name": "J10DualBlasterCannonShot",
@@ -4616,7 +4968,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "j_10_dual_blaster_cannon_shot"
+      "registry_name": "j_10_dual_blaster_cannon_shot",
+      "path": "~/Weapons"
     },
     {
       "name": "UndeadGeonosian",
@@ -4625,7 +4978,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "undead_geonosian"
+      "registry_name": "undead_geonosian",
+      "path": "~/Entities"
     },
     {
       "name": "Acklay",
@@ -4634,7 +4988,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "acklay"
+      "registry_name": "acklay",
+      "path": "~/Entities"
     },
     {
       "name": "FlameThrowerWhileBulletFlyingTick",
@@ -4663,7 +5018,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "BridgeDoorMidBottom",
@@ -4672,7 +5028,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_door_mid_bottom"
+      "registry_name": "bridge_door_mid_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeDoorMidTop",
@@ -4681,7 +5038,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_door_mid_top"
+      "registry_name": "bridge_door_mid_top",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeDoorSideBottom",
@@ -4690,7 +5048,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_door_side_bottom"
+      "registry_name": "bridge_door_side_bottom",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeDoorSideTop",
@@ -4699,7 +5058,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_door_side_top"
+      "registry_name": "bridge_door_side_top",
+      "path": "~/Blocks"
     },
     {
       "name": "BridgeDoorSideTest",
@@ -4708,7 +5068,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "bridge_door_side_test"
+      "registry_name": "bridge_door_side_test",
+      "path": "~/Blocks"
     },
     {
       "name": "Lr57fire",
@@ -4717,7 +5078,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "lr_57fire"
+      "registry_name": "lr_57fire",
+      "path": "~/Weapons"
     },
     {
       "name": "LR57CombatDroid",
@@ -4726,7 +5088,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "lr_57_combat_droid"
+      "registry_name": "lr_57_combat_droid",
+      "path": "~/Entities"
     },
     {
       "name": "SenateCommandoPauldron",
@@ -4741,7 +5104,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "SenateCommandoFin",
@@ -4756,7 +5120,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "SenateCommandoCaptainFin",
@@ -4771,7 +5136,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "SenateCommando",
@@ -4780,7 +5146,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "senate_commando"
+      "registry_name": "senate_commando",
+      "path": "~/Entities"
     },
     {
       "name": "SenateCommandoCaptainPauldron",
@@ -4795,7 +5162,8 @@
         "el": false,
         "eb": false,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "SenateCommandoCaptain",
@@ -4804,7 +5172,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "senate_commando_captain"
+      "registry_name": "senate_commando_captain",
+      "path": "~/Entities"
     },
     {
       "name": "STAP",
@@ -4813,7 +5182,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stap"
+      "registry_name": "stap",
+      "path": "~/Entities"
     },
     {
       "name": "VehicleWeaponHint",
@@ -4830,7 +5200,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "StapFire",
@@ -4839,7 +5210,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stap_fire"
+      "registry_name": "stap_fire",
+      "path": "~/Weapons"
     },
     {
       "name": "AquaDroid",
@@ -4848,7 +5220,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "aqua_droid"
+      "registry_name": "aqua_droid",
+      "path": "~/Entities"
     },
     {
       "name": "AquaDroidWeapon",
@@ -4857,7 +5230,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "aqua_droid_weapon"
+      "registry_name": "aqua_droid_weapon",
+      "path": "~/Weapons"
     },
     {
       "name": "SiesmicCharge",
@@ -4866,7 +5240,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "siesmic_charge"
+      "registry_name": "siesmic_charge",
+      "path": "~/Blocks"
     },
     {
       "name": "SiesmicChargeExplosion",
@@ -4895,7 +5270,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "HoldingWeaponProcedure",
@@ -4916,7 +5292,8 @@
             "type": "playerModel"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "MagnaGuard",
@@ -4925,7 +5302,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "magna_guard"
+      "registry_name": "magna_guard",
+      "path": "~/Entities"
     },
     {
       "name": "MagnaGuardThisEntityKillsAnotherOne",
@@ -4954,7 +5332,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "MagnaGuardOnInitialEntitySpawn",
@@ -4983,7 +5362,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "MagnaguarweaponToolInHandTick",
@@ -5012,7 +5392,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "Magnaguarweapon",
@@ -5021,7 +5402,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "magnaguarweapon"
+      "registry_name": "magnaguarweapon",
+      "path": "~/Weapons"
     },
     {
       "name": "MagnaguarweaponEntitySwingsItem",
@@ -5050,7 +5432,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Procedures"
     },
     {
       "name": "RepublicIcon",
@@ -5059,7 +5442,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "republic_icon"
+      "registry_name": "republic_icon",
+      "path": "~/Items"
     },
     {
       "name": "RepublicAI",
@@ -5068,7 +5452,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "republic_ai"
+      "registry_name": "republic_ai",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "SepratistIcon",
@@ -5077,7 +5462,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sepratist_icon"
+      "registry_name": "sepratist_icon",
+      "path": "~/Items"
     },
     {
       "name": "SepratistAI",
@@ -5086,7 +5472,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sepratist_ai"
+      "registry_name": "sepratist_ai",
+      "path": "~/Creative Tabs"
     },
     {
       "name": "CloneReinforcedHelmet",
@@ -5101,7 +5488,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "HelmetFlashlight",
@@ -5116,7 +5504,8 @@
         "el": false,
         "eb": false,
         "ec": false
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "Heal",
@@ -5125,7 +5514,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "heal"
+      "registry_name": "heal",
+      "path": "~/Misc"
     },
     {
       "name": "BlastDoorBottomClosed",
@@ -5134,7 +5524,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_bottom_closed"
+      "registry_name": "blast_door_bottom_closed",
+      "path": "~/Blocks"
     },
     {
       "name": "BlastDoorTopClosed",
@@ -5143,7 +5534,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_top_closed"
+      "registry_name": "blast_door_top_closed",
+      "path": "~/Blocks"
     },
     {
       "name": "BlastDoorMiddleClosed",
@@ -5152,7 +5544,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_middle_closed"
+      "registry_name": "blast_door_middle_closed",
+      "path": "~/Blocks"
     },
     {
       "name": "BlastDoorBlock",
@@ -5161,7 +5554,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_block"
+      "registry_name": "blast_door_block",
+      "path": "~/Blocks"
     },
     {
       "name": "BlastDoorBottomMiddleClosed",
@@ -5170,7 +5564,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_bottom_middle_closed"
+      "registry_name": "blast_door_bottom_middle_closed",
+      "path": "~/Blocks"
     },
     {
       "name": "BlastDoorTopMiddleClosed",
@@ -5179,10 +5574,200 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blast_door_top_middle_closed"
+      "registry_name": "blast_door_top_middle_closed",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "NeutralFactionOverlay",
+      "type": "overlay",
+      "sortid": 458,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neutral_faction_overlay",
+      "path": "~/Misc"
+    },
+    {
+      "name": "RepublicFactionOverlay",
+      "type": "overlay",
+      "sortid": 459,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "republic_faction_overlay",
+      "path": "~/Misc"
+    },
+    {
+      "name": "SepratistFactionOverlay",
+      "type": "overlay",
+      "sortid": 460,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sepratist_faction_overlay",
+      "path": "~/Misc"
+    },
+    {
+      "name": "NeutralFactionCondition",
+      "type": "procedure",
+      "sortid": 461,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neutral_faction_condition",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "RepublicFactionCondition",
+      "type": "procedure",
+      "sortid": 462,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "republic_faction_condition",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "SepratistFactionCondition",
+      "type": "procedure",
+      "sortid": 463,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sepratist_faction_condition",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "RepublicFactionBlockOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 464,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "republic_faction_block_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "RepublicFactionBlock",
+      "type": "block",
+      "sortid": 464,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "republic_faction_block",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SepratistFactionBlock",
+      "type": "block",
+      "sortid": 465,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sepratist_faction_block",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SepratistFactionBlockOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 466,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sepratist_faction_block_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "Republicfactiontest",
+      "type": "livingentity",
+      "sortid": 467,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "republicfactiontest",
+      "path": "~/Entities"
+    },
+    {
+      "name": "SepratistFactionTest",
+      "type": "livingentity",
+      "sortid": 468,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sepratist_faction_test",
+      "path": "~/Entities"
+    },
+    {
+      "name": "AttackRepublic",
+      "type": "procedure",
+      "sortid": 469,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "attack_republic",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
     }
   ],
-  "variable_elements": [],
+  "variable_elements": [
+    {
+      "name": "Faction",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    }
+  ],
   "sound_elements": [
     {
       "name": "gonkgonk",
@@ -6518,6 +7103,7 @@
       "block.starwarsmod.metal_block_bolted_vertical": "Metal Block Bolted Vertical",
       "block.java_test.bridge_window_slab": "Bridge Window Slab",
       "itemGroup.tabstar_wars_blocks": "Star Wars Blocks",
+      "entity.starwarsmod.sepratist_faction_test": "Sepratiatfactiontest",
       "item.starwarsmod.whitefinandrangefinder_helmet": "White fin and rangefinder ",
       "item.java_test.clone_trooper_332nd_spawn_egg": "Clone Trooper 332nd Spawn Egg",
       "item.starwarsmod.helmet_flashlight_chestplate": "Helmet Flashlight Body",
@@ -6828,6 +7414,7 @@
       "item.starwarsmod.super_battle_droid_jet_trooper_spawn_egg": "Super Battle Droid Jet Trooper Spawn Egg",
       "block.starwarsmod.wall_detailed_top": "Wall Detailed Top",
       "item.starwarsmod.backpack_boots": "Backpack Boots",
+      "entity.starwarsmod.republicfactiontest": "Republicfactiontest",
       "item.starwarsmod.sev_backpack_leggings": "Backpack Leggings",
       "item.starwarsmod.clone_helmet_range_finder_chestplate": "Clone Helmet Range Finder Body",
       "item.starwarsmod.senate_commando_captain_pauldron_leggings": "Senate Commando Pauldron Leggings",
@@ -6899,6 +7486,7 @@
       "item.starwarsmod.anakinslightsaber": "Anakin\u0027s Lightsaber",
       "entity.starwarsmod.fives": "Fives",
       "item.java_test.goldie_spawn_egg": "Goldie Spawn Egg",
+      "block.starwarsmod.sepratist_faction_block": "Sepratist Faction Block",
       "subtitles.flamethroweron": "",
       "subtitles.obiwan_defeat": "",
       "block.starwarsmod.triangle_2x_1_straight_smooth_stone": "Triangle 2x1 Straight Smooth Stone",
@@ -6918,6 +7506,7 @@
       "subtitles.maulswing1": "",
       "block.starwarsmod.wall_light_top_red": "Wall Light Top Red",
       "item.starwarsmod.rg_4_d": "RG-4D",
+      "item.starwarsmod.republicfactiontest_spawn_egg": "Republicfactiontest Spawn Egg",
       "block.starwarsmod.blue_light": "Blue Light",
       "item.starwarsmod.goldie_spawn_egg": "Goldie Spawn Egg",
       "item.starwarsmod.clone_reinforced_helmet_chestplate": "Clone Reinforced Helmet Body",
@@ -6967,6 +7556,7 @@
       "subtitles.dc17mreload": "",
       "block.java_test.triangle_2x_1": "Triangle 2x1 Stone",
       "entity.starwarsmod.clone_trooper_sniper": "Clone Trooper Sniper",
+      "block.starwarsmod.republic_faction_block": "Republic Faction Block",
       "block.starwarsmod.bridge_window_slab_slope": "Bridge Window Slab Slope",
       "block.java_test.emergency_wall_light_bottom": "Wall Light Bottom Red",
       "block.starwarsmod.triangle_2x_1_down": "Triangle 2x 1 Down Stone",
@@ -6980,6 +7570,7 @@
       "subtitles.dc15coverheat": "",
       "block.starwarsmod.red_light": "Red Light",
       "item.starwarsmod.clone_helmet_range_finder_boots": "Clone Helmet Range Finder Boots",
+      "item.starwarsmod.sepratist_faction_test_spawn_egg": "Sepratiatfactiontest Spawn Egg",
       "block.java_test.ceiling_light_goes_above_wall_light": "Ceiling Light Edge",
       "block.starwarsmod.metal_piple_large_red": "Metal Piple Large Red",
       "item.starwarsmod.fixers_backpack_chestplate": "Fixer\u0027s Backpack",
@@ -7260,6 +7851,26 @@
       },
       {
         "name": "Weapons",
+        "children": []
+      },
+      {
+        "name": "Armour",
+        "children": []
+      },
+      {
+        "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "Creative Tabs",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Misc",
         "children": []
       }
     ]

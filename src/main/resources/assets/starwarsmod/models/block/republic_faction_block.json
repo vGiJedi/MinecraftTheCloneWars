@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "starwarsmod:blocks/republicfactionblock",
+    "up": "starwarsmod:blocks/republicfactionblock",
+    "north": "starwarsmod:blocks/republicfactionblock",
+    "east": "starwarsmod:blocks/republicfactionblock",
+    "south": "starwarsmod:blocks/republicfactionblock",
+    "west": "starwarsmod:blocks/republicfactionblock",
+    "particle": "starwarsmod:blocks/republicfactionblock"
+  }
+}
